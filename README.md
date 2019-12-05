@@ -9,3 +9,9 @@ conda create -n Scripting-tool python=3
 source activate Scripting-tool
 pip install -r requirement.txt
 ```
+>Step 3, bwa project is to perform a pan-genome comparison of the packages that need to be installed
+
+'''
+conda install -c conda-forge -c bioconda -c defaults prokka
+conda install install roary
+'''
