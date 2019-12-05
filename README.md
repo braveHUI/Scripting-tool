@@ -11,7 +11,12 @@ pip install -r requirement.txt
 ```
 >Step 3, bwa project is to perform a pan-genome comparison of the packages that need to be installed
 
-'''
+```Bash
 conda install -c conda-forge -c bioconda -c defaults prokka
 conda install install roary
-'''
+```
+>Step 4, install taxonkit: 
+
+```Bash
+conda activate taxonkit
+```
