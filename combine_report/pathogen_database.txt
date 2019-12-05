@@ -1,0 +1,1101 @@
+﻿latin	name	Type	blood	blood_reference	sputum	sputum_reference	CSF	CSF_reference	urine	urine_reference
+Streptococcus_pneumoniae	肺炎链球菌	bacteria	人体口咽部常携带该菌，是社区获得性肺炎的主要病因，主要引起大叶性肺炎和支气管炎，可继发中耳炎、鼻窦炎、脑膜炎、心内膜炎和菌血症等。	van de Beek D, de Gans J, Tunkel AR, et al. Community-Acquired Bacterial Meningitis in Adults. New England Journal of Medicine. 2006 Jan 5; 354 (1): 44–53.	none	none	none	none	none	none
+Streptococcus_oralis	口腔链球菌	bacteria	机会致病菌，常见感染是细菌性心内膜炎、呼吸窘迫综合征，有报道可引起新生儿脑膜炎。	Poi BN, Pasupulety Venkata NK, Auckland CR, et al. Neonatal meningitis and maternal sepsis caused by Streptococcus oralis. J Neonatal Perinatal Med.2018; 11(3):331-334.	none	none	none	none	none	none
+Streptococcus_mitis	轻型链球菌	bacteria	常见于咽喉、鼻咽和口腔，可引起感染性心内膜炎。	Lamas CC, Eykyn SJ. Blood culture negative endocarditis: Analysis of 63 cases presenting over 25 years. Heart. 2003 Mar; 89 (3): 258–262.	none	none	none	none	none	none
+Streptococcus_gallolyticus	解没食子酸链球菌	bacteria	又称牛链球菌，常定殖在人体的肠道、胆道和泌尿生殖道，可引起尿路感染、化脓性腹部感染、心内膜炎、败血症和新生儿脑膜炎等。	Corredoira-Sánchez J, García-Garrote F, Rabuñal R, et al. Association between bacteremia due to Streptococcus gallolyticus subsp. gallolyticus (Streptococcus bovis I) and colorectal neoplasia: a case-control study. Clin Infect Dis. 2012 Aug; 55(4): 491-6.	none	none	none	none	none	none
+Streptococcus_parasanguinis	副血链球菌	bacteria	牙齿表面定殖菌，有报道可引起心内膜炎和肺部病变。	Miyamoto H, Gomi H, Ishioka H, et al. A Patient with a Wedge-shaped Pulmonary Lesion Associated with Streptococcus parasanguinis. Kansenshogaku Zasshi.  2016 May; 90(3): 316-20.	none	none	none	none	none	none
+Streptococcus_gordonii	戈登链球菌	bacteria	口腔常见细菌，一般无致病性或致病性较弱，有报道可引起脊柱炎和心内膜炎。	Dadon Z, Cohen A, Szterenlicht Y M, et al. Spondylodiskitis and endocarditis due to Streptococcus gordonii. Ann Clin Microbiol Antimicrob. 2017 Oct 4; 16(1): 68.	none	none	none	none	none	none
+Streptococcus_pyogenes	化脓性链球菌	bacteria	又称A群链球菌，可引起人体多种疾病，如咽炎、呼吸道感染、皮肤感染（脓疱、丹毒）、软组织感染、心内膜炎、脑膜炎、产褥热、关节炎、猩红热、中毒性休克综合征、风湿热和急性肾小球等。	Ochi F, Tauchi H, Jogamoto T, et al. Sepsis and Pleural Empyema Caused by Streptococcus pyogenes after Influenza A Virus Infection. Case Rep Pediatr. 2018 Sep 23; 2018: 4509847.	none	none	none	none	none	none
+Streptococcus_agalactiae	无乳链球菌	bacteria	又称B群链球菌，是新生儿败血症、脑膜炎、肺炎的常见病原菌，其正常定殖在妇女的生殖道，带菌率可达30%左右，当分娩时胎儿经过带菌产道时受感染。该菌对成人的侵袭力较弱，当人体免疫功能低下时，可引起菌血症、骨髓炎、肾盂肾炎、子宫内膜炎、皮肤和软组织感染等。	左右，当分娩是胎儿经过带菌产道时受感染。该菌对成人的侵袭力较弱，当人体免疫功能低下时，可引起菌血症、骨髓炎、肾盂肾炎、子宫内膜炎、皮肤和软组织感染等。	Edmond KM, Kortsalioudaki C, Scott S, et al. Group B streptococcal disease in infants aged younger than 3 months: systematic review and meta-analysis. Lancet. 2012 Feb 11; 379(9815): 547-56.	none	none	none	none	none	none
+Streptococcus_infantis	婴儿链球菌	bacteria	none	none	none	none	none	none	none	none
+Streptococcus_australis	澳大利亚链球菌	bacteria	可从口腔中分离得到，有报道可引起囊性纤维化、脑膜炎等。	none	none	none	none	none	none	none
+Streptococcus_peroris	泛口腔链球菌	bacteria	none	none	none	none	none	none	none	none
+Streptococcus_thermophilus	嗜热链球菌	bacteria	none	none	none	none	none	none	none	none
+Peptostreptococcus_stomatis	胃消化链球菌	bacteria	none	none	none	none	none	none	none	none
+Streptococcus_constellatus	星座链球菌	bacteria	none	none	none	none	none	none	none	none
+Streptococcus_oligofermentans	寡发酵链球菌	bacteria	口腔正常菌群，机会致病菌，有报道可引起感染性心内膜炎和脓肿等。	none	none	none	none	none	none	none
+Streptococcus_orisratti	鼠口腔链球菌	bacteria	none	none	none	none	none	none	none	none
+Streptococcus_sanguinis	血链球菌	bacteria	口腔常见菌群，可通过口腔手术进入血液，是引起细菌性心内膜炎常见的病原体。	Paik S, Senty L, Das S, et al. Identification of virulence determinants for endocarditis in Streptococcus sanguinis by signature-tagged mutagenesis. Infect Immun. 2005 Sep; 73(9): 6064-74.	none	none	none	none	none	none
+Acinetobacter_baumannii	鲍曼不动杆菌	bacteria	机会致病菌，是医院感染的重要病原菌，常见感染包括呼吸道感染、尿路感染、皮肤和伤口感染、心内膜炎、脑膜炎和败血症等。	Antunes LC, Visca P, Towner KJ. Acinetobacter baumannii: evolution of a global pathogen. Pathog Dis. 2014 Aug; 71(3): 292-301.	none	none	none	none	none	none
+Acinetobacter_calcoaceticus	乙酸钙不动杆菌	bacteria	机会致病菌，免疫力低下的情况下可引起感染如呼吸道感染、尿路感染、皮肤感染、伤口感染、心内膜炎、脑膜炎和败血症等。	De Vos D, Pirnay JP, Bilocq F, et al. Molecular Epidemiology and Clinical Impact of Acinetobacter calcoaceticus-baumannii Complex in a Belgian Burn Wound Center. PLoS One. 2016 May 25; 11(5): e0156237.	none	none	none	none	none	none
+Acinetobacter_junii	琼氏不动杆菌	bacteria	机会致病菌，与院内感染有关，常见感染有导管相关的血流感染和蜂窝织炎，有报道其还可引起败血症、角膜溃疡。	Henao-Martínez AF, González-Fontal GR, Johnson S. A case of community-acquired Acinetobacter junii-johnsonii cellulitis. Biomedica. 2012 Jun; 32(2): 179-81.	none	none	none	none	none	none
+Acinetobacter_lwoffii	洛菲不动杆菌	bacteria	洛菲不动杆菌是正常皮肤菌群，为机会致病菌，特别是在免疫缺陷患者中引起导管相关性感染，可引起菌血症、肠胃炎和腹膜炎等。	Regalado NG, Martin G, Antony SJ. Acinetobacter lwoffii: bacteremia associated with acute gastroenteritis. Travel Med Infect Dis. 2009 Sep; 7(5): 316-7.	none	none	none	none	none	none
+Acinetobacter_haemolyticus	溶血不动杆菌	bacteria	机会致病菌，肠道中某些特定菌株可产生志贺毒素，引起血性腹泻。有报道与血性腹泻有关。	Grotiuz G, Sirok A, Gadea P, et al. Shiga toxin 2-producing Acinetobacter haemolyticus associated with a case of bloody diarrhea. J Clin Microbiol. 2006 Oct; 44(10): 3838-41.	none	none	none	none	none	none
+Acinetobacter_johnsonii	约氏不动杆菌	bacteria	none	none	none	none	none	none	none	none
+Acinetobacter_parvus	细小不动杆菌	bacteria	none	none	none	none	none	none	none	none
+Acinetobacter_tjernbergiae	谢氏不动杆菌	bacteria	none	none	none	none	none	none	none	none
+Acinetobacter_schindleri	申氏不动杆菌	bacteria	none	none	none	none	none	none	none	none
+Acinetobacter_towneri	汤氏不动杆菌	bacteria	none	none	none	none	none	none	none	none
+Burkholderia_cenocepacia	新洋葱伯克霍尔德菌	bacteria	机会致病菌，通常引起囊性纤维化和慢性肉芽肿病，在囊性纤维化患者中，可导致“洋葱伯克氏菌综合症”，表现为发烧，支气管肺炎，体重减轻等。	Drevinek P, Mahenthiralingam E. Burkholderia cenocepacia in cystic fibrosis: epidemiology and molecular mechanisms of virulence. Clin Microbiol Infect. 2010 Jul; 16(7): 821-30.	none	none	none	none	none	none
+Burkholderia_cepacia	洋葱伯克霍尔德菌	bacteria	院内感染的病原菌，主要引起菌血症、尿路感染、化脓性关节炎、脑膜炎和呼吸道感染，还可引起遗传性囊性纤维化和慢性肉芽肿患者的感染。	Mahenthiralingam E, Urban TA, Goldberg JB. The multifarious, multireplicon Burkholderia cepacia complex. Nat Rev Microbiol. 2005 Feb; 3(2): 144-56.	none	none	none	none	none	none
+Burkholderia_pseudomallei	类鼻疽伯克霍尔德菌	bacteria	类鼻疽的病原菌，可通过吸入或损伤的皮肤与污染的水或土壤接触而感染，引起脓毒症。网状内皮组织（如肺、肝、脾和淋巴结）脓肿以及皮肤、软组织、关节和骨的脓肿。	Wuthiekanun V, Peacock SJ. Management of melioidosis. Expert Rev Anti Infect Ther. 2006 Jun; 4(3): 445-55.	none	none	none	none	none	none
+Burkholderia_mallei	鼻疽伯克霍尔德菌	bacteria	动物（主要是马、骡和驴）的转型定殖菌，引起动物的鼻疽病，少数情况下可通过人皮肤磨损传播给人。	Whitlock GC, Estes DM, Torres AG. Glanders: off to the races with Burkholderia mallei. FEMS Microbiol Lett. 2007 Dec; 277(2): 115-22.	none	none	none	none	none	none
+Burkholderia_gladioli	唐菖蒲伯克霍尔德菌	bacteria	机会致病菌，是院内感染的重要病原体，在囊性纤维化患者中可引起严重的肺部感染，也可引起肉芽肿病患者和免疫损伤患者感染。	Stoyanova M, Pavlina I, Moncheva P.  Biodiversity and Incidence of Burkholderia Species. Biotechnology  Biotechnological Equipment. 2014 Apr; 21 (3): 306–310.	none	none	none	none	none	none
+Burkholderia_thailandensis	泰国伯克霍尔德菌	bacteria	很少在人类或动物中引起疾病，有报道可引起类鼻疽，临床表现为败血症、肺部感染等。	Dance DAB, Sarovich D, Price EP, et al. Human Infection with Burkholderia thailandensis, China, 2013. Emerg Infect Dis. 2018 May; 24(5): 953-954.	none	none	none	none	none	none
+Burkholderia_multivorans	多噬伯克霍尔德菌	bacteria	感染可引起菌血症、脑膜炎等。	Ho SSC, Nashid N, Waters VJ, et al. Burkholderia multivorans septicemia in a pediatric liver transplant patient. Am J Transplant. 2018 Aug 9.	none	none	none	none	none	none
+Burkholderia_glumae	荚壳伯克霍尔德菌	bacteria	none	none	none	none	none	none	none	none
+Burkholderia_sprentiae	伯克霍尔德菌	bacteria	none	none	none	none	none	none	none	none
+Burkholderia_oxyphila	伯克霍尔德菌	bacteria	none	none	none	none	none	none	none	none
+Eubacterium_brachy	短真杆菌	bacteria	有引起肺部脓肿的报道。	Yamakawa H, Hagiwara E, Hayashi M, et al. A case of relapsed lung abscess caused by Eubacterium brachy infection following an initial diagnosis of pulmonary actinomycosis. Respir Med Case Rep. 2017 Aug 17; 22: 171-174.	none	none	none	none	none	none
+Eubacterium_lentum	迟钝真杆菌	bacteria	有引起皮肤脓肿、脑膜炎等疾病的报道。	Lattuada E, Zorzi A, Lanzafame M, et al. Cutaneous abscess due to Eubacterium lentum in injection drug user: a case report and review of the literature. J Infect. 2005 Aug; 51(2): E71-2.	none	none	none	none	none	none
+Eubacterium_limosum	黏液真杆菌	bacteria	none	none	none	none	none	none	none	none
+Eubacterium_saphenum	隐藏真杆菌	bacteria	none	none	none	none	none	none	none	none
+Eubacterium_nodatum	纠缠真杆菌	bacteria	none	none	none	none	none	none	none	none
+Eubacterium_ramulus	细枝真杆菌	bacteria	none	none	none	none	none	none	none	none
+Eubacterium_rectale	直肠真杆菌	bacteria	none	none	none	none	none	none	none	none
+Eubacterium_aerofaciens	产气真杆菌	bacteria	none	none	none	none	none	none	none	none
+Eubacterium_alactolyticum	不解乳真杆菌	bacteria	none	none	none	none	none	none	none	none
+Eubacterium_contortum	扭曲真杆菌	bacteria	none	none	none	none	none	none	none	none
+Eubacterium_moniliforme	念珠真杆菌	bacteria	none	none	none	none	none	none	none	none
+Eubacterium_tenue	纤细真杆菌	bacteria	none	none	none	none	none	none	none	none
+Eubacterium_timidum	胆怯真杆菌	bacteria	none	none	none	none	none	none	none	none
+Eubacterium_ventriosum	凸腹真杆菌	bacteria	none	none	none	none	none	none	none	none
+Eubacterium_tortuosum	缠结真杆菌	bacteria	none	none	none	none	none	none	none	none
+Eubacterium_combesii	孔氏真杆菌	bacteria	none	none	none	none	none	none	none	none
+Eubacterium_nitritogenes	产亚硝酸盐真杆菌	bacteria	none	none	none	none	none	none	none	none
+Haemophilus_influenzae	流感嗜血杆菌	bacteria	在上呼吸道的定殖率可达人群的50%，可引起原发性化脓性感染及继发性感染，包括脑膜炎、鼻咽炎、肺炎、关节炎、心包炎、菌血症、支气管炎、中耳炎、鼻窦炎等。	，可引起原发性化脓性感染及继发性感染，包括脑膜炎、鼻咽炎、肺炎、关节炎、心包炎、菌血症、支气管炎、中耳炎、鼻窦炎等。	Duell BL, Su YC, Riesbeck K. Host-pathogen interactions of nontypeable Haemophilus influenzae: from commensal to pathogen. FEBS Lett. 2016 Nov; 590(21): 3840-3853.	none	none	none	none	none	none
+Haemophilus_parainfluenzae	副流感嗜血杆菌	bacteria	机会致病菌，可引起心内膜炎、肾炎、泌尿生殖道炎、胆道感染、腹膜炎等多种疾病，并可引起肺炎、支气管炎等下呼吸道感染。	McCann N, Barakat MF, Schafer F. An aggressive form of Haemophilus parainfluenzae infective endocarditis presenting with limb weakness. BMJ Case Rep. 2018 Jun 4; 2018. pii: bcr-2017-223775.	none	none	none	none	none	none
+Haemophilus_haemolyticus	溶血嗜血杆菌	bacteria	鼻咽部正常菌群，一般是非致病的，但也有引起心内膜炎的报道。	MILLER, C. PHILIP. subacute bacterial endocarditis due to a hemolytic hemophilic bacillusreport of a case. Arch Intern Med (Chic).  1923;32(6): 911-926.	none	none	none	none	none	none
+Haemophilus_parahaemolyticus	副溶血嗜血杆菌	bacteria	口腔、咽部正常菌群，可引起咽炎、化脓性口腔炎和心内膜炎。	Parsons M, Faris I. Empyema of the gallbladder due to Haemophilus parahaemolyticus, with a brief review of its role as a pathogen. J Clin Pathol.  1973 Aug; 26(8): 604–605.	none	none	none	none	none	none
+Haemophilus_ducreyi	杜克雷嗜血杆菌	bacteria	感染能够引起性传播疾病软下疳。	Lewis DA. Chancroid: clinical manifestations, diagnosis, and management. Sex Transm Infect.  2003 Feb; 79(1): 68-71.	none	none	none	none	none	none
+Haemophilus_aegyptius	埃及嗜血杆菌	bacteria	感染可引起急性、亚急性结膜炎，儿童巴西紫癜热。	Harrison LH, da Silva GA, Pittman M, et al.  Epidemiology and Clinical Spectrum of Brazilian Purpuric Fever.  Brazilian Purpuric Fever Study Group. Journal of Clinical Microbiology. 1989 Apr; 27(4): 599–604.	none	none	none	none	none	none
+Haemophilus_aphrophilus	嗜沫嗜血杆菌	bacteria	咽部正常菌群，牙菌斑中常见菌，可引起心内膜炎和脑脓肿。	Patel SR, Patel NH, Borah A, et al. Aggregatibacter aphrophilus pacemaker endocarditis: a case report. BMC Res Notes. 2014 Dec 8; 7: 885.	none	none	none	none	none	none
+Haemophilus_paraphrophilus	副嗜沫嗜血杆菌	bacteria	咽部及阴道的正常菌群，可引起亚急性细菌性心内膜炎、甲沟炎、脑脓肿。	Simpson AJ, Das SS, Mitchelmore IJ. Mitchelmore. Polymicrobial brain abscess involving Haemophilus paraphrophilus and Actinomyces odontolyticus. Postgrad Med J. 1996 May; 72(847): 297–298.	none	none	none	none	none	none
+Haemophilus_pittmaniae	皮氏嗜血杆菌	bacteria	有引起呼吸道感染的报道。	Boucher MB, Bedotto M, Couderc C, et al. Haemophilus pittmaniae respiratory infection in a patient with siderosis: a case report. J Med Case Rep. 2012 Apr 30; 6:120.	none	none	none	none	none	none
+Haemophilus_sputorum	痰嗜血杆菌	bacteria	none	none	none	none	none	none	none	none
+Klebsiella_pneumoniae	肺炎克雷伯菌	bacteria	存在于肠道和呼吸道，机会致病菌，当机体免疫力降低时引起感染，可引起典型的原发性肺炎、支气管炎、泌尿道和创伤感染，有时可引起严重的败血症、脑膜炎和腹膜炎等。	Martin RM, Bachman MA. Colonization, Infection, and the Accessory Genome of Klebsiella pneumoniae. Front Cell Infect Microbiol.  2018 Jan 22; 8:4.	none	none	none	none	none	none
+Klebsiella_pneumoniae_subsp_ozaenae	肺炎克雷伯菌臭鼻亚种	bacteria	肺炎克雷伯菌臭鼻亚种常引起萎缩性鼻炎（臭鼻症）和鼻粘膜的化脓性感染。	De Champs C, Vellin JF, Diancourt L. Laryngeal Scleroma Associated with Klebsiella pneumoniae subsp. Ozaenae. J Clin Microbiol.  2005 Nov; 43(11): 5811–5813.	none	none	none	none	none	none
+Klebsiella_pneumoniae_subsp_rhinoscleromatis	肺炎克雷伯菌鼻硬结亚种	bacteria	肺炎克雷伯菌鼻硬结亚种常引起呼吸道黏膜、口咽部、鼻和鼻旁窦的感染，导致肉芽肿性病变和硬结形成。	Fevre C, Passet V, Deletoile A, et al. PCR-Based Identification of Klebsiella pneumoniae subsp. rhinoscleromatis, the Agent of Rhinoscleroma. PLoS Negl Trop Dis. 2011 May; 5(5): e1052.	none	none	none	none	none	none
+Klebsiella_oxytoca	产酸克雷伯菌	bacteria	感染可导致结肠炎和脓毒症。	Högenauer C, Langner C, Beubler E, et al. Klebsiella oxytoca as a causative organism of antibiotic-associated hemorrhagic colitis. N. Engl. J. Med. 2006 Dec 7; 355 (23): 2418–26.	none	none	none	none	none	none
+Klebsiella_variicola	变栖克雷伯菌	bacteria	none	none	none	none	none	none	none	none
+Nocardia_asteroids	星形诺卡菌	bacteria	星形诺卡菌主要通过呼吸道引起人的原发性及化脓性感染，可出现类似肺结核的症状。肺部病灶转移至皮下组织，可形成脓肿、溃疡和多发性瘘管，扩散到其他器官，可引起脑脓肿和腹膜炎。	Adair JC, Amber IJ, Johnston JM. Peritonsillar abscess caused by Nocardia asteroides. J Clin Microbiol. 1987 Nov; 25(11): 2214-5.	none	none	none	none	none	none
+Nocardia_brasiliensis	巴西诺卡菌	bacteria	可引起诺卡菌病，导致肺部（类似肺结核病的症状）、脑部、皮肤及全身散播性感染；可侵入皮下组织，引起慢性化脓性肉芽肿，表现为肿胀、脓肿及多发性瘘管。	Johnson P, Ammar H. Nocardia brasiliensis vertebral osteomyelitis and epidural abscess. BMJ Case Rep. 2013 Apr 11; 2013: bcr2012008400.	none	none	none	none	none	none
+Nocardia_farcinia	鼻疽诺卡菌	bacteria	鼻疽诺卡菌感染可引起诺卡菌病，诺卡菌病临床表现包括肺部感染、脑部感染、皮肤感染及全身散播性感染。	Holm P. Seven cases of human nocardiosis caused by Nocardia farcinica. Sabouraudia.  1975 Jul; 13(2): 161-9.	none	none	none	none	none	none
+Nocardia_brevicatena	短链诺卡菌	bacteria	none	none	none	none	none	none	none	none
+Nocardia_carnea	肉色诺卡菌	bacteria	none	none	none	none	none	none	none	none
+Nocardia_vaccinii	越橘诺卡菌	bacteria	none	none	none	none	none	none	none	none
+Nocardia_otitidiscabvian	豚鼠耳炎诺卡菌	bacteria	none	none	none	none	none	none	none	none
+Nocardia_fransvalensis	南非诺卡菌	bacteria	none	none	none	none	none	none	none	none
+Nocardia_amrae	苦味诺卡菌	bacteria	none	none	none	none	none	none	none	none
+Nocardia_cyriacigeorgica	盖尔森基兴诺卡菌	bacteria	有引起肺曲霉病患者肺部感染的报道。	Wu J, Wu Y, Zhu Z. Pulmonary infection caused by Nocardia cyriacigeorgica in a patient with allergic bronchopulmonary aspergillosis: A case report. Medicine (Baltimore). 2018 Oct; 97(43): e13023.	none	none	none	none	none	none
+Neisseria_meningitidis	脑膜炎奈瑟菌	bacteria	通常定殖在鼻咽部，人群携带率为5%-20%，常见于儿童。该菌是流行性脑脊髓膜炎的病原体，感染对象多为学龄前儿童和青少年，感染后部分患者转变为隐性感染，部分可发展为菌血症，进而引起骨髓炎、关节炎、蜂窝组织炎、心包炎、腹膜炎和眼部感染。人对脑膜炎奈瑟菌有较强的抵抗力，感染后仅有2%-3%概率表现为脑脊髓膜炎，绝大多数为带菌状态。	-20	不等，以儿童携带多见。此菌是流行性脑脊髓膜炎的病原体，感染对象多为学龄前儿童和青少年，感染后部分患者转变为隐性感染，部分可发展为菌血症，进而引起骨髓炎、关节炎、蜂窝组织炎、心包炎、腹膜炎和眼部感染。人类对脑膜炎奈瑟菌有较强的抵抗力，感染后仅有2	-3	表现为脑脊髓膜炎，绝大多数为带菌状态。	Harrison LH. Epidemiological profile of meningococcal disease in the United States. Clin Infect Dis. 2010 Mar 1; 50 Suppl 2: S37-44.	none	none	none	none	none	none
+Neisseria_gonorrhoeae	淋病奈瑟菌	bacteria	淋病的病原菌，通常为泌尿生殖道感染，亦可感染口咽部、肛门和直肠。男性感染者可发展为前列腺炎、附睾炎；女性可引起前庭大腺炎、盆腔炎、早产、不育。部分患者还可能发生弥漫性感染，如迁移性关节炎、心内膜炎和脑膜炎等；新生儿可通过患病母亲产道引起淋病性结膜炎。	Chan PA, Robinette A, Montgomery M, et al. Extragenital Infections Caused by Chlamydia trachomatis and Neisseria gonorrhoeae: A Review of the Literature. Infect Dis Obstet Gynecol. 2016; 2016: 5758387.	none	none	none	none	none	none
+Neisseria_sicca	干燥奈瑟菌	bacteria	常定殖于鼻咽部黏膜，通常表现为非致病性，但有引起心内膜炎、脑膜炎、结膜炎等病例的报道。	Jeurissen A, Stroy JP, Wielenga RP, et al. Severe infective endocarditis due to Neisseria sicca: case report and review of literature. Acta Clin Belg. 2006 Sep-Oct; 61(5): 256-8.	none	none	none	none	none	none
+Neisseria_mucosa	粘液奈瑟菌	bacteria	是定殖于咽喉部的正常菌群，有报道可引起心内膜炎。	Tronel H, Chaudemanche H, Pechier N, et al. Endocarditis due to Neisseria mucosa after tongue piercing. Clin. Microbiol. Infect. 2001 May; 7 (5): 275–6.	none	none	none	none	none	none
+Neisseria_subflava	浅黄奈瑟菌	bacteria	定殖于上呼吸道，通常表现为非致病性，但在极少数情况下可引起术后脑膜炎。	Wakui D, Nagashima G, Otsuka Y, et al. A case of meningitis due to Neisseria subflava after ventriculostomy. Journal of Infection and Chemotherapy. 2012 Feb; 18 (1): 115–118.	none	none	none	none	none	none
+Neisseria_flavescens	金黄奈瑟菌	bacteria	机会致病菌，常定殖于上呼吸道，可引起脑膜炎、肺炎、败血症和心内膜炎。	Wertlake PT, Williams TW Jr. Septicaemia caused by Neisseria flavescens. J Clin Pathol. 1968 Jul; 21(4):437-9.	none	none	none	none	none	none
+Neisseria_cinerea	灰色奈瑟菌	bacteria	定殖在口咽部，有时也定殖在生殖道，通常表现为非致病性，但偶有引起脑膜炎、菌血症、心内膜炎的报道。	von Kietzell M, Richter H, Bruderer T, et al. Meningitis and Bacteremia Due to Neisseria cinerea following a Percutaneous Rhizotomy of the Trigeminal Ganglion. J Clin Microbiol. 2016 Jan; 54(1):233-5.	none	none	none	none	none	none
+Neisseria_lactamica	嗜乳糖奈瑟菌	bacteria	none	none	none	none	none	none	none	none
+Neisseria_polysaccharea	多糖奈瑟菌	bacteria	none	none	none	none	none	none	none	none
+Neisseria_kochii	克氏奈瑟菌	bacteria	none	none	none	none	none	none	none	none
+Neisseria_elongata	延长奈瑟菌	bacteria	可引起心内膜炎。	Samannodi M, Vakkalanka S, Zhao A, et al. Neisseria elongata endocarditis of a native aortic valve. BMJ Case Rep. 2016 Feb 25; 2016. pii: bcr2015213311.	none	none	none	none	none	none
+Porphyromonas_endodontalis	牙髓卟啉单胞菌	bacteria	主要分布于口腔，也可定殖于泌尿生殖道和肠道。主要引起牙周炎、牙髓炎、根尖周炎等口腔感染，也可引起胸膜炎、阑尾炎和细菌性阴道病。	Lombardo Bedran TB, Marcantonio RA, Spin Neto R, et al. Porphyromonas endodontalis in chronic periodontitis: a clinical and microbiological cross-sectional study. J Oral Microbiol. 2012; 4.	none	none	none	none	none	none
+Porphyromonas_gingivalis	牙龈卟啉单胞菌	bacteria	主要分布于口腔，也可存在于泌尿生殖道和肠道。主要引起牙周炎等口腔感染，也有报道其与类风湿性关节炎有关。	Naito M, Hirakawa H, Yamashita A, et al. Determination of the Genome Sequence of Porphyromonas gingivalis Strain ATCC 33277 and Genomic Comparison with Strain W83 Revealed Extensive Genome Rearrangements in P. gingivalis. DNA Res. 2008 Aug; 15 (4): 215–25.	none	none	none	none	none	none
+Porphyromonas_asaccharolytica	不解糖卟啉单胞菌	bacteria	不能独立感染，但为口腔、泌尿生殖系统和腹内脓肿混合感染致病菌群的重要组成部分。	Jover-Díaz F, Cuadrado JM, Laveda R, et al. Porphyromonas asaccharolytica liver abscess. Anaerobe. 2003 Apr; 9(2): 87-9.	none	none	none	none	none	none
+Staphylococcus_aureus	金黄色葡萄球菌	bacteria	机会致病菌，常见于皮肤和上呼吸道，可引起一系列疾病：包括食物中毒，皮肤感染（丘疹、蜂窝织炎、烫伤皮肤综合征和脓肿）、肺炎、脑膜炎、骨髓炎、心内膜炎、中毒性休克综合征、菌血症和败血症等。	Tong SY, Davis JS, Eichenberger E, et al. Staphylococcus aureus infections: epidemiology, pathophysiology, clinical manifestations, and management. Clin Microbiol Rev.  2015 Jul; 28(3): 603-61.	none	none	none	none	none	none
+Staphylococcus_epidermidis	表皮葡萄球菌	bacteria	机会致病菌，是常见于皮肤的共生菌群，感染常与导管及其他外科植入物有关，可引发心内膜、败血症等。	Hedin G. Staphylococcus epidermidis--hospital epidemiology and the detection of methicillin resistance. Scand J Infect Dis Suppl. 1993; 90: 1-59.	none	none	none	none	none	none
+Staphylococcus_lugdunensis	里昂葡萄球菌	bacteria	是常见于皮肤的共生菌群，可引发心内膜炎、关节炎、骨髓炎、菌血症、尿道感染和伤口感染等。	Mei-Dan O, Mann G, Steinbacher G, et al. Septic arthritis with Staphylococcus lugdunensis following arthroscopic ACL revision with BPTB allograft. Knee Surg Sports Traumatol Arthrosc. 2008 Jan; 16(1): 15-8.	none	none	none	none	none	none
+Staphylococcus_saprophyticus	腐生葡萄球菌	bacteria	机会致病菌，是泌尿道感染的重要病原体，还可引起前列腺炎、伤口感染及菌血症。	Kuroda M, Yamashita A, Hirakawa H, et al. Whole genome sequence of Staphylococcus saprophyticus reveals the pathogenesis of uncomplicated urinary tract infection. Proc Natl Acad Sci U S A. 2005 Sep 13; 102(37): 13272-7.	none	none	none	none	none	none
+Staphylococcus_haemolyticus	溶血性葡萄球菌	bacteria	机会致病菌，是院内感染的重要病原体之一，通常与插入式医疗设备有关。可引起心内膜炎、败血症、腹膜炎、尿道、伤口、骨和关节感染。	de Silva GD, Kantzanou M, Justice A, et al. The ica operon and biofilm production in coagulase-negative Staphylococci associated with carriage and disease in a neonatal intensive care unit. J Clin Microbiol.  2002 Feb; 40(2): 382-8.	none	none	none	none	none	none
+Staphylococcus_caprae	山羊葡萄球菌	bacteria	属于皮肤共生菌，可引起血流、泌尿道、骨骼和关节的感染。	Shuttleworth R, Behme RJ, McNabb A, et al. Human isolates of Staphylococcus caprae: association with bone and joint infections. J Clin Microbiol. 1997 Oct; 35(10): 2537-41.	none	none	none	none	none	none
+Staphylococcus_warneri	沃氏葡萄球菌	bacteria	机会致病菌，属于人体皮肤菌群一员，较少引起疾病，但可在免疫系统受损的患者中引起感染，导致椎间盘炎、尿路感染、脑膜炎、骨感染、心室分流感染和心内膜炎。	Stöllberger C, Wechsler-Fördös A, Geppert F. Staphylococcus warneri endocarditis after implantation of a lumbar disc prosthesis in an immunocompetent patient. J Infect. 2006 Jan; 52(1): e15-8.	none	none	none	none	none	none
+Staphylococcus_capitis	头状葡萄球菌	bacteria	属于人头皮、面部、颈部和耳朵皮肤正常菌群，但有报道该菌可引起人工瓣膜心内膜炎。	Van Der Zwet WC, Debets-Ossenkopp YJ, Reinders E, et al. Nosocomial spread of a Staphylococcus capitis strain with heteroresistance to vancomycin in a neonatal intensive care unit.J Clin Microbiol. 2002 Jul; 40(7):2520-5.	none	none	none	none	none	none
+Staphylococcus_hominis	人葡萄球菌	bacteria	机会致病菌，属于皮肤正常共生菌，但容易感染在化疗和染病的免疫低下者。	none	none	none	none	none	none	none
+Staphylococcus_saccharolylicus	解糖葡萄球菌	bacteria	none	none	none	none	none	none	none	none
+Staphylococcus_pasteuri	巴氏葡萄球菌	bacteria	none	none	none	none	none	none	none	none
+Staphylococcus_auricularis	耳葡萄球菌	bacteria	none	none	none	none	none	none	none	none
+Staphylococcus_cohnii	孔氏葡萄球菌	bacteria	none	none	none	none	none	none	none	none
+Staphylococcus_xylosus	木糖葡萄球菌	bacteria	属于皮肤共生菌群，与肾盂肾炎有关。	none	none	none	none	none	none	none
+Staphylococcus_simulans	模仿葡萄球菌	bacteria	属于一种动物病原体，人类感染该菌的报道很少，但有文献报道过引起胸膜脓肿的案例。	none	none	none	none	none	none	none
+Staphylococcus_succinus	琥珀葡萄球菌	bacteria	none	none	none	none	none	none	none	none
+Pseudomonas_aeruginosa	铜绿假单胞菌	bacteria	机会致病菌，在皮肤、肠道、呼吸道均有存在，主要引起院内感染，较常见为伤口和创面感染、呼吸道和尿道感染，还可引起中耳炎和毁坏性眼部感染；通过血源性感染可导致心内膜炎、脑膜炎、脑脓肿、骨和关节感染等。	Høiby N, Ciofu O, Bjarnsholt T, et al. Pseudomonas aeruginosa biofilms in cystic fibrosis.Future Microbiol. 2010 Nov; 5(11): 1663-74.	none	none	none	none	none	none
+Pseudomonas_stutzeri	施氏假单胞菌	bacteria	机会致病菌，很少发生感染，偶有引起心内膜炎的报道。	Héquette-Ruz R, Charpentier A, Delabriere I, et al. Native aortic valve endocarditis due to Pseudomonas stutzeri in a 91-year-old woman. Med Mal Infect. 2018 Oct; 48(7): 492-494.	none	none	none	none	none	none
+Pseudomonas_mendocina	门多萨假单胞菌	bacteria	机会致病菌，极少发生感染，偶有院内感染，如感染性心内膜炎、肺部感染、椎间盘炎、菌血症、骨和软组织感染等。	Chi CY, Lai CH, Fung CP, et al. Pseudomonas mendocina spondylodiscitis: a case report and literature review. Scand J Infect Dis. 2005; 37(11-12): 950-3.	none	none	none	none	none	none
+Pseudomonas_fluorescens	荧光假单胞菌	bacteria	机会致病菌，罕见感染人，可引起菌血症、败血症、呼吸道、泌尿系统感染等。	Benito N, Mirelis B, Luz Gálvez M, et al. Outbreak of Pseudomonas fluorescens bloodstream infection in a coronary care unit. J Hosp Infect. 2012 Dec; 82(4): 286-9.	none	none	none	none	none	none
+Pseudomonas_alcaligenes	产碱假单胞菌	bacteria	属于较少见的机会致病菌，偶有引起心内膜炎、血液感染、盆腔脓肿、肝脓肿、尿路感染的报道。	Suzuki M1, Suzuki S, Matsui M, et al. Genome Sequence of a Strain of the Human Pathogenic Bacterium Pseudomonas alcaligenes That Caused Bloodstream Infection.Genome Announc. 2013 Oct 31; 1(5). pii: e00919-13.	none	none	none	none	none	none
+Pseudomonas_luteola	浅黄假单胞菌	bacteria	机会致病菌，可引起菌血症、脑膜炎、瓣膜心内膜炎、腹膜炎等。	Bayhan GI, Senel S, Tanir G, et al. Bacteremia caused by Pseudomonas luteola in pediatric patients. Jpn J Infect Dis. 2015; 68(1): 50-4.	none	none	none	none	none	none
+Pseudomonas_oryzihabitans	稻皮假单胞菌	bacteria	属于罕见的机会致病菌，可引起院内感染，导致败血症、腹膜炎、眼内炎和菌血症。	Esteban J, Martin J, Ortiz A, Santos-O'Connor F, et al. Pseudomonas oryzihabitans peritonitis in a patient on continuous ambulatory peritoneal dialysis. Clin Microbiol Infect. 2002 Sep; 8(9): 607-8.	none	none	none	none	none	none
+Pseudomonas_putida	恶臭假单胞菌	bacteria	属于较少见的机会致病菌，属于人咽部的正常菌群，偶从患者尿道、皮肤和骨髓标本中分离出来。	none	none	none	none	none	none	none
+Pseudomonas_oleovorans	食油假单胞菌	bacteria	有报道该菌可引起败血症。	Gautam L, Kaur R, Kumar S, et al. Pseudomonas oleovorans Sepsis in a Child: The First Reported Case in India. Jpn J Infect Dis. 2015; 68(3): 254-5.	none	none	none	none	none	none
+Pseudomonas_parafulva	副黄假单胞菌	bacteria	none	none	none	none	none	none	none	none
+Pseudomonas_nitroreducens	硝基还原假单胞菌	bacteria	none	none	none	none	none	none	none	none
+Pseudomonas_pseudoalcaligenes	假产碱假单胞菌	bacteria	机会致病菌，偶有引起感染的报道。	none	none	none	none	none	none	none
+Pseudomonas_entomophila	嗜虫假单胞菌	bacteria	none	none	none	none	none	none	none	none
+Sphingomonas_paucimobilis	少动鞘氨醇单胞菌	bacteria	为临床中重要的机会致病菌，常侵犯经历手术或患病的免疫功能低下者，可引起菌血症、败血症、脑膜炎、呼吸机相关性肺炎、脾脓肿、泌尿道感染、中枢神经系统感染、脓胸、腹膜炎、感染性关节炎和骨髓炎等。	Ryan MP, Adley CC. Sphingomonas paucimobilis: a persistent Gram-negative nosocomial infectious organism. J Hosp Infect. 2010 Jul; 75(3): 153-7.	none	none	none	none	none	none
+Sphingomonas_parapaucimobilis	类少动鞘氨醇单胞菌	bacteria	none	none	none	none	none	none	none	none
+Sphingomonas_echinoides	刺状鞘氨醇单胞菌	bacteria	none	none	none	none	none	none	none	none
+Sphingomonas_melonis	瓜类鞘氨醇单胞菌	bacteria	none	none	none	none	none	none	none	none
+Sphingomonas_taxi	鞘氨醇单胞菌	bacteria	none	none	none	none	none	none	none	none
+Sphingomonas_wittichii	维氏鞘氨醇单胞菌	bacteria	none	none	none	none	none	none	none	none
+Corynebacterium_diphtheriae	白喉棒状杆菌	bacteria	为白喉的病原菌，通常累及上呼吸道，可引起咽部白喉、皮肤白喉、心内膜炎、异物感染、咽炎，偶可侵害眼结膜、外耳道、阴道等。	Hoskisson PA. Microbe Profile: Corynebacterium diphtheriae - an old foe always ready to seize opportunity. Microbiology. 2018 Jun; 164(6): 865-867.	none	none	none	none	none	none
+Corynebacterium_pseudodiphtheriticum	假白喉棒状杆菌	bacteria	假白喉棒状杆菌是寄居在鼻腔和咽喉部的正常菌群，条件致病菌，可引起下呼吸道感染，包括坏死性气管炎、气管支气管炎、支气管炎、肺炎。在免疫力受损的患者可引起心内膜炎、尿道干感染、脓毒性关节炎等。	Pérez-Parra S, Peña A, Blanca E. Letal endocarditis due to Corynebacterium pseudodiphtheriticum. Rev Chilena Infectol. 2016 Apr; 33(2): 229-31.	none	none	none	none	none	none
+Corynebacterium_xerosis	干燥棒状杆菌	bacteria	为人眼结膜、鼻咽部粘膜或皮肤的正常菌群，可引起心瓣膜置换手术后的心内膜炎、外伤后深部组织感染、免疫力低下患者菌血症、肺炎和手术后伤口感染。	Hocaoğlu M, Turgut A, Eminoğlu EM. Maternal ventriculoperitoneal shunt infection due to Corynebacterium xerosis following caesarean section. J Obstet Gynaecol. 2018 Jun 8: 1-3.	none	none	none	none	none	none
+Corynebacterium_striatum	纹带棒状杆菌	bacteria	机会致病菌，是皮肤和鼻孔的正常菌群，可引起菌血症、伤口感染、心内膜炎等。	Ishiwada N, Watanabe M, Murata S.Clinical and bacteriological analyses of bacteremia due to Corynebacterium striatum.J Infect Chemother. 2016 Dec; 22(12): 790-793.	none	none	none	none	none	none
+Corynebacterium_jeikeium	杰氏棒状杆菌	bacteria	机会致病菌，是皮肤的正常菌群，也是常见的院内感染病原体，可引起心内膜炎，菌血症，异物感染，伤口感染等。	Tauch A, Kaiser O, Hain T, et al. Complete genome sequence and analysis of the multiresistant nosocomial pathogen Corynebacterium jeikeium K411, a lipid-requiring bacterium of the human skin flora. J Bacteriol. 2005 Jul; 187(13): 4671-82.	none	none	none	none	none	none
+Corynebacterium_amycolatum	无枝菌酸棒状杆菌	bacteria	机会致病菌，是皮肤和黏膜的常见菌群，也是常见的院内感染病原体，可引起心内膜炎、腹膜炎、伤口感染、异物感染、菌血症、脓毒血症、泌尿道感染、呼吸道感染。	Dalal A, Urban C, Segal-Maurer S. Endocarditis due to Corynebacterium amycolatum. J Med Microbiol. 2008 Oct; 57(Pt 10): 1299-302.	none	none	none	none	none	none
+Corynebacterium_accolens	拥挤棒状杆菌	bacteria	可从脓毒症、中耳炎、结膜炎、鼻窦炎和脑膜炎病例中分离，有引起盆腔骨髓炎和心内膜炎的病例报道，也可能与肉芽肿性乳腺炎有关	Wong JS, Seaward LM, Ho CP, et al. Corynebacterium accolens-associated pelvic osteomyelitis. J Clin Microbiol. 2010 Feb; 48(2): 654-5.	none	none	none	none	none	none
+Corynebacterium_ureicelerivorans	快速食脲棒状杆菌	bacteria	机会致病菌，可从菌血症患者的血培养物中分离得到。	Tippelt A, Albersmeier A, Brinkrolf K, et al. Complete Genome Sequence of Corynebacterium ureicelerivorans DSM 45051, a Lipophilic and Urea-Splitting Isolate from the Blood Culture of a Septicemia Patient. Genome Announc. 2014 Nov 20; 2(6). pii: e01211-14.	none	none	none	none	none	none
+Corynebacterium_propinquum	丙酸棒杆状菌	bacteria	有引起心内膜炎、泌尿道感染、呼吸道感染的报道。	Kawasaki Y, Matsubara K, Ishihara H, et al. Corynebacterium propinquum as the first cause of infective endocarditis in childhood. J Infect Chemother. 2014 May; 20(5): 317-9.	none	none	none	none	none	none
+Corynebacterium_glucuronolyticum	溶葡萄糖醛酸棒状杆菌	bacteria	主要引起泌尿生殖道感染。	Gherardi G, Di Bonaventura G, Pompilio A, et al. Corynebacterium glucuronolyticum causing genitourinary tract infection: Case report and review of the literature. IDCases. 2015 Mar 25; 2(2): 56-8.	none	none	none	none	none	none
+Corynebacterium_minutissimum	极小棒状杆菌	bacteria	可引起红癣、菌血症、心内膜炎、脑膜炎、肾盂炎、伤口感染、道感染、呼吸道感染。	Dalal A, Likhi R. Corynebacterium minutissimum bacteremia and meningitis: a case report and review of literature. J Infect. 2008 Jan; 56(1): 77-9.	none	none	none	none	none	none
+Corynebacterium_pseudotuberculosis	假结核棒状杆菌	bacteria	可引起淋巴结炎。	none	none	none	none	none	none	none
+Corynebacterium_ulcerans	溃疡棒状杆菌	bacteria	可引起呼吸道白喉、皮肤白喉等。	Wagner J, Ignatius R, Voss S, et al. Infection of the skin caused by Corynebacterium ulcerans and mimicking classical cutaneous diphtheria. Clin Infect Dis. 2001 Nov 1; 33(9): 1598-600.	none	none	none	none	none	none
+Corynebacterium_urealuticum	解脲棒状杆菌	bacteria	解脲棒状杆菌可引起泌尿道感染、菌血症和伤口感染等。	Pardo Martínez A, Rosino Sánchez A, Rivero Guerra Á, et al. Encrusted prostatitis by Corynebacterium urealyticum: The importance of clinical suspicion. Actas Urol Esp. 2018 Mar 5. pii: S0210-4806(18)30032-9.	none	none	none	none	none	none
+Corynebacterium_macginleyi	麦氏棒状杆菌	bacteria	主要导致眼部感染，还可引起免疫系统受损患者的心内膜炎、肺炎等。	Suzuki T, Iihara H, Uno T, et al. Suture-related keratitis caused by Corynebacterium macginleyi. J Clin Microbiol. 2007 Nov; 45(11): 3833-6.	none	none	none	none	none	none
+Corynebacterium_matruchotii	马氏棒杆状菌	bacteria	none	none	none	none	none	none	none	none
+Corynebacterium_pseudogenitalium	假根棒状杆菌	bacteria	在人的皮肤和黏膜均可发现，有报道可引起尿路感染。	Vedel G, Toussaint G, Riegel P, et al. Corynebacterium pseudogenitalium urinary tract infection. Emerg Infect Dis. 2006 Feb; 12(2): 355-6.	none	none	none	none	none	none
+Corynebacterium_singulare	单一棒杆状菌	bacteria	none	none	none	none	none	none	none	none
+Corynebacterium_durum	坚硬棒杆状菌	bacteria	none	none	none	none	none	none	none	none
+Corynebacterium_ammoniagenes	产氨棒杆状菌	bacteria	none	none	none	none	none	none	none	none
+Corynebacterium_afermentans	非发酵棒状杆菌	bacteria	none	none	none	none	none	none	none	none
+Corynebacterium_auris	耳棒状杆菌	bacteria	none	none	none	none	none	none	none	none
+Corynebacterium_bovis	牛棒状杆菌	bacteria	none	none	none	none	none	none	none	none
+Corynebacterium_cystitidis	膀胱炎棒状杆菌	bacteria	none	none	none	none	none	none	none	none
+Corynebacterium_falsenii	微黄棒状杆菌	bacteria	none	none	none	none	none	none	none	none
+Corynebacterium_glutamicum	谷氨酸棒状杆菌	bacteria	none	none	none	none	none	none	none	none
+Corynebacterium_kutscheri	库氏棒状杆菌	bacteria	none	none	none	none	none	none	none	none
+Corynebacterium_mycetoides	类真菌棒状杆菌	bacteria	none	none	none	none	none	none	none	none
+Corynebacterium_pilosum	多毛棒状杆菌	bacteria	none	none	none	none	none	none	none	none
+Corynebacterium_renale	牛肾盂炎棒状杆菌	bacteria	none	none	none	none	none	none	none	none
+Corynebacterium_variabile	变异棒状杆菌	bacteria	none	none	none	none	none	none	none	none
+Corynebacterium_sputi	痰液棒状杆菌	bacteria	none	none	none	none	none	none	none	none
+Lactobacillus_plantarum	植物乳杆菌	bacteria	被广泛用作益生菌剂，但不排除为可能的致病菌，有引起脑膜炎病例的报道。	Biesiada G, Krycińska R, et al. Czepiel J. Meningoencephalitis caused by Lactobacillus plantarum - case report. Int J Neurosci. 2018 May 29: 1-9.	none	none	none	none	none	none
+Lactobacillus_gasseri	加氏乳杆菌	bacteria	机会致病菌，常定殖于女性生殖道，偶可引起亚急性细菌性心内膜炎、败血症或脓肿等。	Elikowski W, Małek-Elikowska M, Lisiecka M, et al. Lactobacillus gasseri endocarditis on the aortic valve bioprosthesis - a case report. Pol Merkur Lekarski. 2017 Nov 23; 43(257): 220-223.	none	none	none	none	none	none
+Lactobacillus_salivarius	唾液乳杆菌	bacteria	none	none	none	none	none	none	none	none
+Lactobacillus_casei	干酪乳杆菌	bacteria	none	none	none	none	none	none	none	none
+Lactobacillus_kefiranofaciens	马乳酒乳杆菌	bacteria	none	none	none	none	none	none	none	none
+Lactobacillus_brevis	短乳杆菌	bacteria	none	none	none	none	none	none	none	none
+Lactobacillus_coryniformis	棒状乳杆菌	bacteria	none	none	none	none	none	none	none	none
+Lactobacillus_sanfranciscensis	旧金山乳杆菌	bacteria	none	none	none	none	none	none	none	none
+Lactobacillus_curvatus	弯曲乳杆菌	bacteria	none	none	none	none	none	none	none	none
+Lactobacillus_malefermentans	坏发酵乳杆菌	bacteria	none	none	none	none	none	none	none	none
+Lactobacillus_fermentum	发酵乳杆菌	bacteria	none	none	none	none	none	none	none	none
+Lactobacillus_spicheri	斯比氏乳杆菌	bacteria	none	none	none	none	none	none	none	none
+Lactobacillus_johnsonii	约氏乳杆菌	bacteria	none	none	none	none	none	none	none	none
+Lactobacillus_acidophilus	嗜酸乳杆菌	bacteria	none	none	none	none	none	none	none	none
+Lactobacillus_delbrueckii	德氏乳杆菌	bacteria	广泛应用于发酵工业，但偶有引起感染的报道。	none	none	none	none	none	none	none
+Lactobacillus_crispatus	卷曲乳杆菌	bacteria	none	none	none	none	none	none	none	none
+Lactobacillus_jensenii	詹氏乳杆菌	bacteria	none	none	none	none	none	none	none	none
+Actinomyces_israelii	衣氏放线菌	bacteria	机会致病菌，是阴道、结肠和口腔的正常定殖菌，引起放线菌病最常见的病原体。可引起胸骨骨髓炎、心内膜炎、慢性泪小管炎等。	Toom S, Xu Y. Hemolytic anemia due to native valve subacute endocarditis with Actinomyces israelii infection. Clin Case Rep. 2018 Jan 10; 6(2): 376-379.	none	none	none	none	none	none
+Actinomyces_naeslundii	内氏放线菌	bacteria	可引起放线菌病，口腔、面部和颈部感染常见，也少发于胸部、腹部和中枢神经系统感染。	Cortes CD, Urban C, Turett G. Actinomyces naeslundii: An Uncommon Cause of Endocarditis. Case Rep Infect Dis. 2015; 2015: 602462.	none	none	none	none	none	none
+Actinomyces_viscosus	粘性放线菌	bacteria	可引起牙周疾病、心内膜炎，极少数情况下可引起肺部感染。	Mardis JS, Many WJ Jr. Endocarditis due to Actinomyces viscosus. South Med J. 2001 Feb; 94(2): 240-3.	none	none	none	none	none	none
+Actinomyces_odontolyticus	龋齿放线菌	bacteria	是牙科手术和口腔脓肿常见的感染病原体，少数情况下可引起胸膜炎、肝脓肿等。	Rich BS, Angeles C, Barie PS. Actinomyces odontolyticus breast abscess.Surg Infect (Larchmt). 2013 Jun; 14(3): 331-2.	none	none	none	none	none	none
+Actinomyces_graevenitzii	葛氏放线菌	bacteria	可引起肺部感染。	Nagaoka K, Izumikawa K, Yamamoto Y, et al. Multiple lung abscesses caused by Actinomyces graevenitzii mimicking acute pulmonary coccidioidomycosis. J Clin Microbiol. 2012 Sep; 50(9): 3125-8. 	none	none	none	none	none	none
+Actinomyces_dentalis	齿放线菌	bacteria	none	none	none	none	none	none	none	none
+Actinomyces_georgiae	乔格放线菌	bacteria	none	none	none	none	none	none	none	none
+Actinomyces_bovis	牛放线菌	bacteria	none	none	none	none	none	none	none	none
+Prevotella_nigrescens	变黑普雷沃菌	bacteria	属于口腔正常菌群，可引起牙周炎。	Stingu CS1, Schaumann R, Jentsch H, et al. Association of periodontitis with increased colonization by Prevotella nigrescens. J Investig Clin Dent. 2013 Feb; 4(1): 20-5.	none	none	none	none	none	none
+Prevotella_bivia	两路普雷沃菌	bacteria	主要引起女性生殖道感染。	Sharma H, Tal R, Clark NA, et al. Microbiota and pelvic inflammatory disease. Semin Reprod Med. 2014 Jan; 32(1): 43-9.	none	none	none	none	none	none
+Prevotella_pleuritidis	胸膜炎普雷沃菌	bacteria	可从化脓性胸膜炎患者的胸膜液中分离。	Sakamoto M, Ohkusu K, Masaki T, et al. Prevotella pleuritidis sp. nov., isolated from pleural fluid. Int J Syst Evol Microbiol. 2007 Aug; 57(Pt 8): 1725-8.	none	none	none	none	none	none
+Prevotella_tannerae	坦纳普雷沃菌	bacteria	可引起牙髓感染。	none	none	none	none	none	none	none
+Prevotella_multisaccharivorax	食多糖普雷沃菌	bacteria	none	none	none	none	none	none	none	none
+Prevotella_buccae	颊普雷沃菌	bacteria	机会致病菌，可引起乳腺囊肿、咽后脓肿、菌血症等。	none	none	none	none	none	none	none
+Prevotella_dentalis	牙普雷沃菌	bacteria	主要与口腔感染有关，也有报道该菌能引起胸腔积液。	none	none	none	none	none	none	none
+Prevotella_intermedia	中间普雷沃菌	bacteria	可引起多种牙周感染，如牙龈炎、牙周炎等，也与细菌性阴道病相关。	none	none	none	none	none	none	none
+Prevotella_buccalis	口颊普雷沃菌	bacteria	none	none	none	none	none	none	none	none
+Prevotella_falsenii	福氏普雷沃菌	bacteria	none	none	none	none	none	none	none	none
+Prevotella_denticola	栖牙普雷沃菌	bacteria	none	none	none	none	none	none	none	none
+Prevotella_loescheii	洛氏普雷沃菌	bacteria	常定殖在肠道，主要与牙周感染相关，偶有引起皮肤及软组织感染、脓毒性关节炎等的报道。	none	none	none	none	none	none	none
+Prevotella_melaninogenica	产黑素普雷沃菌	bacteria	为机会致病菌，是上呼吸道的正常菌群，常见于厌氧感染。	none	none	none	none	none	none	none
+Prevotella_oris	口普雷沃菌	bacteria	可定殖于口腔和阴道，主要引起口腔疾病，如牙槽脓肿、牙周病、牙髓感染等，也能从脊髓硬膜外脓肿、脑膜炎、脓胸、鼻窦炎、肺脓肿、慢性中耳炎、吸入性肺炎等病灶分离。	none	none	none	none	none	none	none
+Prevotella_baroniae	拜氏普雷沃菌	bacteria	none	none	none	none	none	none	none	none
+Prevotella_maculosa	小斑点普雷沃菌	bacteria	none	none	none	none	none	none	none	none
+Prevotella_pallens	苍白普雷沃菌	bacteria	none	none	none	none	none	none	none	none
+Prevotella_saccharolytica	解糖普雷沃菌	bacteria	none	none	none	none	none	none	none	none
+Prevotella_histicola	栖组织普雷沃菌	bacteria	none	none	none	none	none	none	none	none
+Prevotella_corporis	人体普雷沃菌	bacteria	none	none	none	none	none	none	none	none
+Prevotella_oralis	口腔普雷沃菌	bacteria	none	none	none	none	none	none	none	none
+Prevotella_disiens	解糖胨普雷沃菌	bacteria	none	none	none	none	none	none	none	none
+Prevotella_oulorum	齿龈普雷沃菌	bacteria	none	none	none	none	none	none	none	none
+Prevotella_aurantiaca	普雷沃菌	bacteria	none	none	none	none	none	none	none	none
+Prevotella_timonensis	提蒙医院普雷沃菌	bacteria	可从胸脓肿和生殖道等样本中分离。	Glazunova OO, Launay T, Raoult D, et al. Prevotella timonensis sp. nov., isolated from a human breast abscess. Int J Syst Evol Microbiol. 2007 Apr; 57(Pt 4): 883-6.	none	none	none	none	none	none
+Propionibacterium_avidum	贪婪丙酸杆菌	bacteria	机会致病菌，是腋窝、腹股沟区、皮脂腺、肛周等部位的常见菌群，常引起鼻窦炎及皮肤皱褶潮湿处的的慢性感染；还可引起原发男性乳腺炎，软组织、骨和关节感染。	Bentorki AA, Gouri A, Yakhlef A, et al. Propionibacterium avidum cutaneous abscess in a young immunocompetent. Ann Biol Clin (Paris). 2013 Nov-Dec; 71(6): 703-6.	none	none	none	none	none	none
+Propionibacterium_propionicum	丙酸丙酸杆菌	bacteria	是口腔正常菌群的一部分，可引起脑脓肿、菌血症、眼部感染等。	Yonetani S, Ohnishi H, Araki K, et al. A psoas abscess caused by Propionibacterium propionicum. J Infect Chemother. 2014 Oct; 20(10): 650-2.	none	none	none	none	none	none
+Propionibacterium_acnes	痤疮丙酸杆菌	bacteria	是皮肤的共生菌群，可引起寻常痤疮，慢性睑炎和眼内炎等。	none	none	none	none	none	none	none
+Propionibacterium_humerusii	腐殖丙酸杆菌	bacteria	none	none	none	none	none	none	none	none
+Propionibacterium_granulosum	颗粒丙酸杆菌	bacteria	有引起心内膜炎的报道。	none	none	none	none	none	none	none
+Propionibacterium_freudenreichii	费氏丙酸杆菌	bacteria	none	none	none	none	none	none	none	none
+Propionibacterium_thoenii	特氏丙酸杆菌	bacteria	none	none	none	none	none	none	none	none
+Campylobacter_ureolyticus	解脲弯曲杆菌	bacteria	与急性和持续性的胃肠炎有关。	Bullman S, Lucid A, Corcoran D, et al. Genomic investigation into strain heterogeneity and pathogenic potential of the emerging gastrointestinal pathogen Campylobacter ureolyticus. PLoS One. 2013 Aug 30; 8(8): e71515.						
+Campylobacter_concisus	简明弯曲杆菌	bacteria	通常定殖于口腔，主要引起胃肠道疾病。	Akutko K, Matusiewicz K. Campylobacter concisus as the etiologic agent of gastrointestinal diseases. Adv Clin Exp Med. 2017 Jan-Feb; 26(1): 149-154.						
+Campylobacter_rectus	直肠弯曲杆菌	bacteria	可引起牙周病、急性中耳炎、脓胸。	Ogata T, Urata T, Nemoto D, et al. Thoracic empyema caused by Campylobacter rectus. J Infect Chemother. 2017 Mar; 23(3): 185-188.						
+Campylobacter_jejuni	空肠弯曲杆菌	bacteria	通常导致食物中毒、肠炎，临床表现为腹痛、腹泻、发烧和恶心等。	Wallis MR. The pathogenesis of Campylobacter jejuni. Br J Biomed Sci. 1994 Mar; 51(1): 57-64.						
+Campylobacter_coli	大肠弯曲杆菌	bacteria	可引起发热、腹泻、腹痛、菌血症等。	Ruiz-Castillo A, González-Estrada A, Giráldez-Gallego A, et al. Spontaneous bacteremia due to Campylobacter coli in a cirrhotic patient. Enferm Infecc Microbiol Clin. 2014 Aug-Sep; 32(7): 470-1.						
+Campylobacter_fetus	胎儿弯曲杆菌	bacteria	主要引起肠道外感染，可导致菌血症、心内膜炎、脑膜炎、肺部感染、胸膜炎、血栓性静脉炎、活动性关节炎等。	Monno R, Rendina M, Ceci G, et al. Campylobacter fetus bacteremia in an immunocompromised patient: case report and review of the literature. New Microbiol. 2004 Jul; 27(3): 281-5.						
+Campylobacter_hyointestinalis	猪肠弯曲杆菌	bacteria	可引起肠胃炎、腹泻等。	Edmonds P, Patton CM, Griffin PM, et al. Campylobacter hyointestinalis associated with human gastrointestinal disease in the United States. J Clin Microbiol. 1987 Apr; 25(4): 685-91.						
+Campylobacter_lari	海鸥弯曲杆菌	bacteria	可引起肠炎、腹泻、腹痛、菌血症等。	Nachamkin I, Stowell C, Skalina D, et al. Campylobacter laridis causing bacteremia in an immunosuppressed patient. Ann Intern Med. 1984 Jul; 101(1): 55-7.						
+Campylobacter_upsaliensis	乌普萨拉弯曲杆菌	bacteria	较少引起感染，但有导致腹泻、菌血症的报道。	Jimenez SG, Heine RG, Ward PB, et al. Campylobacter upsaliensis gastroenteritis in childhood. Pediatr Infect Dis J. 1999 Nov; 18(11): 988-92.						
+Campylobacter_showae	昭和弯曲杆菌	bacteria	较少引起疾病，但有引起菌血症的病例报道。	Suzuki J, Sugiyama T, Ito K, et al. Campylobacter showae bacteremia with cholangitis. J Infect Chemother. 2013 Oct; 19(5): 960-3.						
+Campylobacter_curvus	屈曲弯曲杆菌	bacteria	较少引起疾病，但有引起脓肿的病例报道。	Horio Y, Shiraishi Y, Watanabe N, et al. Empyema associated with Campylobacter curvus infection. Respirol Case Rep. 2017 Apr 13; 5(4): e00234.						
+Campylobacter_sputorum	唾液弯曲杆菌	bacteria	较少引起疾病，但有报道其可能与腋窝脓肿有关。	On SL, Ridgwell F, Cryan B, et al. Isolation of Campylobacter sputorum biovar sputorum from an axillary abscess. J Infect. 1992 Mar; 24(2): 175-9.						
+Campylobacter_mucosalis	黏膜弯曲杆菌	bacteria	none	none	none	none	none	none	none	none
+Campylobacter_helveticus	瑞士弯曲杆菌	bacteria	none	none	none	none	none	none	none	none
+Mycobacterium_tuberculosis	结核分枝杆菌	bacteria	可侵犯全身各个组织器官，以肺部感染最多见，导致肺结核。也可经血液、淋巴液扩散进入肺外组织器官，引起相应的脏器结核，如骨、肾、脑、关节及生殖器官结核，免疫力极度低下患者可造成全身性扩散性结核。	Gordon SV, Parish T. Microbe Profile: Mycobacterium tuberculosis: Humanity's deadly microbial foe. Microbiology. 2018 Apr; 164(4): 437-439.	none	none	none	none	none	none
+Mycobacterium_ulcerans	溃疡分枝杆菌	bacteria	可感染皮肤和皮下组织，产生无痛非溃疡性病变（结节，斑块）和溃疡性病变。	Zingue D, Bouam A, Tian RBD, et al. Buruli Ulcer, a Prototype for Ecosystem-Related Infection, Caused by Mycobacterium ulcerans. Clin Microbiol Rev. 2017 Dec 13; 31(1). pii: e00045-17.	none	none	none	none	none	none
+Mycobacterium_neoaurum	新金分枝杆菌	bacteria	通常会引起免疫受损患者的血流感染，可导致菌血症、心内膜炎等。	Awadh H, Mansour M, Shorman M. Bacteremia with an Unusual Pathogen: Mycobacterium neoaurum. Case Rep Infect Dis. 2016; 2016: 5167874.	none	none	none	none	none	none
+Mycobacterium_leprae	麻风分枝杆菌	bacteria	为麻风病的病原菌。	Bhat RM, Prakash C. Leprosy: an overview of pathophysiology. Interdiscip Perspect Infect Dis. 2012; 2012: 181089.	none	none	none	none	none	none
+Mycobacterium_kansasii	堪萨斯分枝杆菌	bacteria	可引起肺结核样病变。	Johnston JC, Chiang L, Elwood K. Mycobacterium kansasii. Microbiol Spectr. 2017 Jan; 5(1).	none	none	none	none	none	none
+Mycobacterium_marinum	海分枝杆菌	bacteria	在水中可通过受损的皮肤黏膜引起鼻粘膜、手指及脚趾等感染，呈结节或溃疡病变。	Huminer D, Pitlik SD, Block C, et al. Aquarium-borne Mycobacterium marinum skin infection. Report of a case and review of the literature. Arch Dermatol. 1986 Jun; 122(6): 698-703.	none	none	none	none	none	none
+Mycobacterium_scrofulaceum	瘰疬分枝杆菌	bacteria	常引起儿童颈部的淋巴结炎。	Majewska-Zalewska H, Herman T, Obrapalska E. Peripheral lymphadenitis caused by Mycobacterium scrofulaceum in a 2-year-old child. Pediatr Pol. 1977 May;52(5):547-53.	none	none	none	none	none	none
+Mycobacterium_avium-intracellulare	鸟胞内分枝杆菌	bacteria	可引起结核样病变，多见于肺和肾，是艾滋病患者常见的机会致病菌，且易发生散播。	Gonzales Zamora JA, Milikowski C. Proctitis Caused by Mycobacterium avium-intracellulare in an HIV-Infected Patient. Diseases. 2018 May 8; 6(2). pii: E36.	none	none	none	none	none	none
+Mycobacterium_fortuitum	偶发分枝杆菌	bacteria	可引起皮肤创伤后脓肿、骨髓炎、关节感染等。	Neill BC, Bahr NC, Bryan Z, et al. Cutaneous infection with Mycobacterium fortuitum after subcutaneous injection of human chorionic gonadotropin. Dermatol Online J. 2017 Aug 15;23(8). pii: 13030/qt9rc0w1ht.	none	none	none	none	none	none
+Mycobacterium_chelonei	龟分枝杆菌	bacteria	可引起皮肤脓肿、角膜炎等。	Campbell SM, Winkelmann RR, Sammons DL. Erythema Induratum Caused by Mycobacterium chelonei in an Immunocompetent Patient. J Clin Aesthet Dermatol. 2013 May; 6(5): 38-40.	none	none	none	none	none	none
+Mycobacterium_bovis	牛分枝杆菌	bacteria	可通过食用被感染的生牛奶传染给人，引起结核病。	O'Reilly LM, Daborn CJ. The epidemiology of Mycobacterium bovis infections in animals and man: a review. Tuber Lung Dis. 1995 Aug; 76 Suppl 1: 1-46.	none	none	none	none	none	none
+Mycobacterium_africanum	非洲分枝杆菌	bacteria	最常见于西非国家，可导致肺结核。	de Jong BC, Antonio M, Gagneux S. Mycobacterium africanum--review of an important cause of human tuberculosis in West Africa. PLoS Negl Trop Dis. 2010 Sep 28; 4(9): e744.	none	none	none	none	none	none
+Mycobacterium_micoti	田鼠分枝杆菌	bacteria	田鼠分枝杆菌极少引起人类感染，偶在免疫缺陷患者中引起感染。	van Soolingen D, van der Zanden AG, de Haas PE, et al. Diagnosis of Mycobacterium microti infections among humans by using novel genetic markers. J Clin Microbiol. 1998 Jul; 36(7): 1840-5.	none	none	none	none	none	none
+Mycobacterium_paratuberculosis	副结核分枝杆菌	bacteria	主要引起反刍动物的慢性消化道疾病，也有研究发现该菌可能与人克罗恩病和类风湿性关节炎有关。	Sanderson JD, Moss MT, Tizard ML, et al. Mycobacterium paratuberculosis DNA in Crohn's disease tissue. Gut. 1992 Jul; 33(7): 890-6.	none	none	none	none	none	none
+Mycobacterium_simiae	猿分枝杆菌	bacteria	可引起肺部感染。	Nasiri MJ, Heidary M, Azimi T, et al. Mycobacterium simiae pulmonary disease in Iran: systematic review and meta-analysis. New Microbes New Infect. 2018 Sep 22; 26: 118-123.	none	none	none	none	none	none
+Mycobacterium_szulgai	苏尔加分枝杆菌	bacteria	可引起皮肤感染。	Hizawa K, Nagata Y, Kudo T, et al. A case of steroid-dependent ulcerative colitis complicated by skin infection of Mycobacterium szulgai. Nihon Shokakibyo Gakkai Zasshi. 2009 Sep; 106(9): 1359-63.	none	none	none	none	none	none
+Mycobacterium_avium	鸟分枝杆菌	bacteria	属于鸟分枝杆菌复合体（由胞内分枝杆菌、鸟类分枝杆菌和嵌合分枝杆菌组成）中的一种，可引起慢性肺部疾病和淋巴结炎，且易在免疫缺陷患者中发生播散性疾病。	Acharya N, Chattopadhyay A, Sharma K, et al. Splenic granulomas: a rare manifestation of Mycobacterium avium complex in an immunocompetent host. BMJ Case Rep. 2018 Nov 8; 2018. pii: bcr-2018-225788.	none	none	none	none	none	none
+Mycobacterium_intracellulare	胞内分枝杆菌	bacteria	属于鸟分枝杆菌复合体（由胞内分枝杆菌、鸟类分枝杆菌和嵌合分枝杆菌组成）中的一种，可引起慢性肺部疾病和淋巴结炎，且易在免疫缺陷患者中发生播散性疾病。	Acharya N, Chattopadhyay A, Sharma K, et al. Splenic granulomas: a rare manifestation of Mycobacterium avium complex in an immunocompetent host. BMJ Case Rep. 2018 Nov 8; 2018. pii: bcr-2018-225788.	none	none	none	none	none	none
+Mycobacterium_xenopi	蟾蜍分枝杆菌	bacteria	致病性较低，主要在免疫缺陷个体中引起肺部感染、骨髓炎等。	Abdulfattah O, Salhan D, Kandel S, et al. Fatal pulmonary cavitary disease secondary to Mycobacterium xenopi in a patient with sarcoidosis. J Community Hosp Intern Med Perspect. 2017 Dec 14; 7(6): 372-377.	none	none	none	none	none	none
+Mycobacterium_malmoense	马尔摩分枝杆菌	bacteria	通常引起儿童颈部淋巴结炎或成人慢性肺部疾病，很少引起肺外疾病和播散性感染。	Lapierre SG, Fellag M, Magan C, et al. Mycobacterium malmoense pulmonary infection in France: a case report. BMC Res Notes. 2017 Aug 31; 10(1): 436.	none	none	none	none	none	none
+Mycobacterium_haemophilum	嗜血分枝杆菌	bacteria	通常发生在免疫系统受抑制的患者，表现为皮下结节或囊肿，常累及四肢，导致脓肿、骨髓炎等；儿童主要以小儿颈部淋巴结病常见。	Takeyari S, Hashii Y, Yoshida H, et al. Mycobacterium haemophilum osteomyelitis in the immunocompromised host. Pediatr Int. 2017 Dec; 59(12): 1279-1281.	none	none	none	none	none	none
+Mycobacterium_gordonae	戈登分枝杆菌	bacteria	极少引起疾病，偶可感染免疫缺陷患者。	Freyne B, Curtis N. Mycobacterium gordonae Skin Infection in an Immunocompetent Child. Pediatr Infect Dis J. 2017 May; 36(5): 523-525.	none	none	none	none	none	none
+Mycobacterium_triviale	次要分枝杆菌	bacteria	none	none	none	none	none	none	none	none
+Mycobacterium_smegmatis	耻垢分枝杆菌	bacteria	none	none	none	none	none	none	none	none
+Mycobacterium_lepraemurium	鼠麻风分枝杆菌	bacteria	none	none	none	none	none	none	none	none
+Mycobacterium_iranicum	分枝杆菌	bacteria	为非结核分枝杆菌，有报道可在艾滋病患者中引起肺部感染。	Hashemi-Shahraki_A,_Heidarieh_P,_Azarpira_S,_et_al._Mycobacterium_iranicum_infection_in_HIV-infected_patient,_Iran._Emerg_Infect_Dis._2013_Oct;_19(10):_1696-7._	none	none	none	none	none	none
+Escherichia_coli	大肠埃希菌	bacteria	是肠道正常菌群，多数情况下不致病，但当机体免疫力下降或侵入肠外组织或器官时，可引起肠道外感染。主要有泌尿系统感染，还可引起腹膜炎、胆道感染、肺炎、手术伤口感染等，严重者可引起败血症。而且其中的致病菌株可引起肠道内感染，导致各种类型的腹泻。	Viljanen MK, Peltola T, Junnila SY, et al. Outbreak of diarrhoea due to Escherichia coli O111:B4 in schoolchildren and adults: association of Vi antigen-like reactivity. Lancet. 1990 Oct 6; 336(8719): 831-4.	none	none	none	none	none	none
+Escherichia_vulneris	伤口埃希菌	bacteria	可在呼吸道，生殖道和泌尿道中定殖，通常与伤口感染有关，也有败血症、腹膜炎、脑膜炎、脓毒性关节炎等病例的报道。	Jain S, Nagarjuna D, Gaind R, et al. Escherichia vulneris: an unusual cause of complicated diarrhoea and sepsis in an infant. A case report and review of literature. New Microbes New Infect. 2016 Jul 9; 13: 83-6.	none	none	none	none	none	none
+Escherichia_fergusonii	弗格森埃希菌	bacteria	某些菌株具有致病性，可引起开放性伤口感染、菌血症和尿路感染等。	Savini V, Catavitello C, Talia M, et al. Multidrug-resistant Escherichia fergusonii: a case of acute cystitis. J Clin Microbiol. 2008 Apr; 46(4): 1551-2.	none	none	none	none	none	none
+Escherichia_hermannii	赫尔曼埃希菌	bacteria	可引起菌血症、脑膜炎和伤口感染。	Rank CU, Lommer Kristensen P, Schrøder Hansen, et al. Catheter Related Escherichia hermannii Sepsis in a Haemodialysis Patient. Open Microbiol J. 2016 Feb 2; 10: 1-3.	none	none	none	none	none	none
+Escherichia_blattae	蟑螂埃希菌	bacteria	none	none	none	none	none	none	none	none
+Escherichia_adecarboxylate	不脱胺埃希菌	bacteria	none	none	none	none	none	none	none	none
+Escherichia_agglomerans	凝集埃希菌	bacteria	none	none	none	none	none	none	none	none
+Enterobacter_cloacae	阴沟肠杆菌	bacteria	是肠道正常菌群，一般引起肠道外感染，如泌尿道、呼吸道、伤口感染，还可引起菌血症和脑膜炎。	Karasahin O, Yildiz Z, Unal O, et al. A rare cause of healthcare-associated infective endocarditis: Enterobacter cloacae. IDCases. 2018 Mar 6; 12: 18-20.	none	none	none	none	none	none
+Enterobacter_aerogenes	产气肠杆菌	bacteria	机会致病菌，是肠道正常菌群，通常引起院内感染，如尿路感染和大多数类型的感染、败血症等。	Jha P, Kim CM, Kim DM, et al. Transmission of Enterobacter aerogenes septicemia in healthcare workers. Springerplus. 2016 Aug 23; 5(1): 1397.	none	none	none	none	none	none
+Enterobacter_gergoviae	日沟维肠杆菌	bacteria	能引起泌尿道、呼吸道和血液感染。	Ganeswire R, Thong KL, Puthucheary SD. Nosocomial outbreak of Enterobacter gergoviae bacteraemia in a neonatal intensive care unit. J Hosp Infect. 2003 Apr; 53(4): 292-6.	none	none	none	none	none	none
+Enterobacter_sakazakii	坂崎肠杆菌	bacteria	能引起新生儿败血症、脑膜炎和坏死性小肠结肠炎，病死率较高，婴儿配方奶粉是目前主要的感染渠道。	Hunter CJ, Petrosyan M, Ford HR, et al. Enterobacter sakazakii: an emerging pathogen in infants and neonates. Surg Infect (Larchmt). 2008 Oct; 9(5): 533-9.	none	none	none	none	none	none
+Enterobacter_intermedium	中间肠杆菌	bacteria	none	none	none	none	none	none	none	none
+Enterobacter_amnigenus	河生肠杆菌	bacteria	none	none	none	none	none	none	none	none
+Enterobacter_asburiae	阿氏肠杆菌	bacteria	none	none	none	none	none	none	none	none
+Enterobacter_hornaechei	霍氏肠杆菌	bacteria	none	none	none	none	none	none	none	none
+Enterobacter_dissolvens	溶解肠杆菌	bacteria	none	none	none	none	none	none	none	none
+Enterobacter_nimipressualis	超压肠杆菌	bacteria	none	none	none	none	none	none	none	none
+Enterobacter_kobei	神户肠杆菌	bacteria	none	none	none	none	none	none	none	none
+Enterobacter_cowanni	考氏肠杆菌	bacteria	none	none	none	none	none	none	none	none
+Enterobacter_pyrinus	梨形肠杆菌	bacteria	none	none	none	none	none	none	none	none
+Bacteroides_fragilis	脆弱拟杆菌	bacteria	机会致病菌，是肠道的正常菌群，可引起菌血症、腹膜炎和脓肿等。	Nolla JM, Murillo O, Narvaez J, et al. Pyogenic arthritis of native joints due to Bacteroides fragilis: Case report and review of the literature. Medicine (Baltimore). 2016 Jun; 95(25): e3962.	none	none	none	none	none	none
+Bacteroides_thetaiotaomicron	多形拟杆菌	bacteria	机会致病菌，是肠道的共生菌群，可引起腹膜炎。	Chao CM, Liu WL, Lai CC. Peritoneal dialysis peritonitis caused by Bacteroides thetaiotaomicron. Perit Dial Int. 2013 Nov-Dec; 33(6): 711-2.	none	none	none	none	none	none
+Bacteroides_stercoris	粪便拟杆菌	bacteria	none	none	none	none	none	none	none	none
+Bacteroides_caccae	粪拟杆菌	bacteria	none	none	none	none	none	none	none	none
+Bacteroides_merdae	屎拟杆菌	bacteria	none	none	none	none	none	none	none	none
+Bacteroides_vulgatus	普通拟杆菌	bacteria	none	none	none	none	none	none	none	none
+Bacteroides_distasonis	吉氏拟杆菌	bacteria	none	none	none	none	none	none	none	none
+Bacteroides_eggerthii	埃氏拟杆菌	bacteria	none	none	none	none	none	none	none	none
+Bacteroides_ovatus	卵形拟杆菌	bacteria	none	none	none	none	none	none	none	none
+Bacteroides_uniformis	单形拟杆菌	bacteria	none	none	none	none	none	none	none	none
+Veillonella_parvula	小韦荣球菌	bacteria	机会致病菌，是口腔、肠道、呼吸道的正常菌群，常见于上呼吸道感染，还可引起败血症、脓肿等。	Chen YC, Ko PH, Yang CJ, et al. Epidural abscess caused by Veillonella parvula: Case report and review of the literature. J Microbiol Immunol Infect. 2016 Oct; 49(5): 804-808.	none	none	none	none	none	none
+Veillonella_atypica	非典型韦荣球菌	bacteria	none	none	none	none	none	none	none	none
+Veillonella_diapar	殊异韦容球菌	bacteria	none	none	none	none	none	none	none	none
+Aeromonas_hydrophila	嗜水气单胞菌	bacteria	机会致病菌，可引起腹泻、皮肤和软组织感染，主要与进食被污染的食物或伤口接触有关，还可引起败血症、脑膜炎、肺炎、胸膜炎和尿道感染等。	Kali A, Kalaivani R, Charles P, et al. Aeromonas hydrophila meningitis and fulminant sepsis in preterm newborn: A case report and review of literature. Indian J Med Microbiol. 2016 Oct-Dec; 34(4): 544-547.	none	none	none	none	none	none
+Aeromonas_caviae	豚鼠气单胞菌	bacteria	可引起菌血症、腹膜炎。	Kumar S, Mukhopadhyay P, Chatterjee M, et al. Necrotizing fasciitis caused by Aeromonas caviae. Avicenna J Med. 2012 Oct; 2(4): 94-6.	none	none	none	none	none	none
+Aeromonas_jandaei	简达气单胞菌	bacteria	简达气单胞菌有引起菌血症的报道。	Sarma PS. Aeromonas jandaei cellulitis and bacteremia in a man with diabetes. Am J Med. 2002 Mar; 112(4): 325.	none	none	none	none	none	none
+Aeromonas_veronii	维隆气单胞菌	bacteria	在免疫缺陷患者中可引起伤口感染、腹泻、败血症等多种疾病。	Wang D, Sun F, Li Z, et al. Acute septic arthritis of shoulder joint caused by Aeromonas veronii biotype sobria. Orthopade. 2018 Jun 5.	none	none	none	none	none	none
+Aeromonas_schubertii	舒伯特气单胞菌	bacteria	none	none	none	none	none	none	none	none
+Aeromonas_trota	易损气单胞菌	bacteria	none	none	none	none	none	none	none	none
+Enterococcus_faecalis	粪肠球菌	bacteria	是肠道中的正常菌群，属于院内感染病原菌，较多发生在老年和免疫低下患者中，主要引起尿路、腹腔、盆腔和伤口感染，还可引起菌血症、心内膜炎，偶尔会感染呼吸道和中枢神经系统。	Tien BYQ, Goh HMS, Chong KKL, et al. Enterococcus faecalis Promotes Innate Immune Suppression and Polymicrobial Catheter-Associated Urinary Tract Infection. Infect Immun. 2017 Nov 17; 85(12). pii: e00378-17.	none	none	none	none	none	none
+Enterococcus_faecium	屎肠球菌	bacteria	是肠道中的正常菌群，有报道可引起新生儿脑膜炎或心内膜炎等疾病。	Knoll BM, Hellmann M, Kotton CN. Vancomycin-resistant Enterococcus faecium meningitis in adults: case series and review of the literature. Scand J Infect Dis. 2013 Feb; 45(2): 131-9.	none	none	none	none	none	none
+Enterococcus_casselifavus	铅黄肠球菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Enterococcus_raffinosus	棉子糖肠球菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Enterococcus_avium	鸟肠球菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Enterococcus_cecorum	盲肠肠球菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Enterococcus_dispar	殊异肠球菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Enterococcus_durans	耐久肠球菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Enterococcus_gallinarum	鹑鸡肠球菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Enterococcus_hirae	空肠肠球菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Enterococcus_mundtii	蒙氏肠球菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Enterococcus_malodoratus	病臭肠球菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Yersinia_pestis	鼠疫耶尔森菌	bacteria	属于我国的甲类传染病，是鼠疫的病原菌，严重危害人类健康的烈性传染病之一。	undetermined	none	none	none	none	none	none
+Yersinia_enterocolitica	小肠结肠炎耶尔森菌	bacteria	肠道致病菌之一，可引起小肠结肠炎、菌血症以及结节性红斑、反应性关节炎等自身免疫性疾病。	undetermined	none	none	none	none	none	none
+Yersinia_pseudotuberculosis	假结核耶尔森菌	bacteria	主要对啮齿类动物致病，少见人感染，大多数病例为肠道感染，有时可引起肠系膜淋巴结炎。	undetermined	none	none	none	none	none	none
+Yersinia_frederiksenii	弗氏耶尔森菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Yersinia_intermedia	中间耶尔森菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Yersinia_kristensenii	克氏耶尔森菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Yersinia_aldovae	阿氏耶尔森菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Yersinia_bercovieri	伯氏耶尔森菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Yersinia_mollaretii	莫氏耶尔森菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Yersinia_rohdei	罗氏耶尔森菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Yersinia_ruckeri	鲁氏耶尔森菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Serratia_marcescens	粘质沙雷菌	bacteria	属于院内感染相关的病原菌，特别是与导管相关的菌血症、尿路感染及伤口感染。	Hejazi A, Falkiner FR. Serratia marcescens. J Med Microbiol. 1997 Nov; 46(11): 903-12.	none	none	none	none	none	none
+Serratia_liquefaciens	液化沙雷菌	bacteria	可引起引起泌尿道感染、伤口感染、心内膜炎、皮肤肉芽肿等。	undetermined	none	none	none	none	none	none
+Serratia_rubidaea	深红沙雷菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Serratia_odorifera	芳香沙雷菌	bacteria	可引起败血症、脓毒症等。	undetermined	none	none	none	none	none	none
+Serratia_ficaria	无花果沙雷菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Serratia_entomophila	虫媒沙雷菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Serratia_plymuthica	普利毛斯沙雷菌	bacteria	可引起导管相关感染。	undetermined	none	none	none	none	none	none
+Serratia_fonticola	居泉沙雷菌	bacteria	可引起创伤后皮肤和软组织感染、血液感染、尿路感染等。	undetermined	none	none	none	none	none	none
+Providencia_rettgeri	雷氏普罗威登斯菌	bacteria	机会致病菌，可引起腹泻、败血症、食物中毒、伤口感染、泌尿道感染和眼部感染等。	undetermined	none	none	none	none	none	none
+Providencia_alcalifaciens	产碱普罗威登斯菌	bacteria	可引起食源性感染，导致急性胃肠炎、腹泻。	undetermined	none	none	none	none	none	none
+Providencia_rustigianii	拉氏普罗威登斯菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Providencia_stuartii	斯氏普罗威登斯菌	bacteria	可引起泌尿道感染，并可能导致院内感染的爆发流行。	undetermined	none	none	none	none	none	none
+Providencia_heimbachae	海氏普罗威登斯菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Vibrio_vulnificus	创伤弧菌	bacteria	可引起急性肠胃炎、伤口感染、蜂窝织炎和败血症等。	Oliver JD. Wound infections caused by Vibrio vulnificus and other marine bacteria. Epidemiol Infect. 2005 Jun; 133(3): 383-91.	none	none	none	none	none	none
+Vibrio_cholerae	霍乱弧菌	bacteria	是引起烈性传染病霍乱的病原菌。	undetermined	none	none	none	none	none	none
+Vibrio_mimicus	拟态弧菌	bacteria	可引起胃肠炎、败血症等。	undetermined	none	none	none	none	none	none
+Vibrio_parahaemolyticus	副溶血性弧菌	bacteria	是我国沿海地区最常见的食物中毒病原菌，可引起食物中毒、急性肠炎、急性肝胰腺坏死、败血症等。	undetermined	none	none	none	none	none	none
+Vibrio_flurialis	河弧菌	bacteria	胃肠炎、败血症	undetermined	none	none	none	none	none	none
+Vibrio_furnissii	弗尼斯弧菌	bacteria	有引起肠胃炎的报道。	undetermined	none	none	none	none	none	none
+Vibrio_hollisae	霍利斯弧菌	bacteria	有引起胃肠炎、败血症的报道。	undetermined	none	none	none	none	none	none
+Vibrio_danmsela	少女弧菌	bacteria	有引起伤口感染、败血症的报道。	undetermined	none	none	none	none	none	none
+Vibrio_alginolyticus	溶藻弧菌	bacteria	有引起弧菌胃肠炎、败血症、伤口感染、中耳炎的报道。	undetermined	none	none	none	none	none	none
+Vibrio_metschnikovii	麦氏弧菌	bacteria	有引起败血症、胃肠炎的报道。	undetermined	none	none	none	none	none	none
+Vibrio_cincinnatiensis	辛辛那提弧菌	bacteria	有引起败血症的报道。	undetermined	none	none	none	none	none	none
+Vibrio_carchariae	鲨鱼弧菌	bacteria	可引起伤口感染。	undetermined	none	none	none	none	none	none
+Achromobacter_xylosoxidans	氧化木糖无色杆菌	bacteria	机会致病菌，是免疫缺陷患者的常见致病病原体，常引起院内感染，可引起菌血症、肺炎、咽炎、腹膜炎和尿路感染等。	Gómez-Cerezo J, Suárez I, Ríos JJ, et al. Achromobacter xylosoxidans bacteremia: a 10-year analysis of 54 cases. Eur J Clin Microbiol Infect Dis. 2003 Jun; 22(6): 360-3.	none	none	none	none	none	none
+Achromobacter_piechaudii	皮氏无色杆菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Alcaligenes_faecalis	粪产碱杆菌	bacteria	机会致病菌，是肠道的正常菌群，感染与雾化器、呼吸机等相关，是院内感染的病原菌之一。	undetermined	none	none	none	none	none	none
+Chryseobacterium_gleum	粘金黄杆菌	bacteria	可引起尿路感染、脓性肾病、呼吸道感染及肺炎等。	Arouna O, Deluca F, Camara M. Chryseobacterium gleum in a man with prostatectomy in Senegal: a case report and review of the literature. J Med Case Rep. 2017 Apr 24;11(1):118.	none	none	none	none	none	none
+Chryseobacterium_indologenes	产吲哚金黄杆菌	bacteria	偶尔可引起有免疫低下者的菌血症，并且与留置设施有关的院内感染相关。	Hsueh PR, Teng LJ, Ho SW, et al. Clinical and Microbiological Characteristics of Flavobacterium indologenes Infections Associated with Indwelling Devices. J Clin Microbiol. 1996 Aug; 34(8): 1908-13.	none	none	none	none	none	none
+Chryseobacterium_haifense	海法金黄杆菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Chryseobacterium_balustinum	大比目鱼金黄杆菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Chryseobacterium_meningosepticum	脑膜败血金黄杆菌	bacteria	对早产儿有高致病性，可致新生儿脑炎、也可引起免疫力低下的成人肺炎和败血症。	undetermined	none	none	none	none	none	none
+Chryseobacterium_scophthalmun	大菱鲆金黄杆菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Chryseobacterium_indotheticum	吲哚金黄杆菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Moraxella_catarrhalis	卡他莫拉菌	bacteria	定殖于呼吸道，尤其常见于儿童和老年人呼吸道，可导致中耳炎、鼻窦炎、支气管炎、肺炎、菌血症和关节感染等。	Abbott M, Nageswaran A. Bacteremia and septic arthritis caused by Moraxella catarrhalis. Clin Infect Dis. 1992 Jan; 14(1): 368-9.	none	none	none	none	none	none
+Moraxella_osloensis	奥斯陆莫拉菌	bacteria	是呼吸道正常菌群，一般不引起疾病，偶可引起菌血症、骨髓炎等。	Sugarman B, Clarridge J. Osteomyelitis caused by Moraxella osloensis. J Clin Microbiol. 1982 Jun; 15(6): 1148-9.	none	none	none	none	none	none
+Moraxella_lacunata	腔隙莫拉菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Moraxella_nonliquefaciens	非液化莫拉菌	bacteria	是呼吸道正常菌群，可引起內眼炎和化脓性关节炎。	undetermined	none	none	none	none	none	none
+Moraxella_atlantae	亚特兰大莫拉菌	bacteria	有引起菌血症的报道。	undetermined	none	none	none	none	none	none
+Moraxella_canis	狗莫拉菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Moraxella_lincolnii	林肯莫拉菌	bacteria	呼吸道正常菌群	undetermined	none	none	none	none	none	none
+Moraxella_bovis	牛莫拉菌	bacteria	none	undetermined	none	none	none	none	none	none
+Moraxella_caprae	山羊莫拉菌	bacteria	none 	undetermined	none	none	none	none	none	none
+Legionella_drancourtii	德氏军团菌	bacteria	可导致肺部感染。	La Scola B, Birtles RJ, Greub G, et al. Legionella drancourtii sp. nov., a strictly intracellular amoebal pathogen. Int J Syst Evol Microbiol. 2004 May; 54(Pt 3): 699-703.	none	none	none	none	none	none
+Legionella_pneumophila	嗜肺军团菌	bacteria	主要引起社区获得性肺炎。	Cilloniz C, Torres A. Typical Presentation of Legionella pneumophila Community-Acquired Pneumonia. Rev Port Pneumol (2006). 2017 May - Jun; 23(3): 115-116.	none	none	none	none	none	none
+Legionella_micdadei	米克戴德军团菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Legionella_longbeachae	长滩军团菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Legionella_dumoffii	杜莫夫军团菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Legionella_bozemanii	波兹曼军团菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Bordetella_pertussis	百日咳鲍特菌	bacteria	是百日咳的致病菌。	Nieves DJ, Heininger U. Bordetella pertussis. Microbiol Spectr. 2016 Jun; 4(3).	none	none	none	none	none	none
+Bordetella_parapertussis	副百日咳鲍特菌	bacteria	可引起百日咳和急性呼吸道感染，但症状较轻。	Heininger U, Stehr K, Schmitt-Grohé S, et al. Clinical characteristics of illness caused by Bordetella parapertussis compared with illness caused by Bordetella pertussis. Pediatr Infect Dis J. 1994 Apr; 13(4): 306-9.	none	none	none	none	none	none
+Bordetella_branchiseptica	支气管鲍特菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Bordetella_avium	鸟鲍特菌	bacteria	主要引起动物疾病，也可引起人类呼吸系统感染。	undetermined	none	none	none	none	none	none
+Bordetella_holmesil	霍氏鲍特菌	bacteria	可引起败血症、心内膜炎和呼吸系统疾病等，尤其是在免疫缺陷患者中。	undetermined	none	none	none	none	none	none
+Pasteurella_multocida	多杀巴斯德菌	bacteria	可导致人畜共患病，人在被感染的动物咬伤后表现为皮肤或软组织感染，也可以感染其他部位，如呼吸道，引起局部淋巴结肿大；严重者可导致败血症、骨膜炎、心内膜炎、脑膜炎等。	undetermined	none	none	none	none	none	none
+Pasteurella_pneumotzopica	嗜肺巴斯德菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Pasteurella_haemolytica	溶血巴斯德菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Pasteurella_aerogenes	产气巴斯德菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Pasteurella_qallinarum	鸡巴斯德菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Pasteurella_canis	犬巴斯德菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Pasteurella_bettyae	贝氏巴斯德菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Pasteurella_dagmatis	达可马巴斯德菌	bacteria	可导致人畜共患病，人在被感染的动物咬伤后表现为皮肤或软组织感染，严重者可引起菌血症、心内膜炎、腹膜炎等。	undetermined	none	none	none	none	none	none
+Pasteurella_tomatts	明立巴斯德菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Listeria_monocytogenes	产单核细胞李斯特菌	bacteria	可引起传染性单核细胞增多症，也可引起脑膜炎、菌血症、心内膜炎等。	undetermined	none	none	none	none	none	none
+Listeria_ivanovii	伊氏李斯特菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Listeria_grayi	格氏李斯特菌	bacteria	none	none	none	none	none	none	none	none
+Gardnerella_vaginalis	阴道加德纳菌	bacteria	可引起细菌性阴道病。	undetermined	none	none	none	none	none	none
+Fusobacterium_nucleatum	具核梭杆菌	bacteria	与多种口腔疾病有关，该菌定殖在子宫和阴道中可能会引起胎儿早产，还可能与大肠癌有关。	undetermined	none	none	none	none	none	none
+Fusobacterium_necrophorum	坏死梭杆菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Fusobacterium_gonidiaformans	微生子梭杆菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Fusobacterium_mortiferum	死亡梭杆菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Fusobacterium_naviforme	舟形梭杆菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Fusobacterium_russii	拉氏梭杆菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Fusobacterium_varium	可变梭杆菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Fusobacterium_ulcerans	溃疡梭杆菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Bifidobacterium_bifidum	两歧双歧杆菌	bacteria	none	none	none	none	none	none	none	none
+Bifidobacterium_adolescentis	青春双歧杆菌	bacteria	none	none	none	none	none	none	none	none
+Bifidobacterium_breve	短双歧杆菌	bacteria	none	none	none	none	none	none	none	none
+Bifidobacterium_longum	长双歧杆菌	bacteria	none	none	none	none	none	none	none	none
+Bifidobacterium_infantis	婴儿双歧杆菌	bacteria	none	none	none	none	none	none	none	none
+Bifidobacterium_globosum	蜜蜂双歧杆菌	bacteria	none	none	none	none	none	none	none	none
+Bifidobacterium_catenulatum	小链双歧杆菌	bacteria	none	none	none	none	none	none	none	none
+Bifidobacterium_dentium	齿双歧杆菌	bacteria	可导致龋齿。	undetermined	none	none	none	none	none	none
+Bifidobacterium_animalis	动物双歧杆菌	bacteria	none	none	none	none	none	none	none	none
+Clostridium_tetani	破伤风梭菌	bacteria	是破伤风的病原菌。	undetermined	none	none	none	none	none	none
+Clostridium_perfringens	产气荚膜梭菌	bacteria	是气性坏疽的主要病原菌，还可引起感染性食物中毒和坏死性肠炎。	undetermined	none	none	none	none	none	none
+Clostridium_botulinum	肉毒梭菌	bacteria	是肉毒病的病原菌，可产生毒性极强的肉毒毒素，肉毒毒素具有嗜神经性，若摄入可导致神经末梢麻痹症状，严重者可因呼吸衰竭死亡。	undetermined	none	none	none	none	none	none
+Clostridium_difficile	艰难梭菌	bacteria	是肠道中的正常菌群，也是假膜性肠炎的主要病原菌之一，还可引起气性坏疽、脑膜炎、肾盂肾炎、腹腔和阴道感染、菌血症等，是医院感染的重要病原菌之一。	undetermined	none	none	none	none	none	none
+Clostridium_butyricum	丁酸梭菌	bacteria	none	none	none	none	none	none	none	none
+Microbacterium_barkeri	巴士微杆菌	bacteria	none	none	none	none	none	none	none	none
+Microbacterium_laevaniformans	产左聚糖微杆菌	bacteria	none	none	none	none	none	none	none	none
+Acidovorax_temperans	温和食酸菌	bacteria	none	none	none	none	none	none	none	none
+Delftia_acidovorans	代尔夫特食酸菌	bacteria	食酸戴尔福特菌是少见的潜在致病菌，针对免疫力低下人群可致菌血症、心内膜炎、眼部感染、急性化脓性中耳炎、尿路感染等。	Khan S, Sistla S, Dhodapkar R, et al. Fatal Delftia acidovorans infection in an immunocompetent patient with empyema. Asian Pac J Trop Biomed. 2012 Nov; 2(11): 923-4.	none	none	none	none	none	none
+Acidovorax_ebreus	食酸菌	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Granulicatella_adiacens	毗邻颗粒链菌	bacteria	是口腔的共生菌群，该菌感染可引起菌血症、感染性心内膜炎、骨髓炎、关节炎等。	none	none	none	none	none	none	none
+Granulicatella_elegans	苛养颗粒链菌	bacteria	是口腔的正常菌群，可引起感染性心内膜炎、菌血症等。	none	none	none	none	none	none	none
+Streptomyces_auratus	金色链霉菌	bacteria	none	none	none	none	none	none	none	none
+Streptomyces_roseoverticillatus	玫瑰轮丝链霉菌	bacteria	none	none	none	none	none	none	none	none
+Brachybacterium_paraconglomeratum	副凝聚小短杆菌	bacteria	none	none	none	none	none	none	none	none
+Brachybacterium_muris	小鼠小短杆菌	bacteria	none	none	none	none	none	none	none	none
+Methylobacterium_mesophilicum	嗜中温甲基杆菌	bacteria	机会致病菌，通常发生在免疫缺陷个体中，可引起腹膜炎及脑膜炎等。	Dewar JW, Wagner KR. Peritonitis due to Methylobacterium mesophilicum complicating ambulatory peritoneal dialysis--British Columbia. Can Dis Wkly Rep. 1988 Dec 3;14(48): 217-9.	none	none	none	none	none	none
+Methylobacterium_radiotolerans	耐辐射甲基杆菌	bacteria	none	none	none	none	none	none	none	none
+Methylobacterium_extorquens	扭脱甲基杆菌	bacteria	none	none	none	none	none	none	none	none
+Methylobacterium_populi	极甲基杆菌	bacteria	none	none	none	none	none	none	none	none
+Bradyrhizobium_japonicum	大豆慢生根瘤菌	bacteria	none	none	none	none	none	none	none	none
+Bradyrhizobium_liaoningense	辽宁慢生根瘤菌	bacteria	none	none	none	none	none	none	none	none
+Novosphingobium_aromaticivorans	新鞘氨醇菌	bacteria	none	none	none	none	none	none	none	none
+Novosphingobium_pentaromativorans	食五环物新鞘氨醇菌	bacteria	none	none	none	none	none	none	none	none
+Novosphingobium_resinovorum	食树脂新鞘氨醇菌	bacteria	none	none	none	none	none	none	none	none
+Deinococcus_wulumuqiensis	乌鲁木齐奇异球菌	bacteria	none	none	none	none	none	none	none	none
+Deinococcus_geothermalis	热泉奇异球菌	bacteria	none	none	none	none	none	none	none	none
+Deinococcus_ficus	无花果奇异球菌	bacteria	none	none	none	none	none	none	none	none
+Weissella_hellenica	希腊魏氏菌	bacteria	none	none	none	none	none	none	none	none
+Weissella_confusa	混淆魏氏菌	bacteria	可引起菌血症等。	none	none	none	none	none	none	none
+Rothia_mucilaginosa	粘滑罗氏菌	bacteria	机会致病菌，是口腔和呼吸道正常菌群，少数情况下可导致免疫受损患者感染，引起菌血症、肺炎、心内膜炎、腹膜炎等。	De Escalante Yangüela B, Gracia Gutiérrez A, Gracia Tello B, et al. Bilateral bronchopneumonia due to Rothia mucilaginosa. An Sist Sanit Navar. 2017 Dec 29; 40(3): 479-483.	none	none	none	none	none	none
+Rothia_dentocariosa	龋齿罗氏菌	bacteria	是口腔和呼吸道的正常菌群，最常见的感染是心内膜炎。	none	none	none	none	none	none	none
+Selenomonas_sputigena	生痰新月形单胞菌	bacteria	可引起慢性牙周炎、菌血症等。	Pinon G, Grollier G, Romet-Lemonne JL, et al. Fatal Selenomonas sputigena septicemia probably originating from lung abscess. Eur J Clin Microbiol. 1985 Jun; 4(3): 343-4.	none	none	none	none	none	none
+Selenomonas_infelix	损伤新月形单胞菌	bacteria	可引起菌血症和肺脓肿。	Bisiaux-Salauze B, Perez C, Sebald M, et al. Bacteremias caused by Selenomonas artemidis and Selenomonas infelix. J Clin Microbiol. 1990 Jan; 28(1): 140-2.	none	none	none	none	none	none
+Thermomonas_brevis	短热单胞菌	bacteria	none	none	none	none	none	none	none	none
+Thermomonas_fusca	茶色热单胞菌	bacteria	none	none	none	none	none	none	none	none
+Sphingobium_herbicidovorans	食除草剂鞘氨醇菌	bacteria	none	none	none	none	none	none	none	none
+Sphingobium_yanoikuyae	矢野口鞘氨醇菌	bacteria	none	none	none	none	none	none	none	none
+Paracoccus_sphaerophysae	苦马豆副球菌	bacteria	none	none	none	none	none	none	none	none
+Paracoccus_yeei	依氏副球菌	bacteria	有引起角膜炎、腹膜炎等的报道。	none	none	none	none	none	none	none
+Atopobium_rimae	龈裂陌生菌	bacteria	none	none	none	none	none	none	none	none
+Atopobium_parvulum	极小陌生菌	bacteria	none	none	none	none	none	none	none	none
+Capnocytophaga_granulosa	颗粒二氧化碳噬纤维菌	bacteria	none	none	none	none	none	none	none	none
+Capnocytophaga_gingivalis	牙龈二氧化碳嗜纤维菌	bacteria	none	none	none	none	none	none	none	none
+Stenotrophomonas_rhizophila	嗜根寡养单胞菌	bacteria	none	none	none	none	none	none	none	none
+Stenotrophomonas_maltophilia	嗜麦芽窄食单胞菌	bacteria	机会致病菌，主要引起院内感染，包括菌血症、脑膜炎、心内膜炎、腹膜炎、尿路感染、附睾炎、结膜炎、角膜炎、眼内炎以及广泛的皮肤黏膜和软组织感染，也可引起医源性败血症、肺炎等。	Furuichi M, Ito K, Miyairi I. Characteristics of Stenotrophomonas maltophilia bacteremia in children. Pediatr Int. 2016 Feb; 58(2): 113-8.	none	none	none	none	none	none
+Brevundimonas_vesicularis	泡囊短波单胞菌	bacteria	可引起肺炎、败血症、皮肤炎症和坏死性蜂窝织炎等。	Lin CY, Chen YH. Bacteremia due to Brevundimonas vesicularis. J Microbiol Immunol Infect. 2013 Apr; 46(2): 143.	none	none	none	none	none	none
+Brevundimonas_diminuta	缺陷短波单胞菌	bacteria	主要引起免疫力低下人群的感染，包括菌血症、腹膜炎、角膜炎等。	Cao H, Li M, Yang X, et al. Brevundimonas diminuta bacteremia in a man with myelodysplastic syndromes. Indian J Pathol Microbiol. 2015 Jul-Sep; 58(3): 384-6.	none	none	none	none	none	none
+Gordonia_sputi	痰液戈登菌	bacteria	可引起菌血症、脑膜炎等。	Martín D, Barrios A, Domingo D, et al. Cerebrospinal fluid shunt-associated meningitis caused by Gordonia sputi: case report and review of the literature. Infez Med. 2017 Jun 1; 25(2): 174-178.	none	none	none	none	none	none
+Gordonia_bronchialis	支气管戈登菌	bacteria	可在免疫受损机体中引起骨髓炎、腹膜炎、肺部感染和菌血症等。	Chang JH, Ji M, Hong HL, et al. Sternal Osteomyelitis Caused by Gordonia bronchialis after Open-Heart Surgery. Infect Chemother. 2014 Jun; 46(2): 110-4.	none	none	none	none	none	none
+Leuconostoc_pseudomesenteroides	假肠膜明串珠菌	bacteria	在免疫功能低下患者中可引起血液感染。	Ino K, Nakase K, Suzuki K, et al. Bacteremia due to Leuconostoc pseudomesenteroides in a Patient with Acute Lymphoblastic Leukemia: Case Report and Review of the Literature. Case Rep Hematol. 2016; 2016: 7648628.	none	none	none	none	none	none
+Leuconostoc_fallax	落叶明串珠菌	bacteria	none	none	none	none	none	none	none	none
+Kocuria_rhizophila	嗜根考克氏菌	bacteria	none	none	none	none	none	none	none	none
+Kocuria_palustris	沼泽考克氏菌	bacteria	none	none	none	none	none	none	none	none
+Eikenella_corrodens	啮蚀艾肯菌	bacteria	是人类口腔和上呼吸道的共生菌，可引起口腔和牙周感染、心内膜炎、腹膜炎等。	Millán Díaz B, González Tabarés L, Cobelo Casas C, et al. Eikenella corrodens and Prevotella oralis peritonitis in patients on peritoneal dialysis. Nefrologia. 2018 May - Jun; 38(3): 341-342.	none	none	none	none	none	none
+Dolosigranulum_pigrum	懒惰狡诈球菌	bacteria	可引起上呼吸道感染、医院获得性肺炎、关节炎和败血症等。	Lécuyer H, Audibert J, Bobigny A, et al. Dolosigranulum pigrum causing nosocomial pneumonia and septicemia. J Clin Microbiol. 2007 Oct; 45(10): 3474-5.	none	none	none	none	none	none
+Massilia_timonae	蒂莫内马赛菌	bacteria	可引起眼部感染，如术后慢性眼内炎、角膜脓肿等。	Chiquet C, Boisset S, Pechinot A, et al. Massilia timonae as cause of chronic endophthalmitis following cataract surgery. J Cataract Refract Surg. 2015 Aug; 41(8): 1778-80.	none	none	none	none	none	none
+Janibacter_hoylei	霍伊尔降解菌	bacteria	一般只能从上层大气样品中分离到，但有其引起新生儿菌血症的报道。	Pawar SP, Dhotre DP, Shetty SA. Genome sequence of Janibacter hoylei MTCC8307, isolated from the stratospheric air. J Bacteriol. 2012 Dec; 194(23): 6629-30.	none	none	none	none	none	none
+Citrobacter_freundii	弗氏柠檬酸杆菌	bacteria	是正常肠道菌群组成成分，少数菌株与院内机会性感染有关，可引起免疫缺陷患者的呼吸道、泌尿道和血液感染。	Whalen JG, Mully TW, English JC 3rd. Spontaneous Citrobacter freundii infection in an immunocompetent patient. Arch Dermatol. 2007 Jan; 143(1): 124-5.	none	none	none	none	none	none
+Comamonas_testosteroni	睾丸酮丛毛单胞菌	bacteria	睾丸酮丛毛单胞菌为机会致病菌，可引起呼吸道感染、腹膜炎、菌血症等。	Hung YM, Chang YT, Kao CH. Polymicrobial Bacteremia Involving Comamonas testosteroni in a Patient on Dialysis With Acute Appendicitis. Ther Apher Dial. 2017 Dec; 21(6): 637-638.	none	none	none	none	none	none
+Lautropia_mirabilis	奇异劳特罗普氏菌	bacteria	常见于口腔和上呼吸道，可能与免疫低下患者感染有关，可从HIV患者的口腔与囊性纤维化患者的痰液中分离出。	Rossmann SN, Wilson PH, Hicks J, et al. Isolation of Lautropia mirabilis from oral cavities of human immunodeficiency virus-infected children. J Clin Microbiol. 1998 Jun; 36(6): 1756-60.	none	none	none	none	none	none
+Cardiobacterium_hominis	人类心杆菌	bacteria	人类心杆菌是口腔和呼吸道上部的常见细菌，较少引起疾病，偶可引起心内膜炎。	Malani AN, Aronoff DM, Bradley SF, et al. Cardiobacterium hominis endocarditis: Two cases and a review of the literature. Eur J Clin Microbiol Infect Dis. 2006 Sep; 25(9): 587-95.	none	none	none	none	none	none
+Abiotrophia_defectiva	软弱贫养菌	bacteria	可引起心内膜炎和菌血症。	Mouyis K, Metaxa S, Missouris C. Abiotrophia defectiva Endocarditis Complicated by Ventricular Tachycardia. J Heart Valve Dis. 2016 Jan; 25(1): 114-115.	none	none	none	none	none	none
+Psychrobacter_immobilis	静止嗜冷杆菌	bacteria	有引起眼部感染和脑膜炎的报道。	Lloyd-Puryear M, Wallace D, Baldwin T, et al. Meningitis caused by Psychrobacter  immobilis in an infant. J Clin Microbiol. 1991 Sep; 29(9): 2041-2.	none	none	none	none	none	none
+Ralstonia_mannitolilytica	解甘露醇罗尔斯通菌	bacteria	机会致病菌，主要与院内获得性感染有关，可引起败血症、肺炎、腹膜炎等。	Souza DC, Palmeiro JK, Maestri AC, et al. Ralstonia mannitolilytica bacteremia in a neonatal intensive care unit. Rev Soc Bras Med Trop. 2018 Sep-Oct; 51(5): 709-711.	none	none	none	none	none	none
+Tropheryma_whipplei	惠普尔养障体	bacteria	是引起惠普尔病的病原体。惠普尔病是一种少见、慢性、复发性累及多系统的全身感染性疾病，惠普尔病临床表现多种多样且无特异性，包括前驱期多发性关节炎、疲劳、体重减轻和贫血；接着发展为腹痛、腹胀、脂肪泻综合症和恶病质；其他临床表现包括心内膜炎、心肌炎、心包炎和神经系统病症等。	Fenollar F, Lagier JC, Raoult D. Tropheryma whipplei and Whipple's disease. J Infect. 2014 Aug; 69(2): 103-12.	none	none	none	none	none	none
+Kluyvera_ascorbata	抗坏血酸克吕沃尔菌	bacteria	可引起菌血症、尿路感染、胆囊炎等。	Isozaki A, Shirai K, Mimura S, et al. A case of urinary tract infection caused by Kluyvera ascorbata in an infant: case report and review of the literature. J Infect Chemother. 2010 Dec; 16(6): 436-8.	none	none	none	none	none	none
+Nocardiopsis_dassonvillei	达氏拟诺卡氏菌	bacteria	偶有引起皮肤、眼部、肺部感染的报道。	Mordarska H, Zakrzewska-Czerwiñska J, Paściak M, et al. Rare, suppurative pulmonary infection caused by Nocardiopsis dassonvillei recognized by glycolipid markers. FEMS Immunol Med Microbiol. 1998 May;21(1):47-55.	none	none	none	none	none	none
+Halomonas_stevensii	斯氏嗜盐单胞菌	bacteria	斯氏嗜盐单胞菌可从透析患者及其周围环境中分离，具有潜在的致病性。	Stevens DA, Hamilton JR, Johnson N, et al. Halomonas, a newly recognized human pathogen causing infections and contamination in a dialysis center: three new species. Medicine (Baltimore). 2009 Jul; 88(4): 244-9.	none	none	none	none	none	none
+Pseudoramibacter_alactolyticus	非乳解假支杆菌	bacteria	是一种常见的牙髓致病菌。	Siqueira JF Jr, Rôças IN. Pseudoramibacter alactolyticus in primary endodontic infections. J Endod. 2003 Nov; 29(11): 735-8.	none	none	none	none	none	none
+Kluyvera_intermedia	中间克鲁瓦氏菌	bacteria	none	none	none	none	none	none	none	none
+Empedobacter_falsenii	稳杆菌	bacteria	none	none	none	none	none	none	none	none
+Leuconostoc_kimchii	朝鲜泡菜明串珠菌	bacteria	none	none	none	none	none	none	none	none
+Zymobacter_palmae	棕榈发酵杆菌	bacteria	none	none	none	none	none	none	none	none
+Knoellia_flava	黄色诺尔氏菌	bacteria	none	none	none	none	none	none	none	none
+Mumia_flava	Mumia flava	bacteria	none	none	none	none	none	none	none	none
+Cupriavidus_metallidurans	耐金属贪铜菌	bacteria	none	none	none	none	none	none	none	none
+Xenophilus_azovorans	食氮嗜异生质菌	bacteria	none	none	none	none	none	none	none	none
+Finegoldia_magna	大芬戈尔德菌	bacteria	可引起心内膜炎、脓毒性关节炎、乳腺脓肿等。	none	none	none	none	none	none	none
+Sanguibacter_keddieii	科氏血杆菌	bacteria	none	none	none	none	none	none	none	none
+Brevibacterium_linens	扩展短杆菌	bacteria	none	none	none	none	none	none	none	none
+Parvimonas_micra	微小小单孢菌	bacteria	可引起腹腔脓肿、肺脓肿、肾脓肿等，偶可引起关节炎、骨髓炎等。	none	none	none	none	none	none	none
+Slackia_exigua	弱生斯奈克氏菌	bacteria	none	none	none	none	none	none	none	none
+Phascolarctobacterium_succinatutens	考拉杆菌	bacteria	none	none	none	none	none	none	none	none
+Rubritepida_flocculans	紫凝状红暖菌	bacteria	none	none	none	none	none	none	none	none
+Elizabethkingia_anophelis	伊丽莎白菌	bacteria	可引起新生儿菌血症和脑膜炎等。	none	none	none	none	none	none	none
+Candidatus_accumulibacter	聚磷菌	bacteria	none	none	none	none	none	none	none	none
+Afipia_birgiae	伯氏阿菲波菌	bacteria	none	none	none	none	none	none	none	none
+Alteromonas_australica	交替单胞菌	bacteria	none	none	none	none	none	none	none	none
+Aerococcus_urinaeequi	马尿气球菌	bacteria	none	none	none	none	none	none	none	none
+Flectobacillus_major	大弯杆菌	bacteria	none	none	none	none	none	none	none	none
+Bavariicoccus_seileri	Bavariicoccus seileri	bacteria	none	none	none	none	none	none	none	none
+Perlucidibaca_piscinae	鱼塘透明球菌	bacteria	none	none	none	none	none	none	none	none
+Aquitalea_magnusonii	马氏水纤细杆菌	bacteria	none	none	none	none	none	none	none	none
+Leclercia_adecarboxylata	非脱羧勒克菌	bacteria	可在免疫缺陷患者中引起细菌血症、败血症、腹膜炎、蜂窝织炎、心内膜炎和胆囊炎等。	none	none	none	none	none	none	none
+Desulfomicrobium_baculatum	杆状脱硫微菌	bacteria	none	none	none	none	none	none	none	none
+Arthrobacter_arilaitensis	阿氏节杆菌	bacteria	none	none	none	none	none	none	none	none
+Leuconostoc_citreum	柠檬明串珠菌	bacteria	none	none	none	none	none	none	none	none
+Allofustis_seminis	精液别样棒杆菌	bacteria	none	none	none	none	none	none	none	none
+Eremococcus_coleocola	阴道孤独球菌	bacteria	none	none	none	none	none	none	none	none
+Mageeibacillus_indolicus	吲哚麦芽杆菌	bacteria	none	none	none	none	none	none	none	none
+Comamonas_aquatica	水生梳毛菌	bacteria	水生丛毛单胞菌偶有引起菌血症的报道。	none	none	none	none	none	none	none
+Salinicoccus_roseus	玫瑰色盐水球菌	bacteria	none	none	none	none	none	none	none	none
+Alcanivorax_hongdengensis	红灯食烷菌	bacteria	none	none	none	none	none	none	none	none
+Enhydrobacter_aerosaccus	气囊栖水菌	bacteria	none	none	none	none	none	none	none	none
+Filifactor_alocis	龈沟产线菌	bacteria	可引起牙周病。	none	none	none	none	none	none	none
+Rhodococcus_fascians	束红球菌/聚集红球菌	bacteria	none	none	none	none	none	none	none	none
+Solobacterium_moorei	莫氏细小杆菌	bacteria	none	none	none	none	none	none	none	none
+Leptotrichia_buccalis	颊纤毛菌	bacteria	是口腔的正常菌群，可引起肉牙肿、菌血症、心内膜炎感染等。	none	none	none	none	none	none	none
+Tannerella_forsythia	福赛斯坦纳菌	bacteria	主要引起牙周感染，也有研究发现其与动脉粥样硬化、食管癌有关，还能从女性细菌性阴道病中分离到。	none	none	none	none	none	none	none
+Micrococcus_luteus	藤黄微球菌	bacteria	none	none	none	none	none	none	none	none
+Asticcacaulis_excentricus	离中不粘柄菌	bacteria	none	none	none	none	none	none	none	none
+Lysobacter_arseniciresistens	抗砷溶杆菌	bacteria	none	none	none	none	none	none	none	none
+Kytococcus_sedentarius	坐皮肤球菌	bacteria	none	none	none	none	none	none	none	none
+Faecalitalea_cylindroides	Faecalitalea cylindroides	bacteria	none	none	none	none	none	none	none	none
+Pediococcus_pentosaceus	戊糖片球菌	bacteria	none	none	none	none	none	none	none	none
+Paludibacter_propionicigenes	产丙酸栖沼泽杆菌	bacteria	none	none	none	none	none	none	none	none
+Caulobacter_crescentus	新月柄杆菌	bacteria	none	none	none	none	none	none	none	none
+Methylophilus_methylotrophus	甲基营养性噬甲基菌	bacteria	none	none	none	none	none	none	none	none
+Aggregatibacter_segnis	缓慢团聚杆菌	bacteria	none	none	none	none	none	none	none	none
+Pandoraea_sputorum	痰潘多拉菌	bacteria	痰潘多拉菌可在囊性纤维化患者中引起肺部感染。	none	none	none	none	none	none	none
+Megasphaera_micronuciformis	小核桃形巨球形菌	bacteria	none	none	none	none	none	none	none	none
+Brevibacterium_casei	乳酪短杆菌	bacteria	机会致病菌，可引起菌血症、腹膜炎、脑脓肿等。	none	none	none	none	none	none	none
+Dermacoccus_nishinomiyaensis	西宫皮肤球菌	bacteria	none	none	none	none	none	none	none	none
+Peptoniphilus_rhinitidis	嗜蛋白胨菌	bacteria	none	none	none	none	none	none	none	none
+Lactococcus_lactis	乳酸乳球菌	bacteria	none	none	none	none	none	none	none	none
+Saccharopolyspora_rectivirgula	糖多孢菌	bacteria	none	none	none	none	none	none	none	none
+Intrasporangium_oryzae	间孢囊菌	bacteria	none	none	none	none	none	none	none	none
+Thauera_aminoaromatica	芳香氨基酸索氏菌	bacteria	none 	none	none	none	none	none	none	none
+Curvibacter_lanceolatus	柳叶状弯钩菌	bacteria	none	none	none	none	none	none	none	none
+Pseudoalteromonas_haloplanktis	游海假交替单胞菌	bacteria	none	none	none	none	none	none	none	none
+Gordonia_polyisoprenivorans	食异戊二烯戈登氏菌	bacteria	none	none	none	none	none	none	none	none
+Brevibacterium_massiliense	短杆菌	bacteria	偶有引起菌血症的报道。	none	none	none	none	none	none	none
+Nocardiopsis_salina	盐渍拟诺卡氏菌	bacteria	none	none	none	none	none	none	none	none
+Yaniella_halotolerans	耐盐闫逊初氏菌	bacteria	none	none	none	none	none	none	none	none
+Megasphaera_genomosp	巨球型菌	bacteria	none	none	none	none	none	none	none	none
+Serinicoccus_profundi	丝氨酸球菌	bacteria	none	none	none	none	none	none	none	none
+Agrobacterium_albertimagni	土壤杆菌	bacteria	none	none	none	none	none	none	none	none
+Paenibacillus_sophorae	槐根芽孢杆菌	bacteria	none	none	none	none	none	none	none	none
+Kitasatospora_arboriphila	北里孢菌属	bacteria	none	none	none	none	none	none	none	none
+Dechlorosoma_suillum	猪脱氯弯杆菌	bacteria	none	none	none	none	none	none	none	none
+Xanthomonas_campestris	野油菜黄单胞菌	bacteria	none	none	none	none	none	none	none	none
+Ureibacillus_thermosphaericus	嗜热尿素芽胞杆菌	bacteria	none	none	none	none	none	none	none	none
+Pyramidobacter_piscolens	鱼腥味锥形杆菌	bacteria	none	none	none	none	none	none	none	none
+Leptospira_interrogans	问号钩端螺旋体	bacteria	可引起钩端螺旋体病，为人兽共患病，轻者症状似感冒，仅出现轻微的自限性发热；重者还可引起肝、肾等脏器损伤，出现黄疸、肺出血、休克等。	undetermined	none	none	none	none	none	none
+Leptospira_biflexa	双曲钩端螺旋体	bacteria	none	none	none	none	none	none	none	none
+Borrelia_burgdorferi	伯氏疏螺旋体	bacteria	是莱姆病的主要病原体。莱姆病为一种自然疫源性传染病，早期主要表现为皮肤的慢性游走性红斑、乏力、头痛、发热、肌痛等；晚期主要表现为慢性关节炎、慢性神经系统或皮肤异常。	undetermined	none	none	none	none	none	none
+Borrelia_recurrentis	回归热螺旋体	bacteria	回归热螺旋体是引起流行性回归热的病原体，临床表现为菌血症性发热，肝、脾肿大，出现黄疸等。	undetermined	none	none	none	none	none	none
+Borrelia_duttonii	杜通疏螺旋体	bacteria	是引起地方性回归热的病原体。	undetermined	none	none	none	none	none	none
+Borrelia_hermsii	赫姆疏螺旋体	bacteria	是引起地方性回归热的病原体。	undetermined	none	none	none	none	none	none
+Borrelia_vencentii	奋森螺旋体	bacteria	定殖于口腔，在正常情况下不致病，当宿主抵抗力低下时大量繁殖并与梭形杆菌协同引起奋森咽峡炎、溃疡性口腔炎、牙龈炎、口颊坏疽等，多发于学龄前儿童。	undetermined	none	none	none	none	none	none
+Borrelia_coriaceae	革质疏螺旋体	bacteria	none	none	none	none	none	none	none	none
+Treponema_pallidum_subsp_pallidum	苍白密螺旋体苍白亚种	bacteria	又称梅毒螺旋体，引起性传播疾病梅毒。	undetermined	none	none	none	none	none	none
+Treponema_pallidum_subsp_endemicum	苍白密螺旋体地方亚种	bacteria	可引起地方性梅毒。	undetermined	none	none	none	none	none	none
+Treponema_pallidum_subsp_pertenue	苍白密螺旋体极细亚种	bacteria	又称雅司螺旋体，是雅司的病原体。	undetermined	none	none	none	none	none	none
+Treponema_carateum	品他密螺旋体	bacteria	是品他病的病原体。	undetermined	none	none	none	none	none	none
+Treponema_maltophilum	嗜麦芽密螺旋体	bacteria	可能导致口腔感染。	Siqueira JF Jr, Rôças IN. PCR-based identification of Treponema maltophilum, T. amylovorum, T. medium, and T. lecithinolyticum, in primary root canal infections. Arch Oral Biol. 2003 Jul; 48(7): 495-502.	none	none	none	none	none	none
+Mycoplasma_pneumoniae	肺炎支原体	bacteria	可引起呼吸系统感染，临床表现为气管炎、支气管炎、上呼吸道疾病和肺炎等。	Waites KB, Talkington DF. Mycoplasma pneumoniae and Its Role as a Human Pathogen. Clin Microbiol Rev. 2004 Oct; 17(4): 697-728.	none	none	none	none	none	none
+Ureaplasma_urealyticum	解脲脲原体	bacteria	解脲脲原体可引起男性非淋菌性尿道炎。	undetermined	none	none	none	none	none	none
+Mycoplasma_genitalium	生殖道支原体	bacteria	可引起男性和女性的尿道炎，以及女性的宫颈炎和盆腔炎，包括子宫内膜炎和输卵管炎。	Wiesenfeld HC, Manhart LE. Mycoplasma genitalium in Women: Current Knowledge and Research Priorities for This Recently Emerged Pathogen. J Infect Dis. 2017 Jul 15; 216(suppl_2): S389-S395.	none	none	none	none	none	none
+Mycoplasma_hominis	人型支原体	bacteria	可引起盆腔炎、细菌性阴道病等，也与男性不育有关。	none	none	none	none	none	none	none
+Mycoplasma_salivarium	唾液支原体	bacteria	与眼睛和耳部疾病、口腔感染、化脓性关节炎和牙周病有关，临床上也有引发肺炎的报道。	Nolan TJ, Gadsby NJ, Hellyer TP, et al. Low-pathogenicity Mycoplasma spp. alter human monocyte and macrophage function and are highly prevalent among patients with ventilator-acquired pneumonia. Thorax. 2016 Jul; 71(7): 594-600.	none	none	none	none	none	none
+Mycoplasma_orale	口腔支原体	bacteria	undetermined	undetermined	none	none	none	none	none	none
+Chlamydia_trachomatis	沙眼衣原体	bacteria	可分为3个生物型：沙眼生物型可导致包涵体性结膜炎、男性非淋菌性尿道炎、附睾炎、直肠炎、女性宫颈炎、尿道炎、子宫内膜炎、盆腔炎以及新生儿和免疫抑制患者肺炎；性病淋巴肉芽肿生物型（LGV）生物型可导致性病淋巴肉肉芽肿；以及小鼠生物型	undetermined	none	none	none	none	none	none
+Chlamydia_psittaci	鹦鹉热衣原体	bacteria	可引起呼吸道感染，通常是因为意外接触受染的鸟类。	undetermined	none	none	none	none	none	none
+Chlamydia_pneumoniae	肺炎衣原体	bacteria	该菌感染的临床表现为咽炎、支气管炎、肺炎等。	undetermined	none	none	none	none	none	none
+Chlamydia_pecorum	家畜衣原体	bacteria	none	none	none	none	none	none	none	none
+Rickettsia_prowazekii	普氏立克次体	bacteria	可引起流行性斑疹伤寒，临床表现为高热、严重头痛、肌肉酸痛、咳嗽、呕吐、腹痛、全身皮疹等。	undetermined	none	none	none	none	none	none
+Rickettsia_typhi	斑疹伤寒立克次氏体	bacteria	可引起地方性斑疹伤寒，又称鼠型斑疹伤寒或蚤传斑疹伤寒，临床表现为高热、严重头痛、肌肉酸痛、咳嗽、呕吐、腹痛、全身皮疹等。	undetermined	none	none	none	none	none	none
+Coxiella_burnetii	伯氏考克斯体	bacteria	是Q热的病原体，临床表现为斑疹伤寒、肝炎和肺炎等。	undetermined	none	none	none	none	none	none
+Rickettsia_tsutsugamushi	恙虫病立克次体	bacteria	又称东方立克次体，是恙虫病的病原体，皮肤损伤是其主要特征。	undetermined	none	none	none	none	none	none
+Sphingomonas_sp.	鞘氨醇单胞菌属	bacteria	none	none	none	none	none	none	none	none
+Peptoniphilus_sp.	嗜蛋白胨菌属	bacteria	none	none	none	none	none	none	none	none
+Candidatus_Pelagibacter	远洋杆菌属	bacteria	none	none	none	none	none	none	none	none
+Mogibacterium_sp.	难养杆菌属	bacteria	none	none	none	none	none	none	none	none
+Olsenella_sp.	欧尔森氏菌属	bacteria	none	none	none	none	none	none	none	none
+Oribacterium_sp.	口腔杆菌属	bacteria	none	none	none	none	none	none	none	none
+Weeksella_sp.	威克氏菌属	bacteria	none	none	none	none	none	none	none	none
+Azoarcus_sp.	固氮弓菌属	bacteria	none	none	none	none	none	none	none	none
+Arthrobacter_sp.	节细菌属	bacteria	none	none	none	none	none	none	none	none
+Agrobacterium_sp.	土壤杆菌属	bacteria	none	none	none	none	none	none	none	none
+Denitrobacter_sp.	脱氮杆菌属	bacteria	none	none	none	none	none	none	none	none
+Hylemonella_sp.	海勒蒙氏菌属	bacteria	none	none	none	none	none	none	none	none
+Leptothrix_sp.	纤毛菌属	bacteria	none	none	none	none	none	none	none	none
+Massilia_sp.	马赛菌属	bacteria	none	none	none	none	none	none	none	none
+Pseudonocardia_sp.	假诺卡氏菌属	bacteria	none	none	none	none	none	none	none	none
+Blattabacterium_sp.	蟑螂杆状体属	bacteria	none	none	none	none	none	none	none	none
+Pusillimonas_sp.	极小单胞菌属	bacteria	none	none	none	none	none	none	none	none
+Actinobaculum_sp.	放线杆状菌属	bacteria	none	none	none	none	none	none	none	none
+Cyanothece_sp.	蓝杆藻属	bacteria	none	none	none	none	none	none	none	none
+Tannerella_sp.	坦纳菌属	bacteria	none	none	none	none	none	none	none	none
+Nocardioides_sp.	类诺卡氏菌属	bacteria	none	none	none	none	none	none	none	none
+Flavobacterium_sp.	黄杆菌属	bacteria	none	none	none	none	none	none	none	none
+Georgenia_sp.	圣格奥尔根菌属	bacteria	none	none	none	none	none	none	none	none
+Sphingopyxis_sp.	鞘氨醇盒菌属	bacteria	none	none	none	none	none	none	none	none
+Pantoea_sp.	泛菌属	bacteria	none	none	none	none	none	none	none	none
+Planococcus_sp.	动性球菌属	bacteria	none	none	none	none	none	none	none	none
+Dietzia_sp.	迪茨菌属	bacteria	none	none	none	none	none	none	none	none
+Brevibacterium_sp.	短杆菌属	bacteria	none	none	none	none	none	none	none	none
+Malassezia_fufur	糠秕马拉色菌	真菌	糠秕马拉色菌可引起皮肤表面黄褐色的花斑藓，如汗斑。	undetermined	none	none	none	none	none	none
+Malassezia_globosa	球形马拉色菌	真菌	主要引起皮肤疾病，包括头皮屑、脂溢性皮炎、花斑癣和脂溢性皮炎等。	DeAngelis YM, Saunders CW, Johnstone KR, et al. Isolation and expression of a Malassezia globosa lipase gene, LIP1. J Invest Dermatol. 2007 Sep; 127(9): 2138-46.	none	none	none	none	none	none
+Piedraia_hortai	何德毛结节菌	真菌	何德毛结节菌可在病发上形成硬的黑色结节，使毛干上结节如沙粒状。	undetermined	none	none	none	none	none	none
+Trichophyton_rubrum	红色毛癣菌	真菌	皮肤癣菌，可侵犯皮肤，引起手足癣、体癣、股癣、叠瓦癣等。	undetermined	none	none	none	none	none	none
+Trichophyton_roseum	玫瑰色毛癣菌	真菌	皮肤癣菌，可侵犯皮肤，引起手足癣、体癣、股癣、叠瓦癣等。	undetermined	none	none	none	none	none	none
+Trichophyton_verrucosum	疣状毛癣菌	真菌	皮肤癣菌，可侵犯皮肤，引起手足癣、体癣、股癣、叠瓦癣等。	undetermined	none	none	none	none	none	none
+Trichophyton_equinum	马类毛癣菌	真菌	皮肤癣菌，可侵犯皮肤，引起手足癣、体癣、股癣、叠瓦癣等。	undetermined	none	none	none	none	none	none
+Trichophyton__faviforme	黄癣样毛癣菌	真菌	皮肤癣菌，可侵犯皮肤，引起手足癣、体癣、股癣、叠瓦癣等。	undetermined	none	none	none	none	none	none
+Trichophyton_tonsurans	断发毛癣菌	真菌	皮肤癣菌，可侵犯皮肤，引起手足癣、体癣、股癣、叠瓦癣等。	undetermined	none	none	none	none	none	none
+Trichophyton_gypseum	石膏样毛癣菌	真菌	皮肤癣菌，可侵犯皮肤，引起手足癣、体癣、股癣、叠瓦癣等。	undetermined	none	none	none	none	none	none
+Microsporum_canis	犬小孢子菌	真菌	皮肤癣菌，可侵犯皮肤，引起手足癣、体癣、股癣、叠瓦癣等。	undetermined	none	none	none	none	none	none
+Microsporum_gypseum	石膏小孢子菌	真菌	皮肤癣菌，可侵犯皮肤，引起手足癣、体癣、股癣、叠瓦癣等。	undetermined	none	none	none	none	none	none
+Microsporum_ferrugineum	铁锈色小孢子菌	真菌	皮肤癣菌，可侵犯皮肤，引起手足癣、体癣、股癣、叠瓦癣等。	undetermined	none	none	none	none	none	none
+Epidermophyton_floccosum	絮状表皮癣菌	真菌	皮肤癣菌，可侵犯皮肤，引起手足癣、体癣、股癣、叠瓦癣等。	undetermined	none	none	none	none	none	none
+Candida_albicans	白假丝酵母菌	真菌	白假丝酵母菌又称白色念珠菌，是体表和腔道的正常菌群成员，为机会致病菌，当正常菌群失调或抵抗力降低时引起疾病。其可侵犯人体许多部位，引起皮肤黏膜、内脏和中枢神经系统等的感染。皮肤感染临床表现可见有鹅口疮、口角糜烂、外阴与阴道炎等；内脏感染可引肺炎、肠炎、膀胱炎、心内膜炎和败血症等；中枢神经系统感染可由脑膜炎、脑脓肿等。	Ideguchi S, Yamamoto K, Ikeda A, et al. A case of bilateral emphysematous pyelonephritis caused by Candida albicans. J Infect Chemother. 2018 Nov 15. pii: S1341-321X(18)30421-5.	none	none	none	none	none	none
+Candida_glabrata	光滑假丝酵母菌	真菌	机会致病菌，能感染人的泌尿生殖道和血液，在老年人和HIV患者中较为常见。	Emami S, Lew SQ. Candida glabrata PD-Associated Peritonitis: A Case Report. Perit Dial Int. 2018 Sep-Oct;38(5):391-392.	none	none	none	none	none	none
+Candida_tropicalis	热带假丝酵母菌	真菌	是常见于皮肤、胃肠道和泌尿生殖道的病原体，引起的疾病类型因感染部位而有所不同。皮肤黏膜念珠菌病除口咽念珠菌病、角唇炎、包皮炎、鹅口疮、阴道念珠菌病等外；还可引起内脏念珠菌病，感染累及全身所有内脏器官，以肺念珠菌病和胃肠道念珠菌病最为常见；此外，还可引起侵袭性和播散性念珠菌病、菌血症等。	Kothavade RJ, Kura MM, Valand AG, et al. Candida tropicalis: its prevalence, pathogenicity and increasing resistance to fluconazole. J Med Microbiol. 2010 Aug; 59(Pt 8): 873-80.	none	none	none	none	none	none
+Candida_krusei	克柔假丝酵母菌	真菌	undetermined	undetermined	none	none	none	none	none	none
+Candida_stellatoidea	星形假丝酵母菌	真菌	undetermined	undetermined	none	none	none	none	none	none
+Candida_kefyr	克菲假丝酵母菌	真菌	undetermined	undetermined	none	none	none	none	none	none
+Candida_lusitaniae	葡萄牙假丝酵母菌	真菌	undetermined	undetermined	none	none	none	none	none	none
+Candida_guilliermondii	季也蒙假丝酵母菌	真菌	undetermined	undetermined	none	none	none	none	none	none
+Candida_viswanathii	维斯假丝酵母菌	真菌	undetermined	undetermined	none	none	none	none	none	none
+Candida_parapsilosis	近平滑假丝酵母菌	真菌	undetermined	undetermined	none	none	none	none	none	none
+Candida_dubliniensis	都柏林假丝酵母菌	真菌	undetermined	undetermined	none	none	none	none	none	none
+Cryptococcus_neoformans	新型隐球菌	真菌	新型隐球菌通常为条件致病菌，可侵犯皮肤，黏膜、淋巴结、骨、内脏等，引起慢性炎症和脓肿，尤其易侵袭中枢神经系统，导致亚急性或慢性脑膜炎，其所致脑膜炎肠发生于体质虚弱、免疫力低下患者，如白血病、艾滋病等。	Kwon-Chung KJ, Fraser JA, Doering TL, et al. Cryptococcus neoformans and Cryptococcus gattii, the etiologic agents of cryptococcosis. Cold Spring Harb Perspect Med. 2014 Jul 1; 4(7): a019760.	none	none	none	none	none	none
+Cryptococcus_gattii	格特隐球菌	真菌	可导致肺炎、脑膜炎以及中枢神经系统感染，有时感染还可累及皮肤、骨、关节、淋巴结、腹腔等部位。	Kwon-Chung KJ, Fraser JA, Doering TL, et al. Cryptococcus neoformans and Cryptococcus gattii, the etiologic agents of cryptococcosis. Cold Spring Harb Perspect Med. 2014 Jul 1; 4(7): a019760.	none	none	none	none	none	none
+Aspergillus_fumigatus	烟曲霉	真菌	是引起免疫缺陷个体真菌感染的常见病原体，可引起肺部感染、支气管肺曲霉病、过敏性疾病和全身性曲霉菌病等。	Hohl TM, Feldmesser M. Aspergillus fumigatus: Principles of Pathogenesis and Host Defense. Eukaryot Cell. 2007 Nov; 6(11): 1953-63.	none	none	none	none	none	none
+Aspergillus_flavus	黄曲霉	真菌	可引起肺、外耳道、皮肤脓皮病样曲霉病等，某些菌系可产生黄曲霉毒素，引起中毒或致癌。	Hedayati MT, Pasqualotto AC, Warn PA, et al. Aspergillus flavus: human pathogen, allergen and mycotoxin producer. Microbiology. 2007 Jun; 153(Pt 6): 1677-92.	none	none	none	none	none	none
+Aspergillus_niger	黑曲霉	真菌	可导致肺曲霉病，也是真菌性耳部感染的常见病因，可引起疼痛、暂时性听力丧失，严重情况下损害耳道和鼓膜。	Workum JD, de Jong SW, Gresnigt MS, et al. Microbiological and immunological characteristics of a lethal pulmonary Aspergillus niger infection in a non-neutropenic patient. Med Mycol Case Rep. 2018 Sep; 21: 4–7.	none	none	none	none	none	none
+Aspergillus_oryzae	米曲霉	真菌	在食品酿造使用较广泛，偶可对免疫力低下人群造成感染。	Mazza A, Luciani N, Luciani M, et al. Fungal Endocarditis Due to Aspergillus oryzae: The First Case Reported in the Literature. J Heart Valve Dis. 2017 Mar; 26(2): 205-207.	none	none	none	none	none	none
+Aspergillus_carbonarius	炭黑曲霉	真菌	none	none	none	none	none	none	none	none
+Aspergillus_clavatus	棒曲霉	真菌	机会致病菌，主要引起肺部感染，偶可导致心内膜炎等。	Opal SM, Reller LB, Harrington G, et al. Aspergillus clavatus endocarditis involving a normal aortic valve following coronary artery surgery. Rev Infect Dis. 1986 Sep-Oct; 8(5): 781-5.	none	none	none	none	none	none
+Rhizopus_arrhizus	少根根霉	真菌	可引起毛霉菌病，感染大多首发在鼻或耳旁，经口腔唾液流入上颌窦和眼眶，形成肉芽肿；后可经血液流入脑部，形成脑膜炎；严重病例可扩散至全身，导致死亡。	undetermined	none	none	none	none	none	none
+Rhizopus_oryzae	米根霉	真菌	可引起毛霉菌病，感染大多首发在鼻或耳旁，经口腔唾液流入上颌窦和眼眶，形成肉芽肿；后可经血液流入脑部，形成脑膜炎；严重病例可扩散至全身，导致死亡。	undetermined	none	none	none	none	none	none
+Histoplasma_capsulatum	荚膜组织胞浆菌	真菌	传染性极大，主要侵犯网状内皮系统，有时也可引起血行播散而侵犯全身脏器，引起的临床病症有急性或慢性肺组织胞浆菌病和播散性组织胞浆菌病。	undetermined	none	none	none	none	none	none
+Pneumocystis_jirovecii	耶氏肺孢子菌	真菌	机会致病菌，可引起肺孢子菌肺炎，健康人多数为隐性感染，当机体免疫功能低下时易导致间质性浆细胞性肺炎。	Avino LJ, Naylor SM, Roecker AM. Pneumocystis jirovecii Pneumonia in the Non-HIV-Infected Population. Ann Pharmacother. 2016 Aug; 50(8): 673-9.	none	none	none	none	none	none
+Cladosporium_carrianii	卡氏枝孢霉	真菌	主要侵犯肢体皮肤，早期皮肤患处发生丘疹，进而形成结节，随病程发展，可影响淋巴回流，形成肢体象皮肿，免疫力低下时可侵犯中枢神经或经血行扩散。	undetermined	none	none	none	none	none	none
+Fonseceea_pedrosoi	裴氏着色芽生菌	真菌	裴氏着色芽生菌主要侵犯肢体皮肤，早期皮肤患处发生丘疹，进而形成结节，随病程发展，可影响淋巴回流，形成肢体象皮重，免疫力低下时可侵犯中枢神经或经血行扩散。	undetermined	none	none	none	none	none	none
+Sporotrichum_schenckii	申克孢子丝菌	真菌	申克孢子丝菌可经皮肤损伤侵入，后沿淋巴管分布，引起亚急性或慢性儒雅中，使淋巴管形成孢子丝下疳；也可经肠道或呼吸道进入肺，随后经血行播散值其他器官引起深部感染。	undetermined	none	none	none	none	none	none
+Enterocytozoon_bieneusi	微孢子虫	真菌	主要导致动物感染，也是引起HIV感染者或艾滋病患者腹泻的重要病原体。	Huibers MHW, Moons P, Maseko N, et al. Multiplex Real-time PCR Detection of Intestinal Protozoa in HIV-infected Children in Malawi: Enterocytozoon Bieneusi Is Common and Associated With Gastrointestinal Complaints and May Delay BMI (Nutritional Status) Recovery. Pediatr Infect Dis J. 2018 Sep; 37(9): 910-915.	none	none	none	none	none	none
+Talaromyces_marneffei	马尔尼菲蓝状菌	真菌	重要的致病性真菌，能引起人全身性真菌病。这种疾病是东南亚特有的，并且在CD4计数低的HIV患者中很常见。	Miriams Teresita Castro-Lainez.(2018).Talaromyces marneffei infection in a non-HIV non-endemic population. IDCases.Volume 12, Pages 21-24.	none	none	none	none	none	none
+Microsporidium	微孢子虫	真菌	引起微孢子虫病，为一种人兽共患病，症状因感染部位而异，比如肠道微孢子虫病主要症状为消瘦及慢性腹泻等。	undetermined	none	none	none	none	none	none
+Neosartorya_fischeri	费氏新萨托菌	真菌	none	none	none	none	none	none	none	none
+Mitosporidium_daphniae	达芙尼丝孢子虫	真菌	none	none	none	none	none	none	none	none
+Sporisorium_reilianum	玉米丝轴黑粉菌	真菌	none	none	none	none	none	none	none	none
+Botryotinia_fuckeliana	灰葡萄孢霉	真菌	none	none	none	none	none	none	none	none
+Sordaria_macrospora	大孢粪壳菌	真菌	none	none	none	none	none	none	none	none
+Coccidioides_immitis	粗球孢子菌	真菌	可引发球孢子菌病、裂谷热	none	none	none	none	none	none	none
+Magnaporthe_oryzae	稻瘟病菌	真菌	none	none	none	none	none	none	none	none
+Hamiltosporidium_tvaerminnensis	大型溞微孢子虫	寄生虫	none	none	none	none	none	none	none	none
+Melampsora_larici-populina	松杨栅锈菌	真菌	none	none	none	none	none	none	none	none
+Yarrowia_lipolytica	解脂耶氏酵母	真菌	none	none	none	none	none	none	none	none
+Phycomyces_blakesleeanus	布拉克须霉	真菌	none	none	none	none	none	none	none	none
+Saccharomyces_cerevisiae	酿酒酵母	真菌	none	none	none	none	none	none	none	none
+Albugo_candida	白锈菌	真菌	none	none	none	none	none	none	none	none
+Coprinopsis_cinerea	灰盖鬼伞	真菌	none	none	none	none	none	none	none	none
+Fusarium_verticillioides	轮状镰刀菌	真菌	none	none	none	none	none	none	none	none
+Human_adenovirus	人腺病毒	病毒	可导致呼吸系统感染，如急性发热性咽喉炎、急性支气管炎和肺炎等，除呼吸道感染外，腺病毒的疾病和表现包括肠胃炎、结膜炎、膀胱炎和皮疹。免疫系统受损的患者特别容易发生腺病毒感染的严重并发症。人腺病毒已有A至G，7个种。A型腺病毒感染通常引起脑膜脑炎，B型腺病毒感染引起肺炎、膀胱炎、角膜炎和结膜炎，C型感染引起肝炎和肺炎，D型腺病毒感染引起脑膜脑炎、角膜炎和结膜炎，E型通常引起肺炎，F型和G型感染可引起肠胃炎。	Ghebremedhin B. Human adenovirus: Viral pathogen with increasing importance. Eur J Microbiol Immunol (Bp). 2014 Mar; 4(1): 26-33.	none	none	none	none	none	none
+Human_adenovirus_B	人腺病毒B型	病毒	可导致呼吸系统感染，如急性发热性咽喉炎、急性支气管炎和肺炎等，除呼吸道感染外，腺病毒的疾病和表现包括肠胃炎、结膜炎、膀胱炎和皮疹。免疫系统受损的患者特别容易发生腺病毒感染的严重并发症。人腺病毒已有A至G，7个种，B型腺病毒感染通常引起肺炎、膀胱炎、角膜炎和结膜炎，B型主要包括血清型为3型，7型，11型，14型，16型，21型和34型等。	Thomas Lion. Adenovirus Infections in Immunocompetent and Immunocompromised Patients. Clin Microbiol Rev. 2014 Jul; 27(3): 441–462.	none	none	none	none	none	none
+Human_adenovirus_E	人腺病毒E型	病毒	可导致呼吸系统感染，如急性发热性咽喉炎、急性支气管炎和肺炎等，除呼吸道感染外，腺病毒的疾病和表现包括肠胃炎、结膜炎、膀胱炎和皮疹。免疫系统受损的患者特别容易发生腺病毒感染的严重并发症。人腺病毒已有A至G，7个种，E型感染通常引起肺炎，E型主要为血清型4型。	Thomas Lion. Adenovirus Infections in Immunocompetent and Immunocompromised Patients. Clin Microbiol Rev. 2014 Jul; 27(3): 441–462.	none	none	none	none	none	none
+Human_herpesvirus_1	人疱疹病毒1型	病毒	又称单纯疱疹病毒1型，可引起唇疱疹、龈口炎、扁桃体炎、咽喉炎、角膜炎、脑炎、脑膜炎，还与阿兹海默症有关。	undetermined	none	none	none	none	none	none
+Human_herpesvirus_2	人疱疹病毒2型	病毒	又称单纯疱疹病毒2型，可引起新生儿疱疹、生殖器疱疹、无菌性脑膜炎等。	undetermined	none	none	none	none	none	none
+Human_herpesvirus_3	人疱疹病毒3型	病毒	又称水痘-带状疱疹病毒(Varicella zoster virus ,VZV)，是水痘和带状疱疹的病原体。在儿童初次感染引起水痘，恢复后病毒潜伏在体内，少数人在成年后复发则表现为带状疱疹。	Nagel MA, Gilden DH. The protean neurologic manifestations of varicella-zoster virus infection. Cleve Clin J Med. 2007 Jul; 74(7): 489-94, 496, 498-9 passim.	none	none	none	none	none	none
+Human_herpesvirus_4	人疱疹病毒4型	病毒	又称EB病毒（EBV），是最常见的引起人类疾病的病毒之一，所致疾病包括传染性单核细胞增多症、非洲儿童恶性淋巴瘤、霍奇金淋巴瘤、鼻咽癌和胃癌等。	Pannone G, Zamparese R, Pace M, et al. The role of EBV in the pathogenesis of Burkitt's Lymphoma: an Italian hospital based survey. Infect Agent Cancer. 2014 Oct 15; 9(1): 34.	none	none	none	none	none	none
+Human_herpesvirus_5	人疱疹病毒5型	病毒	又称人巨细胞病毒（CMV），感染后可引起巨细胞包涵体病、单核细胞增多症、肺炎等。	Rafailidis PI, Mourtzoukou EG, Varbobitis IC, et al. Severe cytomegalovirus infection in apparently immunocompetent patients: a systematic review. Virol J. 2008 Mar 27; 5:47.	none	none	none	none	none	none
+Human_herpesvirus_6A	人疱疹病毒6A型	病毒	分为HHV-6A和HHV-6B两组，HHV-6A具更强的神经毒性，常见于多发性硬化等神经炎症性疾病患者。	Alvarez-Lafuente R, García-Montojo M, De las Heras V, et al. Clinical parameters and HHV-6 active replication in relapsing-remitting multiple sclerosis patients. J Clin Virol. 2006 Dec; 37 Suppl 1: S24-6.	none	none	none	none	none	none
+Human_herpesvirus_6B	人疱疹病毒6B型	病毒	分为HHV-6A和HHV-6B两组，HHV-6B是引起婴儿玫瑰疹（第六病）的常见原因，在免疫缺陷患者中，还可导致脑炎、骨髓抑制和肺炎等。	Yoshikawa T. Human herpesvirus 6 infection in hematopoietic stem cell transplant patients. Br J Haematol. 2004 Feb; 124(4): 421-32.	none	none	none	none	none	none
+Human_herpesvirus_7	人疱疹病毒7型	病毒	可引起急性玫瑰疹。	Suga S, Yoshikawa T, Nagai T, et al. Clinical features and virological findings in children with primary human herpesvirus 7 infection. Pediatrics. 1997 Mar; 99(3): E4.	none	none	none	none	none	none
+Human_herpesvirus_8	人疱疹病毒8型	病毒	与卡波济肉瘤、原发性渗出性淋巴瘤、多发性卡斯特雷曼氏症有关。		none	none	none	none	none	none
+JC_polyomavirus	JC多瘤病毒	病毒	一般仅在免疫缺陷的情况下引起疾病，可导致进行性多灶性白质脑病、无菌性脑膜炎等。	Ferenczy MW, Marshall LJ, Nelson CD, et al. Molecular biology, epidemiology, and pathogenesis of progressive multifocal leukoencephalopathy, the JC virus-induced demyelinating disease of the human brain. Clin Microbiol Rev. 2012 Jul; 25(3): 471-506.	none	none	none	none	none	none
+Human_bocavirus	人类博卡病毒	病毒	主要引起呼吸道和肠道感染，如肺炎、支气管炎和腹泻等。	Allander T, Jartti T, Gupta S, et al. Human bocavirus and acute wheezing in children. Clin Infect Dis. 2007 Apr 1; 44(7): 904-10.	none	none	none	none	none	none
+BK_polyomavirus	 BK病毒	病毒	又称Human polyomavirus 1，可引起造血干细胞移植患者出血性膀胱炎和肾移植患者输尿管狭窄和多瘤病毒相关性肾病。	Pérez-Huertas P, Cueto-Sola M, Escobar-Cava P, et al. BK Virus-Associated Hemorrhagic Cystitis After Allogeneic Hematopoietic Stem Cell Transplantation in the Pediatric Population. J Pediatr Oncol Nurs. 2017 Jan/Feb; 34(1): 13-19.	none	none	none	none	none	none
+Torque_teno_virus	细环病毒	病毒	一般不会在人类中引起疾病，但高病毒载量与严重的特发性炎性肌病、癌症和狼疮有关，有报道在急性肺损伤和特发性肺纤维化患者中存在该病毒，其也可能与肝移植术后感染有关。	Piaggio F, Dodi F, Bottino G, et al. Torque Teno Virus--cause of viral liver disease following liver transplantation: a case report. Transplant Proc. 2009 May; 41(4): 1378-9.	none	none	none	none	none	none
+Human_papillomavirus	人乳头瘤病毒	病毒	分为嗜上皮性和嗜黏膜性两类，引起感染部位的乳头状瘤，包括皮肤疣、扁平疣、生殖道湿疣等。一些高危型HPV可引起宫颈上皮不典型增生，进而导致宫颈癌。	Ljubojevic S, Skerlev M. HPV-associated diseases. Clin Dermatol. 2014 Mar-Apr; 32(2): 227-34.	none	none	none	none	none	none
+Crocodylidpoxvirus	痘病毒	病毒	undetermined	undetermined	none	none	none	none	none	none
+Influenza_virus	流感病毒	病毒	是引起流感的病原体，流感是高度传染性的急性呼吸道疾病，临床表现为发热、咽喉痛、咳嗽、头痛、畏寒和全身不适，并发症有中耳炎、肺炎。	undetermined	none	none	none	none	none	none
+Coronavirus	冠状病毒	病毒	普通冠状病毒主要引起感冒及咽喉炎，临床症状主要为头痛、咽痛及轻度咳嗽。	undetermined	none	none	none	none	none	none
+SARS-CoV	SARS-冠状病毒	病毒	SARS-冠状病毒是引起严重呼吸综合征（SARS）的病原体，SARS又称传染性非典型肺炎，临床表现为发热、乏力、头痛、肌肉关节酸痛等全身症状和干咳、胸闷、呼吸困难等呼吸道症状，部分患者有腹泻等消化道症状。	undetermined	none	none	none	none	none	none
+Hepatitis_A_virus	甲型肝炎病毒	病毒	主要通过粪-口途径传播，引起急性病毒性肝炎，机体感染后出现抗体，并具有终身免疫力。	undetermined	none	none	none	none	none	none
+Hepatitis_B_virus	乙型肝炎病毒	病毒	主要经血和血制品、母婴、破损的皮肤和黏膜及性接触传播，HBV感染呈世界性流行，可导致急性或慢性肝炎、肝衰竭、肝硬化和原发性肝细胞癌。	undetermined	none	none	none	none	none	none
+Hepatitis_C_virus	丙型肝炎病毒	病毒	是肠道外传播的非甲非乙型肝炎的主要病原体，可导致急性或慢性肝炎、肝硬化和原发性肝细胞癌，常引起肝炎慢性化，传播途径包括血液、性接触、母婴和家庭内接触传播。	undetermined	none	none	none	none	none	none
+Hepatitis_D_virus	丁型肝炎病毒	病毒	是与HBV密切相关的引起急性和慢性肝病的亚病毒病原体，HDV属于缺陷病毒，其组装依赖于HBV，故其流行特点类似HBV，HDV感染必然伴有HBV感染。	undetermined	none	none	none	none	none	none
+Hepatitis_E_virus	戊型肝炎病毒	病毒	主要通过粪-口途径传播，易通过污染水源而导致大规模爆发流行，HEV主要侵犯青壮年，表现为重型肝炎的比例较高。	undetermined	none	none	none	none	none	none
+Human_immunodeficiency_virus	人类免疫缺陷病毒	病毒	是获得性免疫缺陷综合征（AIDS，艾滋病）的病原体。	undetermined	none	none	none	none	none	none
+Poliovirus	脊髓灰质炎病毒	病毒	脊髓灰质炎病毒是引起脊髓灰质炎（又称小儿麻痹症）的病原体，主要通过粪-口途径传播。临床表现有无麻痹型脊髓灰质炎（也称无菌性脑膜炎）和麻痹型脊髓灰质炎，麻痹型可导致永久性迟缓性肢体麻痹。	undetermined	none	none	none	none	none	none
+Coxsackie_virus	柯萨奇病毒	病毒	柯萨奇病毒主要通过粪-口途径传播，可引起无菌性脑膜炎、疱疹性咽峡炎、手足口病、流行性胸痛、心包炎和心肌炎、结膜炎等。	undetermined	none	none	none	none	none	none
+ECHO_virus	埃可病毒	病毒	埃可病毒（Enteric_cytopathogenic_human_orphan_virus）主要通过粪-口途径传播，可引起无菌性脑膜炎、流行性胸痛等。	undetermined	none	none	none	none	none	none
+Enterovirus_type_70	肠道病毒70型	病毒	可直接感染眼结膜，引起急性出血性结膜炎，个别病例可累及神经系统，出现神经根脊髓炎，临床表现类似脊髓灰质炎。	undetermined	none	none	none	none	none	none
+Enterovirus_type_71	肠道病毒71型	病毒	通过粪-口途径传播或密切接触传播，是引起中枢神经系统感染的重要病原体，主要导致无菌性脑膜炎和脑炎，可累及脑神经及延髓。	undetermined	none	none	none	none	none	none
+Rotavirus	轮状病毒	病毒	是引起婴幼儿急性肠胃炎的主要病原体，包括A-G7个血清群，A群主要引起婴幼儿腹泻，B群引起成人腹泻。	undetermined	none	none	none	none	none	none
+Norwalk_virus	诺瓦克病毒	病毒	可引起胃肠炎爆发流行。	undetermined	none	none	none	none	none	none
+Astrovirus	星状病毒	病毒	星状病毒可引起胃肠炎，易感者为婴幼儿和老年人。	undetermined	none	none	none	none	none	none
+Measles_virus	麻疹病毒	病毒	麻疹病毒是麻疹的病原体，麻疹是儿童常见的一种急性传染病，以皮疹、发热及呼吸道症状为特征。	undetermined	none	none	none	none	none	none
+Rubella_virus	风疹病毒	病毒	是风疹（德国麻疹）的病原体。	undetermined	none	none	none	none	none	none
+Respiratory_syncytial_virus	呼吸道合胞病毒	病毒	是婴儿细支气管炎和肺炎等下呼吸道感染的主要病原体，也可引起较大儿童和成人的鼻炎、咽炎等上呼吸道感染。	undetermined	none	none	none	none	none	none
+Mumps_virus	腮腺炎病毒	病毒	是流行性腮腺炎的病原体。	undetermined	none	none	none	none	none	none
+Epidemic_type_B_encephalitis_virus	流行性乙型脑炎病毒	病毒	又称日本脑炎病毒（Japanese encephalitis virus,JEV）,通过蚊子传播，引起流行性乙型脑炎，病死率高。	undetermined	none	none	none	none	none	none
+Dengue_virus	登革病毒	病毒	主要通过埃及伊蚊等媒介昆虫传播，可引起普通登革热、登革出血热和登革体综合征。	undetermined	none	none	none	none	none	none
+Forest_encephalitis_virus	森林脑炎病毒	病毒	在春夏季节流行于俄罗斯及我国东北森林地带，故又称Russian spring-summer encephalitis virus，主要通过蜱传播，感染者主要以野外工作者为主，引起森林脑炎。	undetermined	none	none	none	none	none	none
+Hantavirus	汉坦病毒	病毒	汉坦病毒主要引起肾综合征出血热，临床症状主要为以发热、出血和严重肾衰竭等。	undetermined	none	none	none	none	none	none
+Xinjiang_hemorrhagic_fever_virus	新疆出血热病毒	病毒	主要经蜱传播，临床表现主要为发热、出血。	undetermined	none	none	none	none	none	none
+Ebola_virus	埃博拉病毒	病毒	主要表现为高热、皮肤淤血、紫癜、消化道和泌尿生殖道出血等症状，常导致休克和死亡。	undetermined	none	none	none	none	none	none
+Chimpanzee_adenovirus	黑猩猩腺病毒	病毒	none	none	none	none	none	none	none	none
+Leishmania_donovani	杜氏利什曼原虫	寄生虫	引起内脏利什曼病，又称黑热病，典型症状主要表现为长期不规则发热，脾进行性肿大，肝轻度或重度肿大，消瘦，白细胞减少或有鼻出血及齿龈出血等。	undetermined	none	none	none	none	none	none
+Leishmania_mexicana	墨西哥利什曼原虫	寄生虫	引起皮肤利什曼病。	Kraeva N, Butenko A, Hlaváčová J, et al. Leptomonas seymouri: Adaptations to the Dixenous Life Cycle Analyzed by Genome Sequencing, Transcriptome Profiling and Co-infection with Leishmania donovani.[J]. Plos Pathogens, 2015, 11(8):e1005127.	none	none	none	none	none	none
+Leishmania_tropica	热带利什曼原虫	寄生虫	引起皮肤利什曼病。	undetermined	none	none	none	none	none	none
+Leishmania_braziliensis	巴西利什曼原虫	寄生虫	引起黏膜皮肤利什曼病。	undetermined	none	none	none	none	none	none
+Trypanosoma_gambiense	冈比亚锥虫	寄生虫	寄生于人体血液、淋巴液及脑脊液内，导致脑膜脑炎、弥漫性软脑膜炎，患者个性改变，继而神志不清，嗜睡和昏迷，又称非洲锥虫病或睡眠病。	undetermined	none	none	none	none	none	none
+Trypanosoma_rhodesiense	罗得西亚锥虫	寄生虫	寄生于人体血液、淋巴液及脑脊液内，导致脑膜脑炎、弥漫性软脑膜炎，患者个性改变，继而神志不清，嗜睡和昏迷，称称非洲锥虫病或睡眠病。	undetermined	none	none	none	none	none	none
+Trypanosoma_cruzi	枯氏锥虫	寄生虫	可导致结膜炎、耳前淋巴结炎、发热、淋巴结及脾肿大，心肌炎、食管及结肠肥大和扩张等，称美洲锥虫病或恰加斯病。	undetermined	none	none	none	none	none	none
+Trypanosoma_grayi	格氏锥虫	寄生虫	none	none	none	none	none	none	none	none
+Trypanosoma_brucei	布氏锥虫	寄生虫	可导致非洲昏睡病	none	none	none	none	none	none	none
+Trypanosoma_congolense	刚果锥虫	寄生虫	none	none	none	none	none	none	none	none
+Trichomonas_vaginalis	阴道毛滴虫	寄生虫	主要寄居在女性阴道，偶可侵入尿道；男性感染部位多见于尿道或前列腺，引起相应部位的炎症。	undetermined	none	none	none	none	none	none
+Trichomonas_tenax	口腔毛滴虫	寄生虫	寄生于口腔，可能与牙槽化脓有关。	undetermined	none	none	none	none	none	none
+Trichomonas_hominis	人毛滴虫	寄生虫	寄生于盲肠和结肠，可能导致腹泻。	undetermined	none	none	none	none	none	none
+Dientamoeba_fragilis	脆弱双核阿米巴	寄生虫	主要表现为腹泻、腹痛、粪内带血或黏液、恶心、呕吐等症状。	undetermined	none	none	none	none	none	none
+Giardia_lamblia	蓝氏贾第鞭毛虫	寄生虫	蓝氏贾第鞭毛虫感染主要表现为消化道症状，甚至出现严重的吸收不良综合征。	undetermined	none	none	none	none	none	none
+Entamoeba_histolytica	溶组织内阿米巴	寄生虫	引起阿米巴病，肠侵袭性阿米巴病急性期患者出现腹泻、腹痛，排脓血粘液便，个别并列可并发肠穿孔和阑尾炎；慢性病例主要表现为肠功能紊乱；还可引起肠外阿米巴病，如肝脓肿、肺脓肿等；若随血流侵入脑、心包、脾等处，则引起相应部位的炎症、溃疡或脓肿。	undetermined	none	none	none	none	none	none
+Entamoeba_dispar	迪斯帕内阿米巴	寄生虫	none	none	none	none	none	none	none	none
+Entamoeba_hartmani	哈门阿米巴	寄生虫	none	none	none	none	none	none	none	none
+Entamoeba_nuttalli	纳氏内阿米巴	寄生虫	none	none	none	none	none	none	none	none
+Entamoeba_coli	结肠内阿米巴	寄生虫	none	none	none	none	none	none	none	none
+Endolimax_nana	微小内蜓阿米巴	寄生虫	有报道与慢性腹泻有关。	undetermined	none	none	none	none	none	none
+Entamoeba_gingivalis	齿龈阿米巴	寄生虫	与牙周病、牙周炎相关。	undetermined	none	none	none	none	none	none
+lodamoeba_butschli	布氏嗜碘阿米巴	寄生虫	none	none	none	none	none	none	none	none
+Balamuthia_mandrillaris	巴拉姆希阿米巴	寄生虫	可导致肉芽肿性阿米巴脑炎。	undetermined	none	none	none	none	none	none
+Naegleria_fowleri	福氏耐格里阿米巴	寄生虫	可引起致死性的原发性阿米巴脑膜脑炎，患者通常是儿童和未成年者。	Visvesvara GS, Moura H, Schuster FL. Pathogenic and opportunistic free-living amoebae: Acanthamoeba spp., Balamuthia mandrillaris, Naegleria fowleri, and Sappinia diploidea. FEMS Immunol Med Microbiol. 2007 Jun; 50(1): 1-26.	none	none	none	none	none	none
+Acanthamoeba_culbertsoni	棘阿米巴	寄生虫	主要引起肉芽肿性阿米巴脑炎、棘阿米巴角膜炎，还可引起皮肤、肺、生殖道等部位的感染。	undetermined	none	none	none	none	none	none
+Acanthamoeba_polyphaga	多噬棘阿米巴	寄生虫	主要引起肉芽肿性阿米巴脑炎、棘阿米巴角膜炎，还可引起皮肤、肺、生殖道等部位的感染。	undetermined	none	none	none	none	none	none
+Acanthamoeba_castellanii	卡氏棘阿米巴	寄生虫	主要引起肉芽肿性阿米巴脑炎、棘阿米巴角膜炎，还可引起皮肤、肺、生殖道等部位的感染。	undetermined	none	none	none	none	none	none
+Acanthamoeba_rhysodes	棘阿米巴	寄生虫	主要引起肉芽肿性阿米巴脑炎、棘阿米巴角膜炎，还可引起皮肤、肺、生殖道等部位的感染。	undetermined	none	none	none	none	none	none
+Acanthamoeba_triangularis	三角棘阿米巴	寄生虫	主要引起肉芽肿性阿米巴脑炎、棘阿米巴角膜炎，还可引起皮肤、肺、生殖道等部位的感染。	Xuan YH, Chung BS, Hong YC, et al. Keratitis by Acanthamoeba triangularis:Report of Cases and Characterization of Isolates. Korean J Parasitol. 2008 Sep; 46(3): 157-64.	none	none	none	none	none	none
+Acanthamoeba_mauritaniensis	棘阿米巴	寄生虫	undetermined	undetermined	none	none	none	none	none	none
+Acanthamoeba_quina	棘阿米巴	寄生虫	undetermined	undetermined	none	none	none	none	none	none
+Plasmodium_vivax	间日虐原虫	寄生虫	是引起疟疾的病原体，寄生在人体的疟原虫有4种：间日虐原虫、恶性疟原虫、三日疟原虫和卵形疟原虫。感染疟原虫后，经过一定的潜伏期，原虫数量达到一定的阈值才出现临床表现。疟疾的典型发作表现为周期性的寒战、发热、出汗三个连续阶段，然后进入间歇期。	Battle KE, Gething PW, Elyazar IR, et al. The global public health significance of Plasmodium vivax. Adv Parasitol. 2012; 80: 1-111.	none	none	none	none	none	none
+Plasmodium_malariae	三日疟原虫	寄生虫	是引起疟疾的病原体，寄生在人体的疟原虫有4种：间日虐原虫、恶性疟原虫、三日疟原虫和卵形疟原虫。感染疟原虫后，经过一定的潜伏期，原虫数量达到一定的阈值才出现临床表现。疟疾的典型发作表现为周期性的寒战、发热、出汗三个连续阶段，然后进入间歇期。	undetermined	none	none	none	none	none	none
+Plasmodium_falciparum	恶性疟原虫	寄生虫	是引起疟疾的病原体，寄生在人体的疟原虫有4种：间日虐原虫、恶性疟原虫、三日疟原虫和卵形疟原虫。感染疟原虫后，经过一定的潜伏期，原虫数量达到一定的阈值才出现临床表现。疟疾的典型发作表现为周期性的寒战、发热、出汗三个连续阶段，然后进入间歇期。	undetermined	none	none	none	none	none	none
+Plasmodium_ovale	卵形疟原虫	寄生虫	是引起疟疾的病原体，寄生在人体的疟原虫有4种：间日虐原虫、恶性疟原虫、三日疟原虫和卵形疟原虫。感染疟原虫后，经过一定的潜伏期，原虫数量达到一定的阈值才出现临床表现。疟疾的典型发作表现为周期性的寒战、发热、出汗三个连续阶段，然后进入间歇期。	undetermined	none	none	none	none	none	none
+Plasmodium_gallinaceum	鸡疟原虫	寄生虫	none	none	none	none	none	none	none	none
+Toxoplasma_gondii	刚地弓形虫	寄生虫	是一种重要的机会致病原虫，可引起人畜共患的弓形虫病，在宿主免疫功能低下时可引起严重的全身性弓形虫病。弓形虫病分先天性和获得性两类，先天性弓形虫病的典型表现有脑积水、大脑钙化灶、视网膜脉络膜炎和精神、运动障碍；获得性弓形虫病表现为引起多脏器损伤，常累及脑和眼部，表现为脑炎、脑膜脑炎、癫痫和精神异常、视网膜脉络膜炎和淋巴结肿大。若弓形虫急性播散，常可引起脑膜脑炎、肝炎、心肌炎、心包炎、关节炎、肾炎和腹膜炎等。	Tenter AM, Heckeroth AR, Weiss LM. Toxoplasma gondii: from animals to humans. Int J Parasitol. 2000 Nov; 30(12-13): 1217-58.	none	none	none	none	none	none
+Cryptosporidium_parvum	微小隐孢子虫	寄生虫	是一种重要的引起腹泻的机会致病原虫，所引起的隐孢子虫病是一种人兽共患病，感染后，约有80%的人发病并表现出临床症状，其余则为隐性感染；免疫功能异常的患者，腹泻程度通常更为严重。	的人发病并表现出临床症状，其余则为隐性感染；免疫功能异常的患者，腹泻程度通常更为严重。	DuPont HL, Chappell CL, Sterling CR, et al. The infectivity of Cryptosporidium parvum in healthy volunteers. N Engl J Med. 1995 Mar 30; 332(13): 855-9.	none	none	none	none	none	none
+Sarcocystis_suihominis	猪人肉孢子虫	寄生虫	可致肉孢子虫病，为一种人兽共患病，猪人肉孢子虫与人肉孢子虫又统称为人肠肉孢子虫。人体感染后，主要出现消化道症状，如腹痛、腹泻等，严重者可发生贫血、坏死性肠炎等。	undetermined	none	none	none	none	none	none
+Sarcocystis_hominis	人肉孢子虫	寄生虫	可致肉孢子虫病，为一种人兽共患病，猪人肉孢子虫与人肉孢子虫又统称为人肠肉孢子虫。人体感染后，主要出现消化道症状，如腹痛、腹泻等，严重者可发生贫血、坏死性肠炎等。	undetermined	none	none	none	none	none	none
+Sarcocystis_lindemarni	林氏肉孢子虫	寄生虫	可致肉孢子虫病，为一种人兽共患病，人体感染后，主要出现消化道症状，如腹痛、腹泻等，严重者可发生贫血、坏死性肠炎等。林氏肉孢子虫又称人肌肉肉孢子虫，其病例报告较少。	undetermined	none	none	none	none	none	none
+Isospora_belli	贝氏等孢子虫	寄生虫	免疫功能正常的人感染贝氏等孢子虫常无症状，或仅有轻微胃肠道症状；在免疫缺陷患者，可出现严重临床症状，有发热、持续性或脂肪性腹泻，体重减轻等。	undetermined	none	none	none	none	none	none
+Cyclospora_cayetanensis	环孢子虫	寄生虫	可引起腹泻。	undetermined	none	none	none	none	none	none
+Blastocystis_hominis	人芽囊原虫	寄生虫	主要寄生在回盲部，免疫功能正常的患者发病多数为自限性，免疫功能低下患者易感，严重者可有消化道症状，如腹泻、呕吐等。	undetermined	none	none	none	none	none	none
+Babesia_bigemina	双芽巴贝虫	寄生虫	可引起巴贝西虫病，人体感染巴贝西虫后可无明显症状，或表现轻微；少数患者可出现严重症状和体征，如畏寒、发热、肌肉酸痛、溶血性贫血等。	undetermined	none	none	none	none	none	none
+Babesia_bovis	牛巴贝西虫	寄生虫	可引起巴贝西虫病。人体感染巴贝西虫后可无明显症状，或表现轻微；少数患者可出现严重症状和体征，如畏寒、发热、肌肉酸痛、溶血性贫血等。	undetermined	none	none	none	none	none	none
+Babesia_microti	田鼠巴贝西虫	寄生虫	可引起巴贝西虫病。人体感染巴贝西虫后可无明显症状，或表现轻微；少数患者可出现严重症状和体征，如畏寒、发热、肌肉酸痛、溶血性贫血等。	undetermined	none	none	none	none	none	none
+Balantidium_coli	结肠小袋纤毛虫	寄生虫	可引起小袋纤毛痢疾。	undetermined	none	none	none	none	none	none
+Hammondia_hammondi	哈氏哈蒙德虫	寄生虫	none	none	none	none	none	none	none	none
+Gregarina_niphandrodes	簇虫	寄生虫	none	none	none	none	none	none	none	none
+Leptomonas_seymouri	西摩细滴虫	寄生虫	none	none	none	none	none	none	none	none
+Cytauxzoon_felis	猫胞簇虫	寄生虫	none	none	none	none	none	none	none	none
+Albugo_laibachii	白锈菌	寄生虫	none	none	none	none	none	none	none	none
+Eimeria_necatrix	毒害艾美球虫	寄生虫	none	none	none	none	none	none	none	none
+Eimeria_maxima	巨型艾美球虫	寄生虫	none	none	none	none	none	none	none	none
+Eimeria_praecox	早熟艾美球虫	寄生虫	none	none	none	none	none	none	none	none
+Eimeria_tenella	柔嫩艾美球虫	寄生虫	none	none	none	none	none	none	none	none
+Pythium_arrhenomanes	强雄腐霉	寄生虫	none	none	none	none	none	none	none	none
+Vitrella_brassicaformis	Vitrella brassicaformis	寄生虫	none	none	none	none	none	none	none	none
+Streptococcus anginosus	咽峡炎链球菌	bacteria	机会致病菌，在口腔、上呼吸道、胃肠道和阴道中广泛存在。可引起上呼吸道感染、尿路感染、菌血症、化脓性肝脓肿、交感神经脓胸、脾脓肿、化脓性脑膜炎、咽峡炎、脑脓肿合并脑膜炎等。	Ganju SA, Gautam N, Sharma G. Pyogenic liver abscess associated with oral flora bacterium, Streptococcus anginosus in a patient with underlying tuberculosis. Indian J Pathol Microbiol. 2017 Oct-Dec; 60(4): 587-589. 	none	none	none	none	none	none
+Streptococcus equinus	马肠链球菌	bacteria	是马食道的优势链球菌，偶可在人类肠道内发现 ，引起人类细菌血症、感染性心内膜炎、脓胸、术后眼内炎、自发性细菌性腹膜炎、败血症、脑脓肿、伤口感染等。	Christoph Jans, Annemarie Boleij. The Road to Infection: Host-Microbe Interactions Defining the Pathogenicity of Streptococcus bovis/Streptococcus equinus Complex Members. Front Microbiol. 2018; 9: 603.	none	none	none	none	none	none
+Streptococcus intermedius	中间链球菌	bacteria	口腔正常菌群，还可定殖于上呼吸道、女性泌尿生殖道和胃肠道，机会致病菌，可引发牙周炎、脑脓肿、肝脓肿、纵隔炎、中枢神经系统感染、深颈部感染并发淋巴结炎、胸膜肺部感染和感染性心内膜炎。 口咽部存在的中间型链球菌的吸入可导致吸入性肺炎，并可并发肺脓肿和脓胸。	A Neumayr, R Kubitz, JG Bode. Multiple liver abscesses with isolation of streptococcus intermedius related to a pyogenic dental infection in an immuno-competent patient. Eur J Med Res. 2010; 15(7): 319–322. Published online 2010 Jul 26.	none	none	none	none	none	none
+Streptococcus pseudoporcinus	假豕链球菌	bacteria	定殖于女性直肠和阴道，与伤口感染、阴道毛滴虫病和生殖器疱疹感染有关。	Stoner KA, Rabe LK, Austin MN, et al. Incidence and Epidemiology of Streptococcus pseudoporcinus in the Genital Tract. J Clin Microbiol. 2011 Mar; 49(3): 883–886.	none	none	none	none	none	none
+Streptococcus sinensis	中华链球菌	bacteria	最初从感染性心内膜炎患者的血液中分离培养，可能是感染性心内膜炎的病原体。	Patrick C.Y.Woo, Dorothy M.W.Tam, Kit-Wah Leung, et al. Streptococcus sinensis sp. nov., a Novel Species Isolated from a Patient with Infective Endocarditis. J Clin Microbiol. 2002 Mar; 40(3): 805–810. 	none	none	none	none	none	none
+Streptococcus suis	猪链球菌	bacteria	机会致病菌，会导致人畜共患病，是人类动物源性脑膜炎的常见病因，可引发细菌性脑炎、中毒样休克综合征、化脓性脑炎、脑膜炎、败血症、心内膜炎、蜂窝组织炎、腹膜炎、横纹肌溶解、关节炎、肺炎、葡萄膜炎和眼内炎等。	Youjun Feng, Huimin Zhang, Zuowei Wu. Streptococcus suis infection: An emerging/reemerging challenge of bacterial infectious diseases? .Virulence. 2014 May 15; 5(4): 477–497. 	none	none	none	none	none	none
+Streptococcus uberis	乳房链球菌	bacteria	主要引起牛乳腺炎，与人类相关的感染有骨髓炎、菌血症、尿路感染、细菌性肺炎、泌尿道感染、膝关节炎、软组织脓肿、心内膜炎、眼内炎、肝脓肿等。	Christine Valentiny, Harald Dirschmid, Karl Lhotta. Streptococcus uberis and Staphylococcus aureus forefoot and blood stream co-infection in a haemodialysis patient: a case report. BMC Nephrol. 2015; 16: 73. Published online 2015 May 28. 	none	none	none	none	none	none
+Streptococcus viridans	草绿色链球菌	bacteria	可引起亚急性细菌性心内膜炎、龋齿、脑和肝脓肿。	undetermined	none	none	none	none	none	none
+ Acinetobacter lwoffii	鲁氏不动杆菌	bacteria	正常皮肤菌群，机会致病菌，在免疫缺陷患者中引起导管相关性感染，可引起菌血症、肠胃炎和腹膜炎等。	Regalado NG, Martin G, Antony SJ. Acinetobacter lwoffii: bacteremia associated with acute gastroenteritis. Travel Med Infect Dis. 2009 Sep; 7(5): 316-7. 	none	none	none	none	none	none
+Burkholderia xenovorans	食异生素伯克霍尔德菌	bacteria	感染较罕见，但有文献报道，其可致软组织感染、肺炎和脓毒症。	Kai Chang, Jie Luo, Huan Xu. Human Infection with Burkholderia thailandensis, China, 2013. Emerg Infect Dis. 2017 Aug; 23(8): 1416–1418.	none	none	none	none	none	none
+Burkholderia fungorum	真菌伯克霍尔德菌	bacteria	机会致病菌，可从膝关节滑膜组织中分离出来，其可引发关节组织感染。	undetermined	none	none	none	none	none	none
+Klebsiella pneumoniae subsp. ozaenae	肺炎克雷伯菌臭鼻亚种	bacteria	常引起萎缩性鼻炎（臭鼻症）和鼻粘膜的化脓性感染。	De Champs C, Vellin JF, Diancourt L. Laryngeal Scleroma Associated with Klebsiella pneumoniae subsp. Ozaenae. J Clin Microbiol.  2005 Nov; 43(11): 5811–5813. 	none	none	none	none	none	none
+Klebsiella pneumoniae subsp. rhinoscleromatis	肺炎克雷伯菌鼻硬结亚种	bacteria	常引起呼吸道黏膜、口咽部、鼻和鼻旁窦的感染，导致肉芽肿性病变和硬结形成。	Fevre C, Passet V, Deletoile A, et al. PCR-Based Identification of Klebsiella pneumoniae subsp. rhinoscleromatis, the Agent of Rhinoscleroma. PLoS Negl Trop Dis. 2011 May; 5(5): e1052.  	none	none	none	none	none	none
+Klebsiella granulomatis	肉芽肿克雷伯菌	bacteria	感染可引起腹股沟肉芽肿。	undetermined	none	none	none	none	none	none
+Nocardia asteroides	星形诺卡菌	bacteria	引起人的原发性及化脓性感染，可出现类似肺结核的症状。肺部病灶转移至皮下组织，可形成脓肿、溃疡和多发性瘘管，扩散到其他器官，可引起脑脓肿和腹膜炎。	Adair JC, Amber IJ, Johnston JM. Peritonsillar abscess caused by Nocardia asteroides. J Clin Microbiol. 1987 Nov; 25(11): 2214-5.	none	none	none	none	none	none
+Nocardia farcinica	鼻疽诺卡菌	bacteria	可引起诺卡菌病，临床表现包括肺部感染、脑部感染、皮肤感染及全身散播性感染。	Holm P. Seven cases of human nocardiosis caused by Nocardia farcinica. Sabouraudia.  1975 Jul; 13(2): 161-9.	none	none	none	none	none	none
+Nocardia otitidiscaviarum	豚鼠耳炎诺卡菌	bacteria	一般只对动物致病，但有文献报道引起人肺部感染和脑脓肿的病例。	Maria del Mar Garcia-Suarez,1 Angel Manteca. A fatal case of Nocardia otitidiscaviarum pulmonary infection and brain abscess: taxonomic characterization by molecular techniques.Ann Clin Microbiol Antimicrob. 2009; 8:11.                                                                                            	none	none	none	none	none	none
+Nocardia veterana	老兵医院诺卡菌	bacteria	机会致病菌。	undetermined	none	none	none	none	none	none
+Nocardia terpenica	萜烯诺卡菌	bacteria	可引起诺卡菌病，临床表现包括肺部感染、脑部感染、皮肤感染及全身散播性感染。	Hoshino Y, Watanabe K, Iida S, et al. Nocardia terpenica sp. nov., isolated from Japanese patients with nocardiosis. Int J Syst Evol Microbiol. 2007 Jul; 57(Pt 7): 1456-60. 	none	none	none	none	none	none
+Staphylococcus pseudintermedius	假中间葡萄球菌	bacteria	主要对家畜治病，但也有报道该菌可引起人类感染，导致心内膜炎、外科伤口感染、鼻窦炎和导管相关的菌血症等。	Somayaji R, Priyantha MA, Rubin JE, et al. Human infections due to Staphylococcus pseudintermedius, an emerging zoonosis of canine origin: report of 24 cases. Diagn Microbiol Infect Dis. 2016 Aug;85(4):471-6.	none	none	none	none	none	none
+Pseudomonas fulva	黄褐假单胞菌	bacteria	可从囊性纤维化患者的痰液中分离，导致创伤后皮肤软组织感染，细菌血症，多发性脑室炎。	Marisa N. Almuzara, Miryam Vazquez, Naoto Tanaka. First Case of Human Infection Due to Pseudomonas fulva, an Environmental Bacterium Isolated from Cerebrospinal Fluid. J Clin Microbiol. 2010 Feb; 48(2): 660–664. 	none	none	none	none	none	none
+Pseudomonas denitrificans	脱氮假单胞菌	bacteria	有报道可引起菌血症和脑膜炎。	Robert A. Fischer, Gary V. Doern, Sarah H. Cheeseman. Pseudomonas denitrificans Meningitis. J Clin Microbiol. 1981 May; 13(5): 1004–1006. 	none	none	none	none	none	none
+Corynebacterium pseudodiphtheriticum 	假白喉棒状杆菌	bacteria	机会致病菌，是定殖在鼻腔和咽喉部的正常菌群，可引起下呼吸道感染，包括坏死性气管炎、气管支气管炎、肺炎；在免疫力低下者中可引起心内膜炎、尿道感染、脓毒性关节炎等。	Pérez-Parra S, Peña A, Blanca E. Letal endocarditis due to Corynebacterium pseudodiphtheriticum. Rev Chilena Infectol. 2016 Apr; 33(2): 229-31.	none	none	none	none	none	none
+Corynebacterium urealyticum	解脲棒状杆菌	bacteria	可引起泌尿道感染、菌血症和伤口感染等。	Pardo Martínez A, Rosino Sánchez A, Rivero Guerra Á, et al. Encrusted prostatitis by Corynebacterium urealyticum: The importance of clinical suspicion. Actas Urol Esp. 2018 Mar 5. pii: S0210-4806(18)30032-9.	none	none	none	none	none	none
+Corynebacterium genitalium	生殖器棒状杆菌	bacteria	可引起泌尿生殖道感染。	Furness G, Evangelista AT. A diagnostic key employing biological reactions for differentiating pathogenic Corynebacterium genitalium (NSU corynebacteria) from commensals of the urogenital tract. 1978 Jul;16(1):1-4.	none	none	none	none	none	none
+Actinomyces gerencseriae	戈氏放线菌	bacteria	是口腔正常菌群，可引起颈面部感染、牙科疾病、放射性骨坏死和人工髋关节感染。	nan	none	none	none	none	none	none
+Actinomyces turicensis	苏黎世放线菌	bacteria	可引起菌血症、乳腺放线菌病、乳腺脓肿、坏死性软组织感染、耳源性脑脓肿、肝脓肿等。	Cobo F. Breast abscess due to Actinomyces turicensis in a non-puerperal woman. Enferm Infecc Microbiol Clin. 2018 Jun - Jul; 36(6): 388-389. 	none	none	none	none	none	none
+Actinomyces urogenitalis	泌尿道放线菌	bacteria	可引起菌血症、盆腔放线菌病等。	Van Hoecke F, Beuckelaers E, Lissens P, et al. Actinomyces urogenitalis bacteremia and tubo-ovarian abscess after an in vitro fertilization (IVF) procedure. J Clin Microbiol. 2013 Dec; 51(12): 4252-4. 	none	none	none	none	none	none
+Prevotella copri	粪便普雷沃菌	bacteria	机会致病菌，与类风湿关节炎有关。	Pianta A, Arvikar S, Strle K, et al. Evidence of the Immune Relevance of Prevotella copri, a Gut Microbe, in Patients With Rheumatoid Arthritis. Arthritis Rheumatol. 2017 May; 69(5): 964-975. 	none	none	none	none	none	none
+Propionibacterium propionicus	丙酸丙酸杆菌	bacteria	是正常口腔菌群，有报道可引起慢性肉芽肿、根管感染等。	Pasic S, Savic D, Milovic I, et al. Propionibacterium propionicus infection in chronic granulomatous disease. Clin Infect Dis. 2004 Feb 1;38(3):459.	none	none	none	none	none	none
+Campylobacter gracilis	纤细弯曲杆菌	bacteria	可引起牙髓感染和菌血症。	Takashi Shinha. Fatal Bacteremia Caused by Campylobacter gracilis, United States. Emerg Infect Dis. 2015 Jun; 21(6): 1084–1085.	none	none	none	none	none	none
+Campylobacter hominis	人弯曲杆菌	bacteria	有引起败血症的报道。	Linscott AJ, Flamholtz RB, Shukla D, et al. Fatal septicemia due to Clostridium hathewayi and Campylobacter hominis. Anaerobe. 2005 Feb-Apr;11(1-2):97-8. 	none	none	none	none	none	none
+Mycobacterium lepromatosis	弥漫型麻风分枝杆菌	bacteria	是引起弥散性瘤型麻风的病原菌。	Han XY, Seo YH, Sizer KC, et al. A new Mycobacterium species causing diffuse lepromatous leprosy. Am J Clin Pathol. 2008 Dec; 130(6): 856-64.	none	none	none	none	none	none
+Mycobacterium microti	田鼠分枝杆菌	bacteria	极少引起人类感染，偶发生在免疫缺陷患者中。	van Soolingen D, van der Zanden AG, de Haas PE, et al. Diagnosis of Mycobacterium microti infections among humans by using novel genetic markers. J Clin Microbiol. 1998 Jul; 36(7): 1840-5.	none	none	none	none	none	none
+Mycobacterium abscessus	脓肿分枝杆菌	bacteria	可引起慢性肺部疾病，皮肤感染、中枢神经系统感染、菌血症、眼部感染等。	Song JY, Sohn JW, Jeong HW, et al. An outbreak of post-acupuncture cutaneous infection due to Mycobacterium abscessus. BMC Infect Dis. 2006 Jan 13;6:6.	none	none	none	none	none	none
+Mycobacterium asiaticum	亚洲分支杆菌	bacteria	偶有引起肺部感染的报道。	Arttawejkul P, Kongpolprom N. A case of pulmonary infection caused by Mycobacterium asiaticum: Difficulties on diagnostic and therapeutic approaches. Respir Med Case Rep. 2018 May 17;24:150-152.	none	none	none	none	none	none
+Mycobacterium kyorinense	分枝杆菌	bacteria	有引起胸膜炎和肺部感染的报道。	Ikeue T, Yoshida H, Tanaka E, et al. Pleuritis Caused by Mycobacterium kyorinense without Pulmonary Involvement. Intern Med. 2017 Oct 15; 56(20): 2785-2790.	none	none	none	none	none	none
+Aeromonas  jandaei	简达气单胞菌	bacteria	有引起菌血症的报道。	Sarma PS. Aeromonas jandaei cellulitis and bacteremia in a man with diabetes. Am J Med. 2002 Mar; 112(4): 325.	none	none	none	none	none	none
+Aeromonas sobria	温和气单胞菌	bacteria	可在免疫缺陷患者中引起伤口感染、腹泻和败血症等疾病；该菌是水蛭的有益共生体，使用药用水蛭进行治疗的人会有感染风险。	Janma J, Linasmita P, Changsirikulchai S. A Report of Peritonitis from Aeromonas sobria in a Peritoneal Dialysis (PD) Patient with Necrotizing Fasciitis. J Med Assoc Thai. 2015 Nov; 98 Suppl 10: S150-3.	none	none	none	none	none	none
+Vibrio fluvialis	河流弧菌	bacteria	有导致胃肠炎、败血症的报道。	Zheng B, Jiang X, Cheng H, et al. Genome characterization of two bile-isolated Vibrio fluvialis strains: an insight into pathogenicity and bile salt adaption. Sci Rep. 2017 Sep 19; 7(1): 11827. 	none	none	none	none	none	none
+Bordetella hinzii	欣氏鲍特菌	bacteria	主要引起家禽呼吸道疾病，也可在免疫功能低下的人群中引起感染。	Arvand M, Feldhues R, Mieth M, et al. Chronic Cholangitis Caused by Bordetella hinzii in a Liver Transplant Recipient. J Clin Microbiol. 2004 May; 42(5): 2335-7.	none	none	none	none	none	none
+Bordetella petrii	彼氏鲍特菌	bacteria	可引起化脓性关节炎、骨髓炎、鼻窦炎等。	Nogi M, Bankowski MJ, Pien FD. Septic Arthritis and Osteomyelitis Due to Bordetella petrii. J Clin Microbiol. 2015 Mar; 53(3): 1024-7. 	none	none	none	none	none	none
+Bordetella trematum	创口鲍特菌	bacteria	在免疫力低下患者中可引起菌血症。	Majewski LL, Nogi 2, Bankowski MJ, et al. Bordetella trematum sepsis with shock in a diabetic patient with rapidly developing soft tissue infection. Diagn Microbiol Infect Dis. 2016 Sep; 86(1): 112-4. 	none	none	none	none	none	none
+Bordetella bronchiseptica	支气管炎鲍特菌	bacteria	一般在动物中引起传染性支气管炎，偶有引起人类感染的报道。	Monti M, Diano D, Allegrini F, et al. Bordetella bronchiseptica pneumonia in a patient with lung cancer; a case report of a rare infection. BMC Infect Dis. 2017 Sep 25; 17(1): 644. 	none	none	none	none	none	none
+Clostridium sordellii	索氏梭菌	bacteria	可导致肺炎、心内膜炎、关节炎、腹膜炎和肌坏死、菌血症、败血症等，还与女性妇科感染、产后感染、新生儿脐部残端感染、外伤感染等有关。	Aldape MJ, Bryant AE, Stevens DL. Clostridium sordellii infection: epidemiology, clinical findings, and current perspectives on diagnosis and treatment. Clin Infect Dis. 2006 Dec 1; 43(11): 1436-46.	none	none	none	none	none	none
+Acidovorax oryzae	水稻食酸菌	bacteria	偶有引起血液感染的报道。	Orsborne C, Hardy A, Isalska B, et al. Acidovorax oryzae catheter-associated bloodstream infection. J Clin Microbiol. 2014 Dec; 52(12): 4421-4.	none	none	none	none	none	none
+Stenotrophomonas acidaminiphila	微嗜酸寡养单胞菌	bacteria	机会致病菌，主要引起院内感染，包括菌血症、脑膜炎、尿路感染、附睾炎、结膜炎、心内膜炎、腹膜炎、角膜炎、眼内炎以及广泛的皮肤黏膜和软组织感染，也可引起医源性败血症、肺炎等。	Furuichi M, Ito K, Miyairi I. Characteristics of Stenotrophomonas maltophilia bacteremia in children. Pediatr Int. 2016 Feb; 58(2): 113-8. 	none	none	none	none	none	none
+Gordonia terrae	土地戈登菌	bacteria	有引起腹膜炎的报道。	Hou C, Yang Y, Li Z. A Chinese patient with peritoneal dialysis-related peritonitis caused by Gordonia terrae: a case report. BMC Infect Dis. 2017 Feb 28; 17(1): 179.	none	none	none	none	none	none
+Bartonella bacilliformis	杆状巴尔通体	bacteria	是卡里翁氏病的病原体。	undetermined	none	none	none	none	none	none
+Bartonella henselae	汉氏巴尔通体	bacteria	是猫抓病的病原体。	undetermined	none	none	none	none	none	none
+Salmonella enterica subsp. enterica	肠道沙门菌肠亚种	bacteria	某些亚种可感染人及动物，引起伤寒、肠胃炎，血流感染等。	Tassinari AM, Romaneli MTDN, Pereira RM, et al. Septic arthritis caused by Salmonella enterica serotype Rubislaw: A case report. Rev Soc Bras Med Trop. 2019 Jan 14; 52: e20180253.	none	none	none	none	none	none
+Shigella dysenteriae	痢疾志贺菌	bacteria	细菌性痢疾的病原体。	undetermined	none	none	none	none	none	none
+Shigella flexneri	弗氏志贺菌	bacteria	细菌性痢疾的病原体。	undetermined	none	none	none	none	none	none
+Shigella boydii	鲍氏志贺菌	bacteria	细菌性痢疾的病原体。	undetermined	none	none	none	none	none	none
+Shigella sonnei	宋内志贺菌	bacteria	细菌性痢疾的病原体。	undetermined	none	none	none	none	none	none
+Citrobacter koseri	合适柠檬酸杆菌	bacteria	可引起新生儿脑膜炎和败血症。	undetermined	none	none	none	none	none	none
+Pantoea agglomerans	成团泛菌	bacteria	机会致病菌，是肠道的正常菌群，能引起多种条件致病性感染，如引起早产儿、新生儿感染以及多发性创伤等。	undetermined	none	none	none	none	none	none
+Pantoea dispersa	分散泛菌	bacteria	有引起菌血症、新生儿败血症的报道。	Mehar V, Yadav D, Sanghvi J, et al. Pantoea dispersa: an unusual cause of neonatal sepsis. Braz J Infect Dis. 2013 Nov-Dec; 17(6): 726-8.	none	none	none	none	none	none
+Proteus vulgaris	普通变形菌	bacteria	机会致病菌，常见于肠道，通常引起伤口感染和和免疫缺陷患者感染。	undetermined	none	none	none	none	none	none
+Proteus mirabilis	奇异变形菌	bacteria	多引发尿道感染并易继发菌血症，还常引起伤口、呼吸道等多种感染。由变形菌造成的新生儿脐带感染可导致高度致死性菌血症和脑膜炎。	undetermined	none	none	none	none	none	none
+Cedecea davisae	戴氏西地西菌	bacteria	呼吸道	undetermined	none	none	none	none	none	none
+Cedecea lapagei	拉氏西地西菌	bacteria	呼吸道	undetermined	none	none	none	none	none	none
+Cedecea neteri	奈氏西地西菌	bacteria	可引起菌血症及红斑狼疮症。	J. J. Farmer, III, Neela K. Sheth, June A. Hudzinski. Bacteremia Due to Cedecea neteri sp. nov. J Clin Microbiol. 1982 Oct; 16(4): 775–778.                                                                                                        	none	none	none	none	none	none
+Tatumella ptyseos	痰塔特姆菌	bacteria	机会致病菌，可引起新生儿脑膜炎、呼吸道感染、胸膜炎、败血症等。	Costa PS, Mendes JM, Ribeiro GM. Tatumella ptyseos causing severe human infection: report of the first two Brazilian cases. Braz J Infect Dis. 2008 Oct; 12(5): 442-3.	none	none	none	none	none	none
+Bacillus anthracis	炭疽芽孢杆菌	bacteria	可引起炭疽病，以皮肤炭疽多见，也有肠炭疽和肺炭疽，各型均可并发菌血症，也可导致炭疽性脑膜炎。	undetermined	none	none	none	none	none	none
+Bacillus cereus	蜡样芽孢杆菌	bacteria	主要引起食物中毒，也有引起菌血症的报道。	undetermined	none	none	none	none	none	none
+Bacillus subtilis	枯草芽孢杆菌	bacteria	食物中毒，也可引发抵抗力低下患者的菌血症。	undetermined	none	none	none	none	none	none
+Bacillus pumilus	短小芽孢杆菌	bacteria	食物中毒	undetermined	none	none	none	none	none	none
+Bacillus licheniformis	地衣芽孢杆菌	bacteria	食物中毒	undetermined	none	none	none	none	none	none
+Bacillus sphaericus	球形芽孢杆菌	bacteria	食物中毒	undetermined	none	none	none	none	none	none
+Erysipelothrix rhusiopathiae	猪红斑丹毒丝菌	bacteria	是丹毒的病原菌。丹毒是一种急性传染病，以局部感染为主，急性期表现为感染局部的皮肤发红、肿胀、疼痛或有痒感，继而可发展为淋巴管炎；若2周内未痊愈，则可转变成局部的关节炎，也可引起急性败血症或心内膜炎。	undetermined	none	none	none	none	none	none
+Peptostreptococcus anaerobius	厌氧消化链球菌	bacteria	是人体正常菌群，常引起腹腔感染，肝脓肿，外阴、阴道及盆腔感染，肺部和胸腔感染，口腔感染，颅内感染以及皮肤和软组织感染等。	undetermined	none	none	none	none	none	none
+Aggregatibacter actinomycetemcomitans	伴放线菌团聚杆菌	bacteria	能引起慢性或侵袭性牙周炎，在放线菌病和细菌性阴道炎中也有发现，还能引起心内膜炎。	Konig MF, Abusleme L, Reinholdt J, et al. Aggregatibacter actinomycetemcomitans-induced hypercitrullination links periodontal infection to autoimmunity in rheumatoid arthritis. Sci Transl Med. 2016 Dec 14; 8(369): 369ra176.	none	none	none	none	none	none
+Aggregatibacter aphrophilus	嗜泡团聚杆菌	bacteria	可引起感染性心内膜炎、脑脓肿、关节炎、骨髓炎、纵隔炎、前庭大腺炎、慢性泪小管炎等。	Wright P, Keane C, Ricketts HC, et al. Aggregatibacter aphrophilus endocarditis: a case report. Scott Med J. 2012 Nov; 57(4): 247.	none	none	none	none	none	none
+Anaerococcus prevotii	普氏厌氧球菌	bacteria	有引起化脓性关节炎的报道。	Jain S, Bui V, Spencer C, et al. Septic arthritis in a native joint due to Anaerococcus prevotii. J Clin Pathol. 2008 Jun; 61(6): 775-6.	none	none	none	none	none	none
+Arcobacter butzleri	布氏弓形菌	bacteria	与持续性水样腹泻有关。	undetermined	none	none	none	none	none	none
+Arthrobacter sanguinis	血节杆菌	bacteria	有在透析患者中引起腹膜炎的报道。	Yap DY, Tse H, Mok MM, et al. Arthrobacter sanguinis: An uncommon cause of peritonitis in a peritoneal dialysis patient. Nephrology (Carlton). 2015 Nov; 20(11): 868.	none	none	none	none	none	none
+Aureimonas altamirensis	查不到	bacteria	有从腹膜炎患者腹水中分离的报道。	Schröttner P, Rudolph WW, Taube F, et al. First report on the isolation of Aureimonas altamirensis from a patient with peritonitis. Int J Infect Dis. 2014 Dec; 29: 71-3.	none	none	none	none	none	none
+Cardiobacterium valvarum	心瓣膜心杆菌	bacteria	可导致心内膜炎。	Bothelo E, Gouriet F, Fournier PE, et al. Endocarditis caused by Cardiobacterium valvarum. J Clin Microbiol. 2006 Feb; 44(2): 657-8.	none	none	none	none	none	none
+Chromobacterium haemolyticum	溶血色杆菌	bacteria	溶血色杆菌偶有引起菌血症、肺炎、结肠炎的报道。	Okada M, Inokuchi R, Shinohara K, et al. Chromobacterium haemolyticum-induced bacteremia in a healthy young man. BMC Infect Dis. 2013 Sep 3; 13: 406.	none	none	none	none	none	none
+Cronobacter sakazakii	阪崎氏年轻泰坦杆菌	bacteria	阪崎氏年轻泰坦杆菌又称坂崎肠杆菌，能引起新生儿败血症、脑膜炎和坏死性小肠结肠炎，病死率较高，婴儿配方乳粉是目前发现的主要感染渠道。	Chaves CEV, Brandão MLL, Lacerda MLGG, et al. Fatal Cronobacter sakazakii Sequence Type 494 Meningitis in a Newborn, Brazil. Emerg Infect Dis. 2018 Oct; 24(10): 1948-1950.	none	none	none	none	none	none
+Delftia tsuruhatensis	鹤羽田戴尔福特菌	bacteria	鹤羽田戴尔福特菌偶在免疫低下患者中引起肺炎、菌血症。	Ranc A, Dubourg G, Fournier PE, et al. Delftia tsuruhatensis, an Emergent Opportunistic Healthcare-Associated Pathogen. Emerg Infect Dis. 2018 Mar; 24(3): 594-596.	none	none	none	none	none	none
+Empedobacter brevis	短稳杆菌	bacteria	短稳杆菌偶有引起脑膜炎、菌血症、眼内炎的报道。	Sharma D, Patel A, Soni P, et al. Empedobacter brevis Meningitis in a Neonate: A Very Rare Case of Neonatal Meningitis and Literature Review. Case Rep Pediatr. 2016; 2016: 7609602.	none	none	none	none	none	none
+Flavobacterium johnsoniae	约氏黄杆菌	bacteria	none  	none	none	none	none	none	none	none
+Flavobacterium limnosediminis	黄杆菌	bacteria	none  	none	none	none	none	none	none	none
+Gemella haemolysans	溶血孪生球菌	bacteria	可引起菌血症、心内膜炎、脑膜炎、眼内炎等。	Salceanu SO, Levy S, Cunningham R, et al. Severe Gemella haemolysans endophthalmitis following ranibizumab intravitreal injection. Indian J Ophthalmol. 2017 Nov; 65(11): 1249-1251.	none	none	none	none	none	none
+Gemella morbillorum	麻疹孪生球菌	bacteria	机会致病菌，可引起心内膜炎、关节炎、肺炎、骨髓炎、肝脓肿、腹膜炎等。	Li D, Zhu Z, Zheng X, et al. Gemella morbillorum endocarditis of pulmonary valve:a case report. J Cardiothorac Surg. 2017 Mar 23; 12(1): 16. 	none	none	none	none	none	none
+Gluconobacter oxydans	氧化葡糖杆菌	bacteria	none  	none  	none	none	none	none	none	none
+Kingella denitrificans	反硝化金氏菌	bacteria	机会致病菌，是呼吸道的共生菌，偶有引起心内膜炎、菌血症、腹膜炎等的报道。	Kocyigit I, Öztürk F, Kargi S, et al. Peritoneal dialysis-related peritonitis due to Kingella denitrificans: the first case report. Perit Dial Int. 2014 Nov-Dec;34(7):819-20.	none	none	none	none	none	none
+Kingella kingae	金氏金氏菌	bacteria	定殖于呼吸道和泌尿道等处，一般在儿童和免疫力低下的成年人中引起感染，可导致感染性关节炎、骨髓炎、椎间盘炎、菌血症、心内膜炎、脑膜炎、下呼吸道和泌尿道感染等。	Ramana K, Mohanty S. An adult case of urinary tract infection with Kingella kingae: a case report. J Med Case Rep. 2009 May 11;3:7236.	none	none	none	none	none	none
+Lactococcus garvieae	格氏乳球菌	bacteria	属于鱼类病原体，偶有引起人感染性心内膜炎的报道。	Ortiz C, López J, Del Amo E, et al. Lactococcus garvieae infective endocarditis: report of 2 cases and review of the literature. Rev Esp Cardiol (Engl Ed). 2014 Sep; 67(9): 776-8.	none	none	none	none	none	none
+Lactococcus lactis subsp. cremoris	乳酸乳球菌乳脂亚种	bacteria	none 	none	none	none	none	none	none	none
+Lactococcus lactis subsp. lactis	乳酸乳球菌乳亚种	bacteria	none 	none	none	none	none	none	none	none
+Lactococcus piscium	鱼乳球菌	bacteria	none 	none	none	none	none	none	none	none
+Leptotrichia trevisanii	特氏纤毛菌	bacteria	偶有引起菌血症的报道。	Hou H, Chen Z, Tian L, et al. Leptotrichia trevisanii bacteremia in a woman with systemic lupus erythematosus receiving high-dose chemotherapy. BMC Infect Dis. 2018 Dec 14; 18(1): 661.	none	none	none	none	none	none
+Ochrobactrum anthropi	人苍白杆菌	bacteria	机会致病菌，偶在免疫功能低下患者中引起感染。	Zhu M, Zhao X, Zhu Q, et al. Clinical characteristics of patients with Ochrobactrum anthropi bloodstream infection in a Chinese tertiary-care hospital: A 7-year study.J Infect Public Health. J Infect Public Health. 2018 Nov - Dec; 11(6): 873-877.	none	none	none	none	none	none
+Ochrobactrum intermedium	中间苍白杆菌	bacteria	机会致病菌，偶在免疫功能低下患者中引起感染。	Vaidya SA, Citron DM, Fine MB, et al. Pelvic abscess due to Ochrobactrum intermedium [corrected] in an immunocompetent host: case report and review of the literature. J Clin Microbiol. 2006 Mar; 44(3): 1184-6.	none	none	none	none	none	none
+Pandoraea apista	不可靠潘多拉菌	bacteria	可在囊性纤维化患者中引起肺部感染。	Jørgensen IM, Johansen HK, Frederiksen B, et al. Epidemic spread of Pandoraea apista, a new pathogen causing severe lung disease in cystic fibrosis patients. Pediatr Pulmonol. 2003 Nov;36(5):439-46.	none	none	none	none	none	none
+Pandoraea pnomenusa	肺炎潘多拉菌	bacteria	可引起肺部感染、菌血症等。	Falces-Romero I, Gutiérrez-Arroyo A, Romero-Gómez MP. Catheter-associated bacteremia by Pandoraea pnomenusa in an infant with acute lymphoblastic leukemia. Med Clin (Barc). 2016 Aug 5;147(3):132.	none	none	none	none	none	none
+Pandoraea pulmonicola	居肺潘多拉菌	bacteria	居肺潘多拉菌可在囊性纤维化患者中造成严重感染。	Degand N, Lotte R, Decondé Le Butor C, et al. Epidemic spread of Pandoraea pulmonicola in a cystic fibrosis center. BMC Infect Dis. 2015 Dec 26;15:583.	none	none	none	none	none	none
+Parabacteroides goldsteinii	古氏副拟杆菌	bacteria	古氏副拟杆菌偶有引起菌血症的报道。	Awadel-Kariem FM, Patel P, Kapoor J, et al. First report of Parabacteroides goldsteinii bacteraemia in a patient with complicated intra-abdominal infection. Anaerobe. 2010 Jun;16(3):223-5.	none	none	none	none	none	none
+Peptoniphilus harei	海氏嗜蛋白胨菌	bacteria	偶有引起腹膜感染的报道。	Cobo F, Rodríguez-Granger J, Sampedro A, et al. Peritoneal infection due to Peptoniphilus harei in a patient with intestinal occlusion. Anaerobe. 2017 Apr;44:126-127.	none	none	none	none	none	none
+Photorhabdus asymbiotica	非共生光杆状菌	bacteria	可引起局部软组织感染和菌血症。	Gerrard JG, Stevens RP. A Review of Clinical Cases of Infection with Photorhabdus Asymbiotica. Curr Top Microbiol Immunol. 2017;402:179-191.	none	none	none	none	none	none
+Ralstonia pickettii	皮氏罗尔斯通菌	bacteria	机会致病菌，主要与医院获得性感染相关，免疫功能低下者易感，可引起血液感染等。	Chen YY, Huang WT, Chen CP, et al. An Outbreak of Ralstonia pickettii Bloodstream Infection Associated with an Intrinsically Contaminated Normal Saline Solution. Infect Control Hosp Epidemiol. 2017 Apr; 38(4): 444-448.	none	none	none	none	none	none
+Roseomonas cervicalis	颈玫瑰单胞菌	bacteria	机会致病菌，易对免疫力低下患者造成感染，可引起泌尿生殖系统和眼部感染。	Rihs JD, Brenner DJ, Weaver RE, et al. Roseomonas, a new genus associated with bacteremia and other human infections. J Clin Microbiol. 1993 Dec;31(12):3275-83.	none	none	none	none	none	none
+Roseomonas gilardii	吉氏玫瑰单胞菌	bacteria	机会致病菌，易对免疫力低下的人造成感染，可引起败血症、腹膜炎、关节炎等。	Malini S, Goh BL, Lim TS. A Rare Case of Roseomonas gilardii Peritonitis in a Patient on Continuous Ambulatory Peritoneal Dialysis. Perit Dial Int. 2016 Sep 10;36(5):578.	none	none	none	none	none	none
+Skermanella aerolata	气生斯克尔曼氏菌	bacteria	偶有引起坏死性筋膜炎的报道。	Heo ST, Kwon KT, Yoo JR, et al. First Case of Necrotizing Fasciitis Caused by Skermanella aerolata Infection Mimicking Vibrio Sepsis. Ann Lab Med. 2018 Nov;38(6):604-606.	none	none	none	none	none	none
+Thauera terpenica	萜烯索氏菌	bacteria	none 	none	none	none	none	none	none	none
+Thauera linaloolentis	索氏菌	bacteria	none 	none	none	none	none	none	none	none
+Thermoanaerobacterium thermosaccharolyticum	热产硫黄好热厌氧小杆菌	bacteria	none 	none	none	none	none	none	none	none
+Thermoanaerobacterium xylanolyticum	解木聚糖好热厌氧小杆菌	bacteria	none 	none	none	none	none	none	none	none
+Borrelia garinii	伽氏疏螺旋体	bacteria	是莱姆病的病原体。	undetermined	none	none	none	none	none	none
+Borrelia afzelii	阿弗西尼疏螺旋体	bacteria	是莱姆病的病原体。	undetermined	none	none	none	none	none	none
+Borrelia recurrentis 	回归热螺旋体	bacteria	是引起流行性回归热的病原体，临床表现为菌血症性发热，肝、脾肿大，出现黄疸等。	undetermined	none	none	none	none	none	none
+Treponema denticola	齿垢密螺旋体	bacteria	机会致病菌，是口腔内常见的密螺旋体，常与牙周疾病有关，还可能与细菌性阴道病有关。	Dashper SG, Seers CA, Tan KH, et al. Virulence Factors of the Oral Spirochete Treponema denticola. J Dent Res. 2011 Jun;90(6):691-703.	none	none	none	none	none	none
+Treponema socranskii	索氏密螺旋体	bacteria	可引起牙龈炎和牙周炎。	Moore WE, Holdeman LV, Smibert RM, et al. Bacteriology of experimental gingivitis in children. Infect Immun. 1984 Oct;46(1):1-6.	none	none	none	none	none	none
+Treponema vincentii	文氏密螺旋体	bacteria	可引起慢性牙周炎。	undetermined	none	none	none	none	none	none
+Ureaplasma Urealyticum	解脲脲原体	bacteria	可引起泌尿生殖系统疾病。	Kletzel HH, Rotem R, Barg M, et al. Ureaplasma urealyticum: the Role as a Pathogen in Women's Health, a Systematic Review. Curr Infect Dis Rep. 2018 Jun 29;20(9):33.	none	none	none	none	none	none
+Rickettsia rickettsii	立氏立克次体	bacteria	是落基山斑疹热的病原体。	Perlman SJ, Hunter MS, Zchori-Fein E. The emerging diversity of Rickettsia. Proc Biol Sci. 2006 Sep 7;273(1598):2097-106.	none	none	none	none	none	none
+Rickettsia africae	非洲立克次体	bacteria	可引起非洲蜱咬热。	Fujisawa T, Kadosaka T, Fujita H, et al. Rickettsia africae infection in a Japanese traveller with many tick bites. Acta Derm Venereol. 2012 Jul;92(4):443-4.	none	none	none	none	none	none
+Rickettsia akari	小蛛立克次体	bacteria	可引起立克次体痘。	Paddock CD, Koss T, Eremeeva ME, et al. Isolation of Rickettsia akari from eschars of patients with rickettsialpox. Am J Trop Med Hyg. 2006 Oct;75(4):732-8.	none	none	none	none	none	none
+Hafnia alvei	蜂房哈夫尼亚菌	bacteria	机会致病菌，在胃肠道中有分布，通常与呼吸道感染、泌尿道感染、菌血症、脑膜炎或伤口和脓肿的混合感染有关。	Litrenta J, Oetgen M. Hafnia alvei: A new pathogen in open fractures. Trauma Case Rep. 2017 Jan 18;8:41-45.	none	none	none	none	none	none
+Morganella morganii	摩根摩根菌	bacteria	可引起呼吸道、泌尿道和伤口等感染，也与败血症和腹泻有关，是医院感染的致病菌之一。	Singla N, Kaistha N, Gulati N, et al. Morganella morganii could be an important Intensive Care Unit pathogen. Indian J Crit Care Med. 2010 Jul;14(3):154-5.	none	none	none	none	none	none
+Plesiomonas shigelloides	类志贺邻单胞菌	bacteria	导致胃肠炎，临床表现为短时间的水样腹泻或痢疾样腹泻。肠道外感染可发生在机体抵抗力下降的人群，可引起菌血症、脑膜炎等。	Pence MA. The Brief Case: Wound Infection with Plesiomonas shigelloides following a Freshwater Injury. J Clin Microbiol. 2016 May;54(5):1180-2.	none	none	none	none	none	none
+Bergeyella zoohelcum	动物溃疡伯格菌	bacteria	一般在动物中引起疾病，偶有引起人类感染的报道。	Chen Y, Liao K, Ai L, et al. Bacteremia caused by Bergeyella zoohelcum in an infective endocarditis patient: case report and review of literature. BMC Infect Dis. 2017 Apr 12;17(1):271.	none	none	none	none	none	none
+Buttiauxella agrestis	乡间布丘氏菌	bacteria	有造成手术部位感染的报道。	Antonello VS, Dallé J, Domingues GC, et al. Post-cesarean surgical site infection due to Buttiauxella agrestis. Int J Infect Dis. Int J Infect Dis. 2014 May;22:65-6.	none	none	none	none	none	none
+Catonella morbi	疾病卡托氏菌	bacteria	偶有引起心内膜炎的报道。	Menon T, Naveen Kumar V. Catonella morbi as a cause of native valve endocarditis in Chennai, India. Infection. 2012 Oct;40(5):581-2.	none	none	none	none	none	none
+Cellulosimicrobium cellulans	纤维纤维微菌	bacteria	可引起罕见的机会感染，有文献报道其可引起急性肾衰竭、新生儿早期败血症、菌血症等。	Casanova-Román M, Sanchez-Porto A, Gomar JL, et al. Early-onset neonatal sepsis due to Cellulosimicrobium cellulans. Infection. 2010 Aug;38(4):321-3.	none	none	none	none	none	none
+Centipeda periodontii	牙周蜈蚣菌	bacteria	可引起牙周炎。	Rams TE, Hawley CE, Whitaker EJ, et al. Centipeda periodontii in human periodontitis. Odontology. 2015 Sep;103(3):286-91.	none	none	none	none	none	none
+Ewingella americana	美洲爱文氏菌	bacteria	有引起腹膜炎、结膜炎、骨髓炎和脓毒性关节炎等的报道。	Li L, Shen J, Tao J, et al. Peritonitis caused by Ewingella americana in a patient with peritoneal dialysis: a case report. J Med Case Rep. 2014 Mar 4;8:86.	none	none	none	none	none	none
+Granulibacter bethesdensis	贝塞斯达颗粒杆菌	bacteria	可引起慢性肉芽肿病。	Greenberg DE, Shoffner AR, Zelazny AM, et al. Recurrent Granulibacter bethesdensis infections and chronic granulomatous disease. Emerg Infect Dis. 2010 Sep;16(9):1341-8.	none	none	none	none	none	none
+Haematobacter massiliensis	马赛血液杆菌	bacteria	偶有引起心内膜炎的报道。	Cheng JW, Wang P, Xiao M, et al. First case report of endocarditis caused by haematobacter massiliensis in China. BMC Infect Dis. 2017 Oct 31;17(1):709.	none	none	none	none	none	none
+Inquilinus limosus	黏泥异地菌	bacteria	与囊性纤维化病有关。	McHugh KE, Rhoads DD, Wilson DA, et al. Inquilinus limosus in pulmonary disease: case report and review of the literature. Diagn Microbiol Infect Dis. 2016 Dec;86(4):446-449.	none	none	none	none	none	none
+Laribacter hongkongensis	香港雷夫松氏杆菌	bacteria	与肠胃炎有关。	Teng JL, Woo PC, Ma SS, et al. Ecoepidemiology of Laribacter hongkongensis, a novel bacterium associated with gastroenteritis. J Clin Microbiol. 2005 Feb;43(2):919-22.	none	none	none	none	none	none
+Oligella ureolytica	解脲寡源菌	bacteria	有引起血液感染的报道。	Pagotto A, Merluzzi S, Pillinini P, et al. Bloodstream infection with Oligella ureolytica: a case report and review of the literature. Infez Med. 2016;24(1):58-61.	none	none	none	none	none	none
+Ornithinimicrobium pekingense	北京鸟氨酸微菌	bacteria	有引起眼部感染的报道。	Borsali E, Le Bouter A, Abdiche G, et al. Ornithinimicrobium pekingense ocular infection. Med Mal Infect. 2011 Jun;41(6):345-6.	none	none	none	none	none	none
+Yokenella regensburgei	雷金斯堡预研菌	bacteria	机会致病菌，倾向于感染免疫缺陷患者，有引起败血症、骨髓炎等的报道。	Chi X, Liu M, Chen Y. Yokenella regensburgei Septicemia in a Chinese Farmer Immunosuppressed by HIV: A Case Report and Literature Review. Case Rep Infect Dis. 2017;2017:5962463.	none	none	none	none	none	none
+Leifsonia aquatica	水雷夫松氏菌	bacteria	有在免疫低下患者中引起血液感染的报道。	Han L, Lei JE, Wang X, et al. Septicemia caused by Leifsonia aquatica in a healthy patient after retinal reattachment surgery. J Clin Microbiol. 2013 Nov;51(11):3886-8.	none	none	none	none	none	none
+Francisella tularensis	土拉热弗朗西斯菌	bacteria	与兔热病相关	undetermined	none	none	none	none	none	none
+Thalassolituus oleivorans	噬油深海弯曲菌	bacteria	none 	none	none	none	none	none	none	none
+Thermocrispum municipale	市区热密卷菌	bacteria	none 	none	none	none	none	none	none	none
+Thermomonospora curvata	弯曲高温单胞菌	bacteria	none 	none	none	none	none	none	none	none
+Thermorudis peleae	Thermorudis peleae	bacteria	none 	none	none	none	none	none	none	none
+Malassezia furfur	糠秕马拉色菌	fungus	可引起皮肤表面黄褐色的花斑藓，如汗斑。	Schmidt A. Malassezia furfur: a fungus belonging to the physiological skin flora and its relevance in skin disorders. Cutis. 1997 Jan;59(1):21-4.	none	none	none	none	none	none
+Piedraia hortae	何德毛结节菌	fungus	可在病发上形成硬的黑色结节，使毛干上结节如沙粒状。	undetermined	none	none	none	none	none	none
+Trichophyton gypseum（Nannizzia gypsea）	石膏样毛癣菌	fungus	皮肤癣菌，可侵犯皮肤，引起手足癣、体癣、股癣、叠瓦癣等。	undetermined	none	none	none	none	none	none
+Trichophyton mentagrophytes	须毛癣菌	fungus	可引发股癣	undetermined	none	none	none	none	none	none
+Microsporum gypseum（Nannizzia gypsea）	石膏小孢子菌	fungus	皮肤癣菌，可侵犯皮肤，引起手足癣、体癣、股癣、叠瓦癣等。	undetermined	none	none	none	none	none	none
+Candida albicans（Candida stellatoidea）	白假丝酵母菌（星形假丝酵母菌）	fungus	机会致病菌，又称白色念珠菌，是体表和腔道的正常菌群成员，当菌群失调或抵抗力降低时易引起疾病。可侵犯人体许多部位，引起皮肤黏膜、内脏和中枢神经系统等感染。皮肤感染临床表现可见有鹅口疮、口角糜烂、外阴与阴道炎等；内脏感染可引起肺炎、肠炎、膀胱炎、心内膜炎和败血症等；中枢神经系统感染可引起脑膜炎、脑脓肿等。	Ideguchi S, Yamamoto K, Ikeda A, et al. A case of bilateral emphysematous pyelonephritis caused by Candida albicans. J Infect Chemother. 2018 Nov 15. pii: S1341-321X(18)30421-5.	none	none	none	none	none	none
+Cryptococcus neoformans 	新型隐球菌	fungus	机会致病菌，可侵犯皮肤、黏膜、淋巴结、骨、内脏等，引起慢性炎症和脓肿，尤其易侵袭中枢神经系统，导致亚急性或慢性脑膜炎，其所致脑膜炎常发生于体质虚弱、免疫力低下患者。	Kwon-Chung KJ, Fraser JA, Doering TL, et al. Cryptococcus neoformans and Cryptococcus gattii, the etiologic agents of cryptococcosis. Cold Spring Harb Perspect Med. 2014 Jul 1; 4(7): a019760. 	none	none	none	none	none	none
+Fonsecaea pedrosoi	裴氏着色芽生菌	fungus	主要侵犯肢体皮肤，早期皮肤患处发生丘疹，进而形成结节，随病程发展，可影响淋巴回流，形成肢体象皮肿，免疫力低下时可侵犯中枢神经或经血行扩散。	undetermined	none	none	none	none	none	none
+Sporothrix schenckii	申克孢子丝菌	fungus	可经皮肤损伤侵入，后沿淋巴管分布，引起亚急性或慢性肉芽肿，使淋巴管形成孢子丝菌下疳；也可经肠道或呼吸道进入肺，随后经血行播散至其他器官引起深部感染。	undetermined	none	none	none	none	none	none
+Coccidioides posadasii	球孢子菌	fungus	可引发球孢子菌病、裂谷热	undetermined	none	none	none	none	none	none
+Blastomyces dermatitidis	皮炎芽生菌	fungus	可引发芽生菌病	undetermined	none	none	none	none	none	none
+Geotrichum candidum	白地霉	fungus	可引发地霉菌病	undetermined	none	none	none	none	none	none
+Paracoccidioides brasiliensis	巴西副球孢子菌	fungus	可引发副球孢子菌病（南美芽生菌病）	undetermined	none	none	none	none	none	none
+Hortaea werneckii	威尼克何德霉	fungus	可引发威尼克何德霉又称威尼克外瓶霉，是黑癣的病原体。	undetermined	none	none	none	none	none	none
+Trichosporon beigelii	白吉利毛孢子菌	fungus	可引发毛孢子菌病	undetermined	none	none	none	none	none	none
+Mucorales	毛霉菌目	fungus	可引发毛霉菌病	undetermined	none	none	none	none	none	none
+Entomophthorales	虫霉目	fungus	可引发虫霉菌病	undetermined	none	none	none	none	none	none
+Human adenovirus C	人腺病毒C型	virus	可导致呼吸系统感染，如急性发热性咽喉炎、急性支气管炎和肺炎等，除呼吸道感染外，腺病毒的疾病和表现包括肠胃炎、结膜炎、膀胱炎和皮疹。免疫系统受损的患者特别容易发生腺病毒感染的严重并发症。人腺病毒已有A至G，7个种，C型感染通常引起肝炎和肺炎。	Thomas Lion. Adenovirus Infections in Immunocompetent and Immunocompromised Patients. Clin Microbiol Rev. 2014 Jul; 27(3): 441–462.	none	none	none	none	none	none
+Coronavirus 	冠状病毒	virus	主要引起感冒及咽喉炎，临床症状主要为头痛、咽痛及轻度咳嗽。	undetermined	none	none	none	none	none	none
+SARS coronavirus	SARS-冠状病毒	virus	是引起严重呼吸综合征（SARS）的病原体，SARS又称传染性非典型肺炎，临床表现为发热、乏力、头痛、肌肉关节酸痛等全身症状和干咳、胸闷、呼吸困难等呼吸道症状，部分患者有腹泻等消化道症状。	undetermined	none	none	none	none	none	none
+Poliovirus（ Enterovirus C）	脊髓灰质炎病毒	virus	是引起脊髓灰质炎（又称小儿麻痹症）的病原体，属于肠道病毒C型（Enterovirus C），主要通过粪-口途径传播。临床表现有无麻痹型脊髓灰质炎（也称无菌性脑膜炎）和麻痹型脊髓灰质炎，麻痹型可导致永久性迟缓性肢体麻痹。	undetermined	none	none	none	none	none	none
+Coxsackievirus	柯萨奇病毒	virus	主要通过粪-口途径传播，可引起无菌性脑膜炎、疱疹性咽峡炎、手足口病、流行性胸痛、心包炎和心肌炎、结膜炎等。	undetermined	none	none	none	none	none	none
+Echovirus	埃可病毒	virus	属于肠道病毒B型（Enterovirus B），主要通过粪-口途径传播，可引起无菌性脑膜炎、流行性胸痛等。	undetermined	none	none	none	none	none	none
+Astrovirus sp.	星状病毒	virus	可引起胃肠炎，易感者为婴幼儿和老年人。	undetermined	none	none	none	none	none	none
+Measles virus 	麻疹病毒	virus	是麻疹的病原体，麻疹是儿童常见的一种急性传染病，以皮疹、发热及呼吸道症状为特征。	undetermined	none	none	none	none	none	none
+Hantavirus（Orthohantaviruses ）	汉坦病毒	virus	主要引起肾综合征出血热，临床症状主要为以发热、出血和严重肾衰竭等。	undetermined	none	none	none	none	none	none
+Junin virus（Argentinian mammarenavirus）	胡宁病毒	virus	可致阿根廷出血热	undetermined	none	none	none	none	none	none
+Machupo virus	马丘波病毒	virus	可致玻利维亚出血热	undetermined	none	none	none	none	none	none
+Sabiá virus（Brazilian mammarenavirus）	萨比亚病毒	virus	可致巴西出血热	undetermined	none	none	none	none	none	none
+Caliciviridae	杯状病毒	virus	杯状病毒感染	undetermined	none	none	none	none	none	none
+Alphavirus	甲病毒	virus	可致基孔肯雅热	undetermined	none	none	none	none	none	none
+Colorado tick fever virus  (CTFV)	科罗拉多蜱传热病毒	virus	可致科罗拉多蜱热	undetermined	none	none	none	none	none	none
+Rhinovirus A	鼻病毒A型	virus	可致普通感冒	undetermined	none	none	none	none	none	none
+Rhinovirus B	鼻病毒B型	virus	可致普通感冒	undetermined	none	none	none	none	none	none
+Rhinovirus C	鼻病毒C型	virus	可致普通感冒	undetermined	none	none	none	none	none	none
+prion	朊病毒	virus	可致克罗伊茨费尔特-雅各布病、 致死性家族失眠症、Gerstmann-Sträussler-Scheinker syndrome、库鲁病	undetermined	none	none	none	none	none	none
+Crimean-Congo hemorrhagic fever virus	克里米亚-刚果出血热病毒	virus	可致克里米亚-刚果出血热	undetermined	none	none	none	none	none	none
+Ebolavirus	埃博拉病毒（属水平）	virus	可致埃博拉出血热	undetermined	none	none	none	none	none	none
+Parvovirus（ Protoparvovirus）	细小病毒	virus	可致传染性红斑（第五病）	undetermined	none	none	none	none	none	none
+Coxsackie A virus	A型柯萨奇病毒	virus	可致手足口病	undetermined	none	none	none	none	none	none
+Sin Nombre virus（ Sin Nombre orthohantavirus）	辛诺柏病毒	virus	可致汉坦病毒肺综合征	undetermined	none	none	none	none	none	none
+Bunyaviridae（Peribunyaviridae）	布尼亚病毒科	virus	可致肾综合征出血热	undetermined	none	none	none	none	none	none
+Human parainfluenza virus 1	副流感病毒1型	virus	可致喉炎、肺炎、细支气管炎、普通感冒	undetermined	none	none	none	none	none	none
+Human parainfluenza virus 2	副流感病毒2型	virus	可致喉炎、肺炎、细支气管炎、普通感冒	undetermined	none	none	none	none	none	none
+Human parainfluenza virus 3	副流感病毒3型	virus	可致喉炎、肺炎、细支气管炎、普通感冒	undetermined	none	none	none	none	none	none
+Human parainfluenza virus 4	副流感病毒4型	virus	可致喉炎、肺炎、细支气管炎、普通感冒	undetermined	none	none	none	none	none	none
+Orthomyxoviridae	正粘病毒科	virus	可致流感	undetermined	none	none	none	none	none	none
+Lassa virus（Lassa mammarenavirus）	拉沙病毒	virus	可致拉沙热	undetermined	none	none	none	none	none	none
+Lymphocytic choriomeningitis virus	淋巴细胞脉络丛脑膜炎病毒	virus	可致淋巴细胞脉络丛脑膜炎	undetermined	none	none	none	none	none	none
+Marburg marburgvirus	马堡病毒	virus	可致马堡出血热	undetermined	none	none	none	none	none	none
+Middle East respiratory syndrome coronavirus	中东呼吸综合征冠状病毒	virus	可致中东呼吸综合征	undetermined	none	none	none	none	none	none
+Molluscum contagiosum virus	接触传染性软疣病毒	virus	可致接触传染性软疣	undetermined	none	none	none	none	none	none
+Monkeypox virus	猴痘病毒	virus	可致猴痘	undetermined	none	none	none	none	none	none
+Norovirus	诺瓦克病毒	virus	婴幼儿易感	undetermined	none	none	none	none	none	none
+Rabies lyssavirus	狂犬病病毒	virus	可致狂犬病	undetermined	none	none	none	none	none	none
+Rift Valley fever virus	裂谷热病毒	virus	可致裂谷热	undetermined	none	none	none	none	none	none
+Variola major virus	大天花病毒	virus	可致天花	undetermined	none	none	none	none	none	none
+Variola minor virus	小天花病毒	virus	可致天花	undetermined	none	none	none	none	none	none
+Venezuelan equine encephalitis virus	委内瑞拉马脑炎病毒	virus	可致委内瑞拉马脑炎	undetermined	none	none	none	none	none	none
+Guanarito virus（Guanarito mammarenavirus）	瓜纳瑞托病毒	virus	可致委内瑞拉出血热	undetermined	none	none	none	none	none	none
+West Nile virus	西尼罗河病毒	virus	可致西尼罗河热	undetermined	none	none	none	none	none	none
+Yellow fever virus	黄热病病毒	virus	可致黄热病	undetermined	none	none	none	none	none	none
+Zika virus	寨卡病毒	virus	可致寨卡热	undetermined	none	none	none	none	none	none
+Human parvovirus B19	人类细小病毒	virus	传染性红斑合并脑膜炎是人类细小病毒感染引起的最常见的疾病，多发于幼儿，该病毒感染还可引起暂时性红细胞生成抑制、关节病、胎儿水肿等临床症状。	Vafaie J, Schwartz RA. Parvovirus B19 infections. Int J Dermatol. 2004 Oct;43(10):747-9.	none	none	none	none	none	none
+Leishmania infantum	婴儿利什曼原虫	 parasite	可引起内脏利什曼病和皮肤利什曼病。	Aoun K, Bouratbine A. Cutaneous leishmaniasis in North Africa: a review. Parasite. 2014;21:14.	none	none	none	none	none	none
+Giardia lamblia（Giardia intestinalis）	蓝氏贾第鞭毛虫	 parasite	主要表现为消化道症状，甚至出现严重的吸收不良综合征。	undetermined	none	none	none	none	none	none
+Plasmodium knowlesi	诺氏疟原虫	 parasite	可导致疟疾	undetermined	none	none	none	none	none	none
+Sarcocystis bovihominis	牛人肉孢子虫	 parasite	可导致肉孢子虫病。	undetermined	none	none	none	none	none	none
+Babesia divergens	分歧巴贝西虫	 parasite	可导致巴贝西虫病	undetermined	none	none	none	none	none	none
+Babesia equi	马巴贝西虫	 parasite	可导致巴贝西虫病	undetermined	none	none	none	none	none	none
+Babesia duncani	巴贝西虫	 parasite	可导致巴贝西虫病	undetermined	none	none	none	none	none	none
+Clonorchis sinensis	华支睾吸虫	 parasite	人体感染后，虫体寄生于肝胆管内，主要与生食或半生食鱼虾有关，轻者可无症状，重者可引起胆管炎、胆囊炎、胆管阻塞、肝大、肝硬化、腹水、营养不良和发育障碍等。	undetermined	none	none	none	none	none	none
+Clonorchis viverrini	支睾吸虫	 parasite	支睾吸虫病	undetermined	none	none	none	none	none	none
+Heterophyes heterophyes	异形吸虫	 parasite	人体感染的后，虫体寄生于小肠，感染病例较少，一般不造成大规模流行，人体感染主要是因为食入含活囊蚴的鱼肉或蛙肉引起。一般只引起轻度炎症反应，如侵入肠壁可造成组织脱落、压迫性萎缩与坏死，导致腹泻或其他消化功能紊乱；重度感染可出现消化道症状和消瘦。	undetermined	none	none	none	none	none	none
+Fasciolopsis buski	布氏姜片吸虫	 parasite	人体感染后，虫体寄生于小肠，与生食水生植物有关，主要引起肠道消化和吸收障碍，患者出现上腹部或右季肋下隐痛、消化不良性腹泻、肠鸣音亢进等。	undetermined	none	none	none	none	none	none
+Fasciola hepatica	肝片吸虫	 parasite	主要是食入含活囊蚴的水生植物或饮用生水引起，人体感染后，其童虫在移行过程中对各脏器特别是对肝组织的破坏，可引起肝炎症反应及肝脓肿；成虫寄生于肝胆管内，可引起胆管炎、胆管上皮增生及胆管周围纤维化，进而引起阻塞性黄疸。	undetermined	none	none	none	none	none	none
+Fasciola gigantica	巨片吸虫	 parasite	可导致片吸虫病	undetermined	none	none	none	none	none	none
+Paragonimus westermani 	卫氏并殖吸虫	 parasite	因食入含活囊蚴的溪蟹或蝲蛄引起，其幼虫在组织或器官内移行，可引起局部出血和渗出性炎症；成虫在组织内寄生，可引起细胞浸润，同时溶解周围组织，形成囊状空洞，转为脓肿，最后形成囊肿。主要病变部位在胸肺、腹、脑等部位，临床表现因寄生部位不同可出现腹痛、胸痛、咳嗽、咳血痰等。	undetermined	none	none	none	none	none	none
+Paragonimus skrjabini	斯氏并殖吸虫	 parasite	因生食或半生食含活囊蚴的蟹而引起，主要引起幼虫移行症。皮肤型主要表现为游走性皮下包块和结节，内脏型因幼虫侵犯的器官不同而出现不同的损害及表现，童虫侵入腹腔，可引起腹膜炎症、腹腔脏器粘连；侵犯肝可引起嗜酸性脓肿及肝组织出血性病变；侵犯胸腹，可引起渗出性胸膜炎、腹腔积液、胸膜增厚或粘连；侵入心包，可出现血性心包积液；童虫还可侵入眼、脑等处，引起相应的症状和体征。	undetermined	none	none	none	none	none	none
+Paragonimus africanus	非洲并殖吸虫	 parasite	可导致肺并殖吸虫病	undetermined	none	none	none	none	none	none
+Paragonimus caliensis	卡利并殖吸虫	 parasite	可导致肺并殖吸虫病	undetermined	none	none	none	none	none	none
+Paragonimus kellicotti	猫肺并殖吸虫	 parasite	可导致肺并殖吸虫病	undetermined	none	none	none	none	none	none
+Paragonimus uterobilateralis	双侧宫并殖吸虫	 parasite	可导致肺并殖吸虫病	undetermined	none	none	none	none	none	none
+Paragonimus miyazakii	宫崎并殖吸虫	 parasite	可导致肺并殖吸虫病	undetermined	none	none	none	none	none	none
+Paragonimus heterotremus	异盘并殖吸虫	 parasite	可导致肺并殖吸虫病	undetermined	none	none	none	none	none	none
+Paragonimus mexicanus	墨西哥并殖吸虫	 parasite	可导致肺并殖吸虫病	undetermined	none	none	none	none	none	none
+Paragonimus pulmonalis	肺并殖吸虫	 parasite	可导致肺并殖吸虫病	undetermined	none	none	none	none	none	none
+Metagonimus yokogawai	横川后殖吸虫	 parasite	可导致后殖吸虫病	undetermined	none	none	none	none	none	none
+Schistosoma japonicum	日本血吸虫	 parasite	因人体接触含有尾蚴的水而感染，感染后，成虫寄生于门静脉-肠系膜静脉系统，虫卵是主要的致病因子，基本的病理变化是虫卵引起的虫卵肉芽肿和纤维化。	undetermined	none	none	none	none	none	none
+Schistosoma haematobium	埃及血吸虫	 parasite	可导致尿道血吸虫病	undetermined	none	none	none	none	none	none
+Schistosoma mansoni 	曼氏血吸虫	 parasite	可导致肠血吸虫病	undetermined	none	none	none	none	none	none
+Schistosoma intercalatum	间插血吸虫	 parasite	可导致肠血吸虫病	undetermined	none	none	none	none	none	none
+Schistosoma mekongi	湄公血吸虫	 parasite	可导致亚洲肠血吸虫病	undetermined	none	none	none	none	none	none
+Schistosoma malayensis	马来血吸虫	 parasite	可导致血吸虫病	undetermined	none	none	none	none	none	none
+Echinochasmus japonicus	日本棘隙吸虫	 parasite	主要是因为吃未煮熟的淡水鱼或吞食生的蝌蚪引起，成虫寄生于肠道，偶尔可侵入胆管，主要引起腹痛、腹泻等胃肠道症状。	undetermined	none	none	none	none	none	none
+Echinochasmus liliputanus	藐小棘隙吸虫	 parasite	主要是因为吃未煮熟的淡水鱼或吞食生的蝌蚪引起，成虫寄生于肠道，偶尔可侵入胆管，主要引起腹痛、腹泻等胃肠道症状。	undetermined	none	none	none	none	none	none
+Echinostoma echinatum	外旋棘口吸虫	 parasite	可导致棘口吸虫病	undetermined	none	none	none	none	none	none
+Opisthorchis viverrini 	泰国肝吸虫	 parasite	可导致后睾吸虫病	undetermined	none	none	none	none	none	none
+Opisthorchis felineus	猫肝吸虫	 parasite	可导致后睾吸虫病	undetermined	none	none	none	none	none	none
+Dicrocoelium dendriticum	支双腔吸虫	 parasite	柳叶刀肝吸虫	undetermined	none	none	none	none	none	none
+Metorchis conjunctus	次睾吸虫 	 parasite	可导致后睾吸虫病	undetermined	none	none	none	none	none	none
+Trichobilharzia regenti	毛毕吸虫	 parasite	可导致游泳皮痒症（血吸虫皮炎）	undetermined	none	none	none	none	none	none
+Linguatula serrata	锯齿舌形虫	 parasite	可导致片吸虫病综合症	undetermined	none	none	none	none	none	none
+Schistosomatidae	Schistosomatidae	 parasite	可导致游泳皮痒症（血吸虫皮炎）	undetermined	none	none	none	none	none	none
+Spirometra mansoni（Spirometra erinaceieuropaei）	曼氏迭宫绦虫	 parasite	人体感染成虫很少见，幼虫裂头蚴常寄生于人体，引起裂头蚴病。人体感染裂头蚴主要是因为局部皮肤敷贴或生食含裂头蚴的食物所致。裂头蚴在人体寄生部位广泛，包括咽部、四肢躯体皮下、口腔颌面部、生殖系统、脑、乳房、消化道和呼吸道等处。被损伤组织常出现炎症反应，形成嗜酸性肉芽肿及脓肿，肿块有游走感、虫爬感、瘙痒或有触感及荨麻疹。	undetermined	none	none	none	none	none	none
+Spirometra erinaceieuropaei	迭宫绦虫	 parasite	可导致裂头蚴病	undetermined	none	none	none	none	none	none
+Diphyllobothrium latum	阔节裂头绦虫	 parasite	人体感染因食入含裂头蚴的鱼引起，裂头蚴进入人体后，在小肠内发育为成虫，引起阔节裂头绦虫病，患者多无明显症状，有时可有疲倦、恶心、呕吐、腹泻或便秘、四肢麻木、饥饿感、嗜食盐等症状；成虫有时可扭结成团引起肠梗阻或胆囊、胆管阻塞、甚至肠穿孔等。	undetermined	none	none	none	none	none	none
+Taenia solium	链状带绦虫	 parasite	又称猪带绦虫，猪带绦虫成虫寄生于小肠内，引起猪带绦虫病；绦期幼虫囊尾蚴寄生于人体皮下、肌肉或内脏，引起囊尾蚴病。	undetermined	none	none	none	none	none	none
+Taenia saginata	肥胖带绦虫	 parasite	又称牛带绦虫，人体感染主要是食入含活囊尾蚴的牛肉引起，感染后多无明显症状，或仅有腹部不适、腹痛及体重减轻等表现，偶可引起肠梗阻或阑尾炎等并发症。	undetermined	none	none	none	none	none	none
+Taenia multiceps	多头带绦虫	 parasite	可导致绦虫病	undetermined	none	none	none	none	none	none
+Echinococcus granulosus	细粒棘球绦虫	 parasite	人体感染主要由于误食被虫卵污染的食物所致，感染后幼虫棘球蚴可寄生在各组织器官，以肝最常见，肺次之，其他部位包括腹腔、胸腔、脑、脾、盆腔、骨骼等。临床表现复杂，主要有过敏症状、局部压迫和刺激症状、全身中毒症状和包块等。	undetermined	none	none	none	none	none	none
+Echinococcus multilocularis	多房棘球绦虫	 parasite	可导致蚴病（泡型包虫病）	undetermined	none	none	none	none	none	none
+Echinococcus vogeli	沃格尔棘球绦虫	 parasite	人体感染主要因误食虫卵或孕节引起，感染后首先在肝脏引起泡球蚴病，泡球蚴在肝实质内不断芽生增殖，造成弥漫性炎症和组织坏死。	undetermined	none	none	none	none	none	none
+Echinococcus oligarthrus	少节棘球绦虫	 parasite	可导致棘球蚴病	undetermined	none	none	none	none	none	none
+Multiceps multiceps（Taenia multiceps）	多头绦虫	 parasite	主要侵袭脑部，引起脑多头蚴病，也可寄生于眼结膜下，皮下或肌肉等部位。	undetermined	none	none	none	none	none	none
+Hymenolepis nana 	微小膜壳绦虫	 parasite	人体感染后，成虫寄生于小肠，引起微小膜壳绦虫病，轻者无明显症状，重者可出现恶心、呕吐、食欲不振、腹痛、腹泻等。	undetermined	none	none	none	none	none	none
+Hymenolepis diminuta	缩小膜壳绦虫	 parasite	在人体感染较少见，由于人不是其适宜的终宿主，虫体常自动排出。因此，感染者一般无明显症状、或仅有轻微消化道症状和神经系统感染。	undetermined	none	none	none	none	none	none
+Pseudanoplocephala crawfordi	克氏假裸头绦虫	 parasite	感染轻者无明显症状，重者可有腹痛、腹泻、恶心、消瘦和失眠等症状。	undetermined	none	none	none	none	none	none
+Dipylidium caninum	犬复孔绦虫	 parasite	人体感染较少见，感染病例多为婴幼儿，临床表现与感染数量有关，轻者无明显症状，重者尤其是儿童可出现食欲不振、消化不良、腹部不适等。	undetermined	none	none	none	none	none	none
+Raillietina celebensis	西里伯瑞列绦虫	 parasite	感染多见于儿童，感染后多无明显症状，有时可出现腹痛、腹泻、消瘦和荨麻疹等。	undetermined	none	none	none	none	none	none
+Diphyllobothrium	裂头绦虫	 parasite	可导致裂头绦虫病	undetermined	none	none	none	none	none	none
+Bertiella mucronata	古巴柏特绦虫	 parasite	可导致伯特绦虫病	undetermined	none	none	none	none	none	none
+Bertiella studeri	司氏伯特绦虫	 parasite	可导致伯特绦虫病	undetermined	none	none	none	none	none	none
+Strongyloides stercoralis	粪类圆线虫	 parasite	人体感染主要是接触土壤中的丝状蝣所致，丝状蚴经皮肤侵入，可引起皮肤出血点、丘疹，伴有刺痛和痒痛，有时或出现移行性线状荨麻疹。丝状蚴在肺部移行，可引起肺点状出血和炎症细胞浸润，患者出现咳嗽、咳痰、哮喘等。成虫寄生于小肠黏膜内引起黏膜充血为主的卡性肠炎。免疫缺陷患者常导致自身超度感染，幼虫可移行到脑、肝、肺、心脏等器官，引起广泛性损伤。	undetermined	none	none	none	none	none	none
+Rhabditis axei	艾氏小杆线虫	 parasite	侵入人体可寄生在消化系统和泌尿系统，引起艾氏小杆线虫病，侵入消化系统临床表现为腹痛、腹泻等症状；侵入泌尿系统可引起发热、腰痛、血尿、尿频、尿痛等症状。	undetermined	none	none	none	none	none	none
+Ancylostoma duodenale 	十二指肠钩口线虫	 parasite	成虫可寄生于小肠，引起钩虫病，患者常表现为贫血、营养不良、胃肠功能失调等，少数患者出现异嗜症，严重者可导致发育障碍和心功能不全。	undetermined	none	none	none	none	none	none
+Necator americanus	美洲板口线虫	 parasite	成虫可寄生于小肠，引起钩虫病，患者常表现为贫血、营养不良、胃肠功能失调等，少数患者出现异嗜症，严重者可导致发育障碍和心功能不全。	undetermined	none	none	none	none	none	none
+Ancylostoma caninum	犬钩口线虫	 parasite	一般寄生于猫或犬的体内，偶可寄生于人体，危害与十二指肠钩口线虫相同。	undetermined	none	none	none	none	none	none
+Ancylostoma ceylanicum	锡兰钩口线虫	 parasite	一般寄生于猫或犬的体内，偶可寄生于人体，危害与十二指肠钩口线虫相同。	undetermined	none	none	none	none	none	none
+Ancylostoma braziliense	巴西钩口线虫	 parasite	感染期幼虫可侵入人体，可引起皮肤幼虫移行症，但一般不能发育成成虫。	undetermined	none	none	none	none	none	none
+Trichostrongylus orientalis	东方毛圆线虫	 parasite	成虫寄生于小肠，引起东方毛圆线虫病，患者多出现腹痛，严重者可出现贫血及有虫体代谢物引起的毒性反应。	undetermined	none	none	none	none	none	none
+Angiostrongylus cantonensis	广州管圆线虫	 parasite	人体不是广州管圆线虫的正常宿主，故其在人体内停留的是幼虫或成虫早期阶段，幼虫在人体内移行，侵犯中枢神经系统引起嗜酸粒细胞增多性脑膜脑炎或脑膜炎，临床表现为急性剧烈头痛、颈项强直、恶心、呕吐等。	undetermined	none	none	none	none	none	none
+Angiostrongylus costaricensis	哥斯达黎加管圆线虫	 parasite	可导致管圆线虫病	undetermined	none	none	none	none	none	none
+Ascaris lumbricoides	人蛔虫	 parasite	可导致蛔虫病、蛔虫性肺炎	undetermined	none	none	none	none	none	none
+Toxocara canis	犬弓首线虫	 parasite	幼虫能在人体内移行、寄生，引起内脏幼虫移行症和眼幼虫移行症。	undetermined	none	none	none	none	none	none
+Toxocara cati	猫弓蛔虫	 parasite	可导致弓蛔虫病（眼幼虫移行症、内脏幼虫移行症）	undetermined	none	none	none	none	none	none
+Enterobius vermicularis	蠕形住肠线虫	 parasite	简称蛲虫，寄生于回盲部，引起蛲虫病，还可引起尿道炎、阴道炎等。	undetermined	none	none	none	none	none	none
+Enterobius gregorii	格氏蛲虫	 parasite	可导致蛲虫病	undetermined	none	none	none	none	none	none
+Gnathostoma spinigerum	棘颚口线虫	 parasite	第三期幼虫偶可侵入人体，引起棘颚口线虫病，幼虫在组织内移行及虫体的毒素刺激，可引起内脏幼虫移行症。	undetermined	none	none	none	none	none	none
+Gnathostoma hispidum	刚棘颚口线虫	 parasite	可导致颚口线虫病	undetermined	none	none	none	none	none	none
+Gongylonema pulchrum	美丽筒线虫	 parasite	偶可寄生于人体，引起美丽筒线虫病，虫体寄生于口腔，多见于下唇、颊部及齿龈，偶见于鼻粘膜。临床表现为口腔内有虫样蠕动感、异物感或发痒，被寄生部位麻木、肿胀、疼痛等。	undetermined	none	none	none	none	none	none
+Thelazia callipaeda	结膜吸吮线虫	 parasite	偶可寄生于人眼，常见于上下睑穹隆内，亦可见于泪腺、结膜下及皮脂腺管内，常导致患者咽部炎症反应或肉芽肿形成，主要表现为咽部异物感、发痒、畏光、流泪、分泌物增多、眼痛等症状。	undetermined	none	none	none	none	none	none
+Thelazia californiensis	加利福尼亚吸吮线虫	 parasite	nan	undetermined	none	none	none	none	none	none
+Wuchereria bancrofti	班氏吴策线虫	 parasite	成虫寄生于人体淋巴系统，引起淋巴系统的丝虫病，急性期主要出现急性淋巴结炎、淋巴管炎或丹毒样皮炎，还可引起精索炎、附睾炎和睾丸炎，慢性期阻塞病变的最常见体征是象皮肿。	undetermined	none	none	none	none	none	none
+Brugia malayi	马来布鲁线虫	 parasite	成虫寄生于人体淋巴系统，引起淋巴系统的丝虫病，急性期主要出现急性淋巴结炎、淋巴管炎或丹毒样皮炎，还可引起精索炎、附睾炎和睾丸炎，慢性期阻塞病变的最常见体征是象皮肿。	undetermined	none	none	none	none	none	none
+Dracunculus medinensis	麦地那龙线虫	 parasite	患者可出现荨麻疹、局部皮肤水肿和腹泻、发热、头晕、恶心等全身症状，局部皮肤出现条索状硬结和肿块，继而出现丘疹、水疱、脓疱、蜂窝织炎、脓肿、溃疡等。	undetermined	none	none	none	none	none	none
+Trichinella spiralis	旋毛形线虫	 parasite	患者主要表现为在急性期有发热、眼睑水肿、皮疹等过敏反应，继而出现肌肉剧烈疼痛、四肢酸困乏力等症状，重症患者可因并发症而死亡。	undetermined	none	none	none	none	none	none
+Trichinella britovi	布氏旋毛虫	 parasite	可导致旋毛虫病	undetermined	none	none	none	none	none	none
+Trichinella nelsoni	纳氏旋毛虫	 parasite	可导致旋毛虫病	undetermined	none	none	none	none	none	none
+Trichinella nativa	本地旋毛虫	 parasite	可导致旋毛虫病	undetermined	none	none	none	none	none	none
+Trichuris trichiura	毛首鞭形线虫	 parasite	寄生于人体盲肠，可导致肠壁黏膜组织充血、水肿或点状出血，感染轻的患者一般无明显症状，严重者可出现腹痛、腹泻以及大便潜血等症状。	undetermined	none	none	none	none	none	none
+Trichuris vulpis	狐毛首线虫	 parasite	可导致鞭虫病	undetermined	none	none	none	none	none	none
+Capillaria hepatica 	肝毛细线虫	 parasite	偶尔感染人，引起肝毛细线虫病，患者可出现发热、肝脾大、嗜酸粒细胞增多、白细胞增多及高丙种球蛋白血症、低血红蛋白性血症等。	undetermined	none	none	none	none	none	none
+Capillaria philippinensis	菲律宾毛线虫	 parasite	可导致肠道毛细线虫病	undetermined	none	none	none	none	none	none
+Capillaria aerophila	嗜气毛细线虫	 parasite	可导致肺毛细线虫病	undetermined	none	none	none	none	none	none
+Dioctophyme renale	肾膨结线虫	 parasite	寄生于肾，引起肾膨结线虫病，导致肾增大、肾盂背部有骨质板形成、肾小球和肾盂黏膜乳头变性等，患者主要表现为腰痛、肾绞痛、反复血尿、尿频，并可继发肾盂肾炎、肾结石、肾功能障碍等。	undetermined	none	none	none	none	none	none
+Loa loa filaria	罗阿丝虫	 parasite	可导致卡拉巴丝虫肿、丝虫病	undetermined	none	none	none	none	none	none
+Onchocerca volvulus	盘尾丝虫	 parasite	可导致盘尾丝虫病（河盲症）	undetermined	none	none	none	none	none	none
+Anaplasma 	边虫	 parasite	可导致边虫病	undetermined	none	none	none	none	none	none
+Anisakis	异尖线虫	 parasite	可导致异尖线虫病	undetermined	none	none	none	none	none	none
+Baylisascaris	蛔虫	 parasite	nan	undetermined	none	none	none	none	none	none
+Baylisascaris procyonis	浣熊拜林蛔线虫	 parasite	可导致浣熊拜林蛔线虫病	undetermined	none	none	none	none	none	none
+Blastocystis	芽囊原虫属	 parasite	可导致芽囊原虫病	undetermined	none	none	none	none	none	none
+Echinococcus	包虫	 parasite	可导致包虫病	undetermined	none	none	none	none	none	none
+Filarioidea	丝虫	 parasite	可导致丝虫病	undetermined	none	none	none	none	none	none
+Brugia timori	帝纹丝虫	 parasite	可导致淋巴丝虫病	undetermined	none	none	none	none	none	none
+Mansonella streptocerca	卷尾丝虫	 parasite	可导致曼森线虫病、丝虫病	undetermined	none	none	none	none	none	none
+Ixodidae	硬蜱科	 parasite	可导致局部损伤和炎症反应，有些蜱唾液腺可分泌神经毒素，随唾液进入人体可导致宿主运动神经纤维传导阻滞，造成上行性肌肉麻痹，严重时可导致蜱瘫痪。	undetermined	none	none	none	none	none	none
+Argasidae	软蜱科	 parasite	可导致局部损伤和炎症反应，有些蜱唾液腺可分泌神经毒素，随唾液进入人体可导致宿主运动神经纤维传导阻滞，造成上行性肌肉麻痹，严重时可导致蜱瘫痪。	undetermined	none	none	none	none	none	none
+Sarcoptes scabiei	疥螨	 parasite	寄生于人体皮肤角质层内，导致局部皮肤出现丘疹、水疱及窦道，伴有剧烈瘙痒。	undetermined	none	none	none	none	none	none
+follicle mite（Demodex）	蠕形螨	 parasite	可引起毛囊扩张、毛囊炎、皮脂腺炎症，表现为毛囊粗大、局部皮肤弥漫性潮红等，还可引起睑缘炎、脱发症、外耳道瘙痒等。	undetermined	none	none	none	none	none	none
+flour mite（Acarus siro）	粉螨（粗足粉螨）	 parasite	可引起局部皮肤丘疹、水疱，伴有瘙痒，称慢性炎症或痒谷症。	undetermined	none	none	none	none	none	none
+maggot（Diptera）	蝇蛆（双翅目）	 parasite	幼虫寄生于组织或腔道，引起蝇蛆病。常见的蝇类有麻蝇、金蝇、绿蝇和厕蝇。	undetermined	none	none	none	none	none	none
+Demodex folliculorum	毛囊蠕形螨	 parasite	可导致蠕形螨病	undetermined	none	none	none	none	none	none
+Demodex brevis	皮脂蠕形螨	 parasite	可导致蠕形螨病	undetermined	none	none	none	none	none	none
+Demodex canis	犬蠕形螨	 parasite	可导致蠕形螨病	undetermined	none	none	none	none	none	none
+Trombiculidae	恙螨科	 parasite	恙螨	undetermined	none	none	none	none	none	none
+Oestroidea	狂蝇总科	 parasite	可导致蝇蛆病	undetermined	none	none	none	none	none	none
+Calliphoridae	丽蝇科	 parasite	可导致蝇蛆病	undetermined	none	none	none	none	none	none
+Sarcophagidae	麻蝇科	 parasite	可导致蝇蛆病	undetermined	none	none	none	none	none	none
+Dermatobia hominis	人肤蝇	 parasite	人肤蝇	undetermined	none	none	none	none	none	none
+Tunga	潜蚤	 parasite	寄生于皮下，可引起皮肤继发性感染，形成溃疡，甚至出现足趾坏死，如同一处寄生的潜蚤数量多，可形成蜂窝状溃疡。	undetermined	none	none	none	none	none	none
+Tunga penetrans	穿皮潜蚤	 parasite	沙蚤	undetermined	none	none	none	none	none	none
+Phthiraptera（lice）	虱目	 parasite	虱叮咬吸血后，其唾液可使皮肤产生过敏反应，患处出现丘疹，瘀斑，同时剧痒，搔破后可继发感染。	undetermined	none	none	none	none	none	none
+Pediculus humanus capitis	人头虱	 parasite	可导致头虱病。	undetermined	none	none	none	none	none	none
+Pediculus humanus corporis	人体虱	 parasite	可导致体虱病，Pediculus humanus corporis又称作Pediculus humanus humanus。	undetermined	none	none	none	none	none	none
+Pthirus pubis	耻阴虱	 parasite	主要寄生于会阴部，患处有虫爬感，瘙痒，也可寄生在睫毛，引起眼睑缘炎。	undetermined	none	none	none	none	none	none
+Toxocara canis 	犬弓蛔虫	 parasite	可导致弓蛔虫病（眼幼虫移行症、内脏幼虫移行症）	undetermined	none	none	none	none	none	none
+Rhinosporidium seeberi	鼻孢子虫	 parasite	可导致鼻孢子虫病	undetermined	none	none	none	none	none	none
+Moniliformis moniliformis	念珠棘头虫	 parasite	可导致棘头虫病	undetermined	none	none	none	none	none	none
